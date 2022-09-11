@@ -129,9 +129,9 @@ dmypy.json
 .pyre/
 
 # JSON files
-.json
-.zip
-.gz
+*.json
+*.zip
+*.gz
 
 # Results
-.png
+*.png
