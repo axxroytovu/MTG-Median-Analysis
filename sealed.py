@@ -11,24 +11,24 @@ class kit:
         self.distr = np.array([])
         
     def price_to_index(self, f):
-        return int(np.log(f+1) * 100)
+        return np.round(np.log1p(f) * 100).astype(int)
         
     def index_to_price(self, i):
-        return np.round(np.exp(float(i)/100) - 1, 2)
+        return np.round(self.index_to_price_clean(i), 2)
     
-    def new_index(self, i, j):
-        i_p = self.index_to_price(i)
-        j_p = self.index_to_price(j)
-        return self.price_to_index(i_p + j_p)
+    def index_to_price_clean(self, i):
+        return np.expm1(i/100.0)
         
     def convolve(self, d1, d2):
-        maxlen = self.new_index(len(d1)-1, len(d2)-1)+1
+        indexes = np.indices((len(d2), len(d1)))
+        indexes = self.index_to_price_clean(indexes)
+        indexes = np.sum(indexes, axis=0)
+        indexes = self.price_to_index(indexes)
+        maxlen = np.amax(indexes)+1
         temp = np.zeros(maxlen)
-        for i, v in enumerate(d1):
-            if v:
-                for j, u in enumerate(d2):
-                    if u:
-                        temp[self.new_index(i, j)] += v*u
+        mvalues = np.expand_dims(d1, 0) * np.expand_dims(d2, 1)
+        for i in range(maxlen):
+            temp[i] = np.sum(np.where(indexes==i, mvalues, 0))
         return temp
     
     def add_card(self, price, weight = 1.0):
