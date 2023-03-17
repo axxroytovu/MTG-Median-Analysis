@@ -25,10 +25,8 @@ class kit:
         indexes = np.sum(indexes, axis=0)
         indexes = self.price_to_index(indexes)
         maxlen = np.amax(indexes)+1
-        temp = np.zeros(maxlen)
         mvalues = np.expand_dims(d1, 0) * np.expand_dims(d2, 1)
-        for i in range(maxlen):
-            temp[i] = np.sum(np.where(indexes==i, mvalues, 0))
+        temp = np.array([np.sum(mvalues, where=indexes==i) for i in range(maxlen)])
         return temp
     
     def add_card(self, price, weight = 1.0):
