@@ -4,6 +4,11 @@ import sets.SNC
 import sets.CLB
 import sets._2X2
 import sealed as s_func
+import time
+import tracemalloc
+
+tracemalloc.start()
+start_time = time.time()
 
 def getVal(dictionary, all_keys):
     v = dictionary[all_keys[0]]
@@ -103,5 +108,8 @@ create_boxplots(sealed, ['set', 'rareMythic'], **settings)
 plt.savefig("all_rm.png")
 create_boxplots(sealed, ['set', 'showcase'], **settings)
 plt.savefig("all_showcase.png")
+
+print("memory:", tracemalloc.get_traced_memory())
+print("duration:", time.time() - start_time)
 
 plt.show()

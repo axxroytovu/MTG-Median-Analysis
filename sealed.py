@@ -6,15 +6,37 @@ import ijson
 from tqdm import tqdm
 
 class kit:
+    
     def __init__(self):
         self.distr = np.array([])
+        
+    def price_to_index(self, f):
+        return np.round(np.log1p(f) * 100).astype(int)
+        
+    def index_to_price(self, i):
+        return np.round(self.index_to_price_clean(i), 2)
+    
+    def index_to_price_clean(self, i):
+        return np.expm1(i/100.0)
+        
+    def convolve(self, d1, d2):
+        indexes = np.indices((len(d2), len(d1)))
+        indexes = self.index_to_price_clean(indexes)
+        indexes = np.sum(indexes, axis=0)
+        indexes = self.price_to_index(indexes)
+        maxlen = np.amax(indexes)+1
+        temp = np.zeros(maxlen)
+        mvalues = np.expand_dims(d1, 0) * np.expand_dims(d2, 1)
+        for i in range(maxlen):
+            temp[i] = np.sum(np.where(indexes==i, mvalues, 0))
+        return temp
     
     def add_card(self, price, weight = 1.0):
         if price is None:
             return False
         if weight == 0.0:
             return
-        pid = int(price * 100)
+        pid = self.price_to_index(price)
         if len(self.distr) > pid:
             self.distr[pid] += weight
         else:
@@ -43,7 +65,7 @@ class kit:
         if len(self.distr) == 0:
             self.distr = new_kit.distr
         else:
-            self.distr = np.convolve(self.distr, new_kit.distr)
+            self.distr = self.convolve(self.distr, new_kit.distr)
             
     def normalize(self):
         self.distr /= sum(self.distr)
@@ -55,7 +77,7 @@ class kit:
     def mean(self):
         if len(self.distr) == 0:
             return 0
-        return int(np.sum(self.distr * np.array(range(len(self.distr))))/np.sum(self.distr)) / 100.0
+        return np.round(np.sum(self.distr * np.array([self.index_to_price(x) for x in range(len(self.distr))]))/np.sum(self.distr), 2)
     
     @property
     def median(self):
@@ -66,38 +88,42 @@ class kit:
             check = sum(self.distr)/2.0
             a = np.where(u > check)[0][0]
             b = np.where(u > check - 1)[0][0]
-            return (a+b)/200
-        return np.where(u > sum(self.distr)/2.0)[0][0] / 100.0
+            return (self.index_to_price(a)+self.index_to_price(b))/2
+        return self.index_to_price(np.where(u > sum(self.distr)/2.0)[0][0])
     
     @property
     def mode(self):
         if len(self.distr) == 0:
             return 0
-        return np.argmax(self.distr)/100.0
+        return self.index_to_price(np.argmax(self.distr))
         
     @property
     def max(self):
         if len(self.distr) == 0:
             return 0
-        return len(self.distr)/100.0
+        return self.index_to_price(len(self.distr)-1)
     
     @property
     def min(self):
         if len(self.distr) == 0:
             return 0
-        return np.argwhere(self.distr).squeeze()[0]/100.0
+        return self.index_to_price(np.argwhere(self.distr).squeeze()[0])
     
     @property
     def quartiles(self):
         if len(self.distr) == 0:
             return [0, 0, 0, 0, 0]
         u = np.cumsum(self.distr)/sum(self.distr)
-        q0 = np.where(u > 0.01)[0][0] / 100
-        q1 = np.where(u > 0.25)[0][0] / 100
-        q2 = np.where(u > 0.5)[0][0] / 100
-        q3 = np.where(u > 0.75)[0][0] / 100
-        q4 = np.where(u > 0.99)[0][0] / 100
+        q0 = self.index_to_price(np.where(u > 0.01)[0][0])
+        q1 = self.index_to_price(np.where(u > 0.25)[0][0])
+        q2 = self.index_to_price(np.where(u > 0.5)[0][0])
+        q3 = self.index_to_price(np.where(u > 0.75)[0][0])
+        q4 = self.index_to_price(np.where(u > 0.99)[0][0])
         return [q0, q1, q2, q3, q4]
+    
+    @property
+    def prices(self):
+        return [self.index_to_price(x) for x in range(len(self.distr))]
 
 class card:
     def __init__(self, json_in):
