@@ -55,29 +55,29 @@ sealed = {}
 print("SNC")
 sealed["SNC"] = sets.SNC.main(priceJson)
 sealed['SNC']['prices'] = {
-    'draft': {'booster': 3.03, 'box': 83.38},
-    'set': {'booster': 3.96, 'box': 100.65},
-    'collector': {'booster': 16.05, 'box': 139.86}
+    'draft': {'booster': 2.60, 'box': 69.01},
+    'set': {'booster': 3.94, 'box': 87.84},
+    'collector': {'booster': 15.46, 'box': 128.87}
 }
 print("2X2")
 sealed['2X2'] = sets._2X2.main(priceJson)
 sealed['2X2']['prices'] = {
-    'draft': {'booster': 15.49, 'box': 322.66},
-    'collector': {'booster': 82.59, 'box': 316.06}
+    'draft': {'booster': 13.75, 'box': 262.0},
+    'collector': {'booster': 39.99, 'box': 228.0}
 }
 print("STX")
 sealed['STX'] = sets.STX.main(priceJson)
 sealed['STX']['prices'] = {
-    'draft': {'booster': 3.22, 'box': 96.38},
-    'set': {'booster': 3.75, 'box': 97.55},
-    'collector': {'booster': 20.99, 'box': 219.95}
+    'draft': {'booster': 3.37, 'box': 102.9},
+    'set': {'booster': 4.25, 'box': 99.65},
+    'collector': {'booster': 22.44, 'box': 220.0}
 }
 print("CLB")
 sealed['CLB'] = sets.CLB.main(priceJson)
 sealed['CLB']['prices'] = {
-    'draft': {'booster': 4.65, 'box': 86.05},
-    'set': {'booster': 6.55, 'box': 81.04},
-    'collector': {'booster': 19.65, 'box': 177.93}
+    'draft': {'booster': 3.98, 'box': 92.73},
+    'set': {'booster': 5.9, 'box': 80.59},
+    'collector': {'booster': 15.94, 'box': 156.89}
 }
 
 # Set Boosters
