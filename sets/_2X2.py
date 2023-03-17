@@ -10,7 +10,7 @@ def get_card_list(Json_Data):
     # Sheet method
     Cards = {}
 
-    with open("json/2x2.json", 'rb') as f:
+    with open("json/AllSetFiles/2x2.json", 'rb') as f:
         data = ijson.items(f, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading set cards")
@@ -126,7 +126,7 @@ def build_slots(Cards):
     cq.close()
     del(cq)
 
-    with open("json/2x2.json", 'r') as f:
+    with open("json/AllSetFiles/2x2.json", 'r') as f:
         data = ijson.kvitems(f, 'data.booster.default.sheets.dedicatedFoilDoubleMasters.cards')
         dq = tqdm(data)
         dq.set_description("Loading foil weights")

@@ -12,7 +12,7 @@ def get_card_list(Json_Data):
 # Sheet method
     Cards = {}
 
-    with open("json/CLB.json", 'rb') as f:
+    with open("json/AllSetFiles/CLB.json", 'rb') as f:
         data = ijson.items(f, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading set cards")
@@ -62,7 +62,7 @@ def get_card_list(Json_Data):
 
     TheList = pd.read_csv("json/TheList.csv")
 
-    with open("json/PLIST.json", 'rb') as f3:
+    with open("json/AllSetFiles/PLIST.json", 'rb') as f3:
         data = ijson.items(f3, 'data.cards.item')
         validNames = TheList[TheList['CLB List']==1.0]["Name"].values
         dq = tqdm(data)
@@ -240,7 +240,7 @@ def build_slots(Cards):
     
     Slots['foil'] = sealed.kit()
 
-    with open("json/CLB.json", 'r') as f:
+    with open("json/AllSetFiles/CLB.json", 'r') as f:
         data = ijson.kvitems(f, 'data.booster.default.sheets.dedicatedFoil.cards')
         dq = tqdm(data)
         dq.set_description("Loading foil rates")

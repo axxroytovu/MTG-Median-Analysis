@@ -11,7 +11,7 @@ import datetime
 def get_card_list(Json_Data):
     Cards = {}
 
-    with open("json/STX.json", "rb") as f2:
+    with open("json/AllSetFiles/STX.json", "rb") as f2:
         data = ijson.items(f2, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading core set cards")
@@ -42,7 +42,7 @@ def get_card_list(Json_Data):
         dq.close()
         del(dq)
 
-    with open("json/STA.json", "rb") as f2:
+    with open("json/AllSetFiles/STA.json", "rb") as f2:
         data = ijson.items(f2, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading MA cards")
@@ -63,7 +63,7 @@ def get_card_list(Json_Data):
         
     TheList = pd.read_csv("json/TheList.csv")
 
-    with open("json/PLIST.json", 'rb') as f3:
+    with open("json/AllSetFiles/PLIST.json", 'rb') as f3:
         data = ijson.items(f3, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading the list")
@@ -77,7 +77,7 @@ def get_card_list(Json_Data):
         dq.close()
         del(dq)
 
-    with open("json/C21.json", 'rb') as f4:
+    with open("json/AllSetFiles/C21.json", 'rb') as f4:
         data = ijson.items(f4, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading commander cards")
@@ -210,7 +210,7 @@ def build_slots(Cards):
     cq.close()
     del(cq)
 
-    with open("json/STX.json", "rb") as f2:
+    with open("json/AllSetFiles/STX.json", "rb") as f2:
         data = ijson.kvitems(f2, 'data.booster.default.sheets.foil.cards')
         dq = tqdm(data)
         dq.set_description("Loading foil rates")

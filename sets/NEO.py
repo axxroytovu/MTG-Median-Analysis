@@ -12,7 +12,7 @@ import itertools as itr
 def get_card_list(Json_Data):
     Cards = {}
 
-    with open("json/NEO.json", "rb") as f2:
+    with open("json/AllSetFiles/NEO.json", "rb") as f2:
         data = ijson.items(f2, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading core set cards")
@@ -103,32 +103,14 @@ def get_card_list(Json_Data):
 
 def build_slots(Cards):
     Slots = {}
-    Slots["land"] = sealed.kit()
-    Slots["foilLand"] = sealed.kit()
-    Slots["common"] = sealed.kit()
-    Slots["uncommon"] = sealed.kit()
-    Slots["rareMythic"] = sealed.kit()
-    Slots["rareMythicWC"] = sealed.kit()
-    Slots['rawFoil'] = sealed.kit()
-    Slots["art"] = sealed.kit()
-    Slots["setFoil"] = sealed.kit()
-    Slots["showcaseCU"] = sealed.kit()
-    Slots["theList"] = sealed.kit()
-    Slots['theListRaw'] = sealed.kit()
-    Slots["collectorFoilRM"] = sealed.kit()
-    Slots["collectorFoilSCU"] = sealed.kit()
-    Slots["showcaseRM"] = sealed.kit()
-    Slots["extendedCommander"] = sealed.kit()
-    Slots["extendedCore"] = sealed.kit()
-    Slots["foilRareMythic"] = sealed.kit()
-    Slots["showcaseCU"] = sealed.kit()
-    Slots["foilUncommon"] = sealed.kit()
-    Slots["foilCommon"] = sealed.kit()
-    Slots['ukiyoLand'] = sealed.kit()
-    Slots["foilUkiyoLand"] = sealed.kit()
-    Slots["gildedFoils"] = sealed.kit()
-    Slots['boxTopper'] = sealed.kit()
-    Slots['showcase'] = sealed.kit()
+    
+    # draft booster
+    
+    Slots["draft_land"] = sealed.kit()
+    Slots["draft_sf_c"] = sealed.kit()
+    Slots["draft_sf_u"] = sealed.kit()
+    Slots["draft_"]
+    Slots["draft_rm"] = sealed.kit()
     
     showcaseStyles = set(["borderless", "ninja", "samurai", "softGlow", "otherShowcase"])
     rareWeight = {"common": 8, "uncommon": 4, "rare": 2, "mythic": 1}

@@ -7,8 +7,11 @@ import sealed as s_func
 import time
 import tracemalloc
 
-tracemalloc.start()
-start_time = time.time()
+performance_meter = False
+
+if performance_meter:
+    tracemalloc.start()
+    start_time = time.time()
 
 def getVal(dictionary, all_keys):
     v = dictionary[all_keys[0]]
@@ -50,6 +53,11 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
     ax.bxp(boxes, showfliers=True)
     plt.xticks(rotation=45)
     plt.yscale(yscale)
+    plt.xlabel('Set')
+    if norm:
+        plt.ylabel('Relative Value [roi]')
+    else:
+        plt.ylabel('Value [$]')
     plt.grid()
     plt.tight_layout()
 
@@ -109,7 +117,8 @@ plt.savefig("all_rm.png")
 create_boxplots(sealed, ['set', 'showcase'], **settings)
 plt.savefig("all_showcase.png")
 
-print("memory:", tracemalloc.get_traced_memory())
-print("duration:", time.time() - start_time)
+if performance_meter:
+    print("memory:", tracemalloc.get_traced_memory())
+    print("duration:", time.time() - start_time)
 
 plt.show()

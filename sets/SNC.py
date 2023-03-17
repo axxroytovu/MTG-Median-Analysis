@@ -12,7 +12,7 @@ import itertools as itr
 def get_card_list(Json_Data):
     Cards = {}
 
-    with open("json/SNC.json", "rb") as f2:
+    with open("json/AllSetFiles/SNC.json", "rb") as f2:
         data = ijson.items(f2, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading core set cards")
@@ -54,8 +54,8 @@ def get_card_list(Json_Data):
         
     TheList = pd.read_csv("json/TheList.csv")
 
-    with open("json/PLIST.json", 'rb') as f3:
-        with open("json/SLX.json", 'rb') as f4:
+    with open("json/AllSetFiles/PLIST.json", 'rb') as f3:
+        with open("json/AllSetFiles/SLX.json", 'rb') as f4:
             data = ijson.items(f3, 'data.cards.item')
             data2 = ijson.items(f4, 'data.cards.item')
             dq = tqdm(itr.chain(data, data2))
@@ -70,7 +70,7 @@ def get_card_list(Json_Data):
             dq.close()
             del(dq)
 
-    with open("json/NCC.json", 'rb') as f4:
+    with open("json/AllSetFiles/NCC.json", 'rb') as f4:
         data = ijson.items(f4, 'data.cards.item')
         dq = tqdm(data)
         dq.set_description("Reading commander cards")
@@ -205,7 +205,7 @@ def build_slots(Cards):
     cq.close()
     del(cq)
 
-    with open("json/SNC.json", "rb") as f2:
+    with open("json/AllSetFiles/SNC.json", "rb") as f2:
         data = ijson.kvitems(f2, 'data.booster.default.sheets.foil.cards')
         dq = tqdm(data)
         dq.set_description("Loading foil rates")
