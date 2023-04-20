@@ -5,3 +5,4 @@ pandas
 scipy
 tqdm
 pyyaml
+pathlib
