@@ -83,9 +83,7 @@ for file in t:
 			while code2 in codes:
 				code2 = code + "-" + str(n)
 				n += 1
-			else:
-				code = code2
-			p.update({"contents":[], "code": code})
+			p.update({"contents":[], "code": code2})
 			products.append(p)
 t.close
 del(t)
