@@ -181,7 +181,11 @@
   uuid: 7987f0d7-43b4-59c7-80fd-2c34507af71d
 - category: bundle
   code: RNA-bndl-RAB
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 10
+    # MISSING: Bundle land pack
   identifiers:
     tcgplayerProductId: '180736'
   name: Ravnica Allegiance Bundle
@@ -192,7 +196,7 @@
   uuid: 71fc3b4e-27bd-58fe-bd71-1e0a44058964
 - category: box_set
   code: RNA-bset-tkt-RADBT
-  contents: []
+  contents: [] # MISSING: Deck Builder's Toolkit
   identifiers:
     tcgplayerProductId: '180737'
   name: Ravnica Allegiance Deck Builders Toolkit
@@ -203,7 +207,10 @@
   uuid: 8a664a68-a168-50a1-8cac-bcfb569cb6ea
 - category: subset
   code: RNA-sub-plw-RAPDS
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-deck-plw-RAPDD
+    - code: RNA-deck-plw-RAPDD-1
   identifiers:
     tcgplayerProductId: '182132'
   name: Ravnica Allegiance Planeswalker Deck Set of 2
@@ -214,7 +221,12 @@
   uuid: ea34108b-808c-5865-95c8-0b3a9810ef0c
 - category: deck
   code: RNA-deck-plw-RAPDD
-  contents: []
+  contents:
+    deck:
+    - code: rna-plw-domri
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 2
   identifiers:
     tcgplayerProductId: '182133'
   name: Ravnica Allegiance Planeswalker Deck Domri
@@ -225,7 +237,12 @@
   uuid: 03e8c8c4-7557-5da9-9ecd-b41fedd88138
 - category: deck
   code: RNA-deck-plw-RAPDD-1
-  contents: []
+  contents:
+    deck:
+    - code: rna-plw-dovin
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 2
   identifiers:
     tcgplayerProductId: '182134'
   name: Ravnica Allegiance Planeswalker Deck Dovin
@@ -236,7 +253,7 @@
   uuid: 2f9f6ac4-8a94-529c-8a0b-a5dd0e2e141d
 - category: booster_pack
   code: RNA-pack-thm-RATBPA
-  contents: []
+  contents: [] # MISSING theme booster
   identifiers:
     tcgplayerProductId: '183318'
   name: Ravnica Allegiance Theme Booster Pack Azorius
@@ -247,7 +264,7 @@
   uuid: fdd73768-9692-5fe8-b71b-70789e1d4bfe
 - category: booster_pack
   code: RNA-pack-thm-RATBPG
-  contents: []
+  contents: [] # MISSING theme booster
   identifiers:
     tcgplayerProductId: '183319'
   name: Ravnica Allegiance Theme Booster Pack Gruul
@@ -258,7 +275,7 @@
   uuid: 13d6dc8a-0270-558b-a4d7-afdb11a0f987
 - category: booster_pack
   code: RNA-pack-thm-RATBPO
-  contents: []
+  contents: [] # MISSING theme booster
   identifiers:
     tcgplayerProductId: '183320'
   name: Ravnica Allegiance Theme Booster Pack Orzhov
@@ -269,7 +286,7 @@
   uuid: bc9c6437-dc7a-5747-9943-bccdad6c7c2c
 - category: booster_pack
   code: RNA-pack-thm-RATBPR
-  contents: []
+  contents: [] # MISSING theme booster
   identifiers:
     tcgplayerProductId: '183321'
   name: Ravnica Allegiance Theme Booster Pack Rakdos
@@ -280,7 +297,7 @@
   uuid: 2e6998ea-e5ef-566a-a8fd-4957597238cf
 - category: booster_pack
   code: RNA-pack-thm-RATBPS
-  contents: []
+  contents: [] # MISSING theme booster
   identifiers:
     tcgplayerProductId: '183322'
   name: Ravnica Allegiance Theme Booster Pack Simic
@@ -291,7 +308,13 @@
   uuid: 66646c6e-1239-5faf-ba89-e4dd583a6e84
 - category: subset
   code: RNA-sub-thm-RATBPS
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-thm-RATBPS
+    - code: RNA-pack-thm-RATBPR
+    - code: RNA-pack-thm-RATBPO
+    - code: RNA-pack-thm-RATBPG
+    - code: RNA-pack-thm-RATBPA
   identifiers:
     tcgplayerProductId: '183323'
   name: Ravnica Allegiance Theme Booster Pack Set of 5
@@ -302,7 +325,18 @@
   uuid: a4166831-494c-558d-a552-2b4bc2c93e18
 - category: booster_box
   code: RNA-bbox-thm-RATBDB
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-thm-RATBPS
+      count: 2
+    - code: RNA-pack-thm-RATBPR
+      count: 2
+    - code: RNA-pack-thm-RATBPO
+      count: 2
+    - code: RNA-pack-thm-RATBPG
+      count: 2
+    - code: RNA-pack-thm-RATBPA
+      count: 2
   identifiers:
     tcgplayerProductId: '183337'
   name: Ravnica Allegiance Theme Booster Display Box
@@ -314,7 +348,11 @@
   uuid: ed3be2ba-d39f-58d8-a222-10f639db40a1
 - category: prerelease_pack
   code: RNA-pre-RAPPO
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 5
+    # MISSING: seeded booster
   identifiers:
     tcgplayerProductId: '183586'
   name: Ravnica Allegiance Prerelease Pack Orzhov
@@ -325,7 +363,11 @@
   uuid: a0210dab-2dc6-5634-9d26-e17799cbfc18
 - category: prerelease_pack
   code: RNA-pre-RAPPA
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 5
+    # MISSING: seeded booster
   identifiers:
     tcgplayerProductId: '183587'
   name: Ravnica Allegiance Prerelease Pack Azorius
@@ -336,7 +378,11 @@
   uuid: c2655f35-703f-5c4f-9d81-6397a59d19e7
 - category: prerelease_pack
   code: RNA-pre-RAPPG
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 5
+    # MISSING: seeded booster
   identifiers:
     tcgplayerProductId: '183588'
   name: Ravnica Allegiance Prerelease Pack Gruul
@@ -347,7 +393,11 @@
   uuid: a88e15ef-accc-5d00-aeca-594b9e911408
 - category: prerelease_pack
   code: RNA-pre-RAPPS
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 5
+    # MISSING: seeded booster
   identifiers:
     tcgplayerProductId: '183589'
   name: Ravnica Allegiance Prerelease Pack Simic
@@ -358,7 +408,11 @@
   uuid: 7c405c7a-f2bb-5fbe-9e72-a902245a16ab
 - category: prerelease_pack
   code: RNA-pre-RAPPR
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pack-dft-RABP
+      count: 5
+    # MISSING: seeded booster
   identifiers:
     tcgplayerProductId: '183590'
   name: Ravnica Allegiance Prerelease Pack Rakdos
@@ -369,7 +423,13 @@
   uuid: fd0012dc-5489-5438-b092-41ca5a183e53
 - category: prerelease_pack
   code: RNA-pre-RAPPS-1
-  contents: []
+  contents:
+    sealed:
+    - code: RNA-pre-RAPPR
+    - code: RNA-pre-RAPPS
+    - code: RNA-pre-RAPPG
+    - code: RNA-pre-RAPPA
+    - code: RNA-pre-RAPPO
   identifiers:
     tcgplayerProductId: '183591'
   name: Ravnica Allegiance Prerelease Pack Set of 5
@@ -380,7 +440,7 @@
   uuid: 05718a06-a654-5d05-addd-e897c89e5a47
 - category: booster_pack
   code: RNA-pack-col-RACBP
-  contents: []
+  contents: [] # MISSING: RNA collector booster
   identifiers:
     tcgplayerProductId: '184538'
   name: Ravnica Allegiance Collectors Booster Pack
@@ -391,7 +451,10 @@
   uuid: 8b3fb44f-3526-5d3b-a365-b21de897e507
 - category: booster_box
   code: ODY-bbox-dft-OBB
-  contents: []
+  contents:
+    sealed:
+    - code: ODY-pack-dft-OBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27294'
   name: Odyssey Booster Box
@@ -403,7 +466,9 @@
   uuid: 8749fa65-802e-5207-af4c-8027909ad432
 - category: booster_pack
   code: ODY-pack-dft-OBP
-  contents: []
+  contents:
+    pack:
+    - code: ody
   identifiers:
     tcgplayerProductId: '27356'
   name: Odyssey Booster Pack
@@ -414,7 +479,12 @@
   uuid: 2990c4cb-4240-5cb3-8331-541ccb8eafe9
 - category: bundle
   code: ODY-bndl-OFP
-  contents: []
+  contents:
+    sealed:
+    - code: ODY-pack-dft-OBP
+      count: 3
+    # MISSING: Tournament Pack https://www.youtube.com/watch?v=h-TsoefiLW4&ab_channel=oldschoolmtg
+    # MISSING: Additional foil contents https://www.coolstuffinc.com/p/218273
   identifiers:
     tcgplayerProductId: '78323'
   name: Odyssey Fat Pack
@@ -423,6 +493,7 @@
   releaseDate: null
   subtype: ''
   uuid: 70f3facf-4c1b-5254-870f-91eac713aebc
+  # HEAD
 - category: deck
   code: ODY-deck-thm-OTDOTP
   contents: []
