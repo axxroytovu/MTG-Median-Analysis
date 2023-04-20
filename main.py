@@ -65,24 +65,25 @@ priceJson = s_func.get_price_data("json/AllPrices.json")
 
 boosters = []
 
-files_glob = tqdm(glob("json/AllSetFiles/*.json"))
-for file_name in files_glob:
-	with open(file_name, "rb") as f:
-		all_boosters = dict(ijson.kvitems(f, "data.booster"))
-		for type_code, config in all_boosters.items():
-			if "arena" in type_code:
-				continue
-			booster = b_f.build_booster(config, priceJson)
-			set_code = file_name.split("/")[-1][:-5]
-			variant = type_code
-			if variant in ["vip", "premium"]:
-				variant = "collector"
-			boosters.append({"set": set_code, "type": variant, "booster": booster})
-files_glob.close()
-del(files_glob)
+with open("json/sealed_extended_data.json", "rb") as f:
+    all_boosters = list(ijson.items(f, "item"))
+    booster_tqdm = tqdm(all_boosters)
+    for full_config in booster_tqdm:
+        type_code = full_config.get("code")
+        if "arena" in type_code:
+            continue
+        booster = b_f.build_booster(full_config, priceJson)
+        set_code = full_config.get("set_code")
+        if set_code == type_code:
+            variant = "draft"
+        else:
+            variant = "-".join(type_code.split("-")[1:])
+        boosters.append({"set": set_code, "type": variant, "booster": booster})
+    booster_tqdm.close()
+    del(booster_tqdm)
 
 for b in boosters:
-	print(b["set"], b["type"], b["booster"].summary())
+    print(b["set"], b["type"], b["booster"].summary())
 
 if performance_meter:
     print("memory:", tracemalloc.get_traced_memory())
