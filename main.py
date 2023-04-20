@@ -132,8 +132,9 @@ with open("json/decks.json", "rb") as f:
 	del(deck_tqdm)
 
 # Load products
-with open("json/products.yaml", 'rb') as f:
-	products = yaml.safe_load(f)
+for file in glob("sets/*.yaml"):
+	with open(file, 'rb') as f:
+		products.extend(yaml.safe_load(f))
 
 # Build products
 for i in range(3):
