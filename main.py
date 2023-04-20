@@ -63,6 +63,41 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
     plt.grid()
     plt.tight_layout()
 
+def build_product(contents, boosters, decks, sealed):
+	ready = True
+	pack = s_func.kit()
+	if "deck" in contents:
+		for d in contents["deck"]:
+			for i in range(d.get("count", 1)):
+				pack.merge_kit(decks[d["code"]])
+	if "pack" in contents:
+		for p in contents["pack"]:
+			for i in range(p.get("count", 1)):
+				pack.merge_kit(boosters[p["code"]])
+	if "sealed" in contents:
+		for s in contents["sealed"]:
+			if s["code"] not in sealed:
+				ready = False
+				break
+			for i in range(s.get("count", 1)):
+				pack.merge_kit(sealed[s["code"]])
+	if "variable" in contents:
+		p2 = s_func.kit()
+		for version in contents["variable"]:
+			pack = build_product(version, boosters, decks, sealed)
+			if pack:
+				p2.add_set(pack, version.get("count", 1))
+			else:
+				ready = False
+				break
+		p2.normalize()
+		pack.merge_kit(p2)
+	pack.normalize()
+	if ready:
+		return pack
+	else:
+		return False
+	
 
 priceJson = s_func.get_price_data("json/AllPrices.json")
 
@@ -105,24 +140,8 @@ while len(sealed) < len(products):
 	for obj in t:
 		if obj["code"] in sealed:
 			continue
-		ready = True
-		pack = s_func.kit()
-		if "deck" in obj["contents"]:
-			for d in obj["contents"]["deck"]:
-				for i in range(d.get("count", 1)):
-					pack.merge_kit(decks[d["code"]])
-		if "pack" in obj["contents"]:
-			for p in obj["contents"]["pack"]:
-				for i in range(p.get("count", 1)):
-					pack.merge_kit(boosters[p["code"]])
-		if "sealed" in obj["contents"]:
-			for s in obj["contents"]["sealed"]:
-				if s["code"] not in sealed:
-					ready = False
-					break
-				for i in range(s.get("count", 1)):
-					pack.merge_kit(sealed[s["code"]])
-		if ready:
+		pack = build_product(obj["contents"], boosters, decks, sealed)
+		if pack:
 			sealed[obj["code"]] = pack
 		else:
 			print(obj["code"], "skipped")
