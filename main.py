@@ -110,7 +110,7 @@ products = []
 with open("json/sealed_extended_data.json", "rb") as f:
     all_boosters = list(ijson.items(f, "item"))
     booster_tqdm = tqdm(all_boosters)
-    booster_tqdm.set_description("Building booster packs:")
+    booster_tqdm.set_description("Building booster packs")
     for full_config in booster_tqdm:
         type_code = full_config.get("code")
         if "arena" in type_code:
@@ -124,7 +124,7 @@ with open("json/sealed_extended_data.json", "rb") as f:
 with open("json/decks.json", "rb") as f:
 	all_decks = list(ijson.items(f, "item"))
 	deck_tqdm = tqdm(all_decks)
-	deck_tqdm.set_description("Building fixed decks:")
+	deck_tqdm.set_description("Building fixed decks")
 	for config in deck_tqdm:
 		deck = d_f.build_deck(config, priceJson)
 		decks[config["code"]] = deck
@@ -146,8 +146,6 @@ for i in range(3):
 		pack = build_product(obj["contents"], boosters, decks, sealed)
 		if pack:
 			sealed[obj["code"]] = pack
-		else:
-			print(obj["code"], "skipped")
 	t.close()
 	del(t)
 

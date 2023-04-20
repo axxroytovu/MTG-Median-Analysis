@@ -1,6 +1,9 @@
 - category: booster_box
   code: 2ED-bbox-dft-UEBB
-  contents: []
+  contents:
+    sealed:
+    - code: 2ED-pack-dft-UEBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27313'
   name: Unlimited Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: 650a0d9a-9c08-576a-81fc-72150175af77
 - category: booster_pack
   code: 2ED-pack-dft-UEBP
-  contents: []
+  contents:
+    pack:
+    - code: 2ed
   identifiers:
     tcgplayerProductId: '27375'
   name: Unlimited Edition Booster Pack
@@ -23,7 +28,7 @@
   uuid: 6f80d7de-166e-5a73-bfbd-1bde46fbbc26
 - category: deck
   code: 2ED-deck-str-UESD
-  contents: []
+  contents: [] # MISSING: starter deck
   identifiers:
     tcgplayerProductId: '162897'
   name: Unlimited Edition Starter Deck
