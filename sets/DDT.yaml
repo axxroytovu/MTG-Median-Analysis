@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDT-bset-DDMGBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '146998'
+  name: Duel Decks Merfolk vs Goblins Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/98d2e1edc4af8048
+  releaseDate: '2017-11-10'
+  subtype: ''
+  uuid: 10945398-38ba-5926-9e90-6314bf26e4d4

@@ -1,0 +1,158 @@
+- category: booster_box
+  code: MOM-bbox-dft-MMDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475575'
+  name: March of the Machine Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5a91add539605f5e
+  releaseDate: '2023-04-21'
+  subtype: draft
+  uuid: c774c522-693e-56c2-8295-5e24f69c05c8
+- category: case
+  code: MOM-case-dft-MMDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475576'
+  name: March of the Machine Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f1dc373c1be75380
+  releaseDate: '2023-04-21'
+  subtype: draft
+  uuid: c5b8f3b1-3771-578b-8123-a82c0127c8a2
+- category: booster_pack
+  code: MOM-pack-dft-MMDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475577'
+  name: March of the Machine Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1bd1774a2aea6a85
+  releaseDate: '2023-04-21'
+  subtype: draft
+  uuid: 8acde1c9-b392-57c3-a2e4-27f7c1c9ab46
+- category: booster_pack
+  code: MOM-pack-set-MMSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475578'
+  name: March of the Machine Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1c9e00f92367e214
+  releaseDate: '2023-04-21'
+  subtype: set
+  uuid: ffe20569-1726-5abf-921a-7667d2fbe138
+- category: booster_box
+  code: MOM-bbox-set-MMSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475579'
+  name: March of the Machine Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1c45df302b7570c5
+  releaseDate: '2023-04-21'
+  subtype: set
+  uuid: e94cfe5e-3556-5a3e-828b-064bf58e24bb
+- category: case
+  code: MOM-case-MMSBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475580'
+  name: March of the Machine Set Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e5df9bf5fe85be7e
+  releaseDate: '2023-04-21'
+  subtype: ''
+  uuid: 4419ea33-acee-5c10-a6b2-b76816aa345b
+- category: booster_pack
+  code: MOM-pack-jmp-MMJBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475581'
+  name: March of the Machine Jumpstart Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f6dc727ec55d8042
+  releaseDate: '2023-04-21'
+  subtype: jumpstart
+  uuid: 04d0a394-54ed-5d72-9f85-5a665a740d32
+- category: booster_box
+  code: MOM-bbox-jmp-MMJBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475582'
+  name: March of the Machine Jumpstart Booster Display
+  productSize: 18
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/43788bdbef912319
+  releaseDate: '2023-04-21'
+  subtype: jumpstart
+  uuid: 7493c84b-2939-502f-810c-e7c27e71dad8
+- category: booster_pack
+  code: MOM-pack-col-MMCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475583'
+  name: March of the Machine Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/febb6e801a39983c
+  releaseDate: '2023-04-21'
+  subtype: collector
+  uuid: 78441b62-b849-5262-a30f-9039ac252373
+- category: booster_box
+  code: MOM-bbox-col-MMCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475584'
+  name: March of the Machine Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/50154c625d668a9b
+  releaseDate: '2023-04-21'
+  subtype: collector
+  uuid: 0162532a-2778-5101-adf4-018aa15bd855
+- category: case
+  code: MOM-case-col-MMCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475585'
+  name: March of the Machine Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f364b819c3a628fc
+  releaseDate: '2023-04-21'
+  subtype: collector
+  uuid: 85bd6df1-78e7-5131-aeab-f59ddbd4e54a
+- category: bundle
+  code: MOM-bndl-MMB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475586'
+  name: March of the Machine Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/37f3b79445892f29
+  releaseDate: '2023-04-21'
+  subtype: ''
+  uuid: 9ae9feb8-beb6-51ce-be04-4e6c641f9fe1
+- category: case
+  code: MOM-case-MMBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475587'
+  name: March of the Machine Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/beb2db76a3665775
+  releaseDate: '2023-04-21'
+  subtype: ''
+  uuid: 1f44c701-d6d4-55a8-a2ea-0281d8672ed3
+- category: prerelease_pack
+  code: MOM-pre-MMPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '475588'
+  name: March of the Machine Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fcb58c76e4371073
+  releaseDate: '2023-04-21'
+  subtype: ''
+  uuid: ea7e13c0-2ebb-58c5-b578-7c07c3e42e4b

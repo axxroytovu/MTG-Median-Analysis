@@ -1,0 +1,166 @@
+- category: booster_pack
+  code: MBS-pack-dft-MBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39108'
+  name: Mirrodin Besieged Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/69cf1c0e983c2046
+  releaseDate: null
+  subtype: draft
+  uuid: ba83ed00-67f1-523d-94be-831d0dd950ad
+- category: booster_box
+  code: MBS-bbox-dft-MBBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39109'
+  name: Mirrodin Besieged Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e2f7dce36ce3c216
+  releaseDate: null
+  subtype: draft
+  uuid: 42770c14-3179-5998-bff9-2d6bc5500299
+- category: case
+  code: MBS-case-MBBBCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39114'
+  name: Mirrodin Besieged Booster Box Case 6 Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5270ba406a4501c2
+  releaseDate: null
+  subtype: ''
+  uuid: 75c068d3-0025-54de-8314-00f33ca60dbb
+- category: deck
+  code: MBS-deck-intr-MBAIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39115'
+  name: Mirrodin Besieged All 4 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1269eef7a8608edd
+  releaseDate: null
+  subtype: intro
+  uuid: fc5705e2-e2b5-5b81-8667-573c54d408ee
+- category: deck
+  code: MBS-deck-intr-MBIPBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39116'
+  name: Mirrodin Besieged Intro Pack Battle Cries
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ccd8a28a6de77904
+  releaseDate: null
+  subtype: intro
+  uuid: 08ca0575-21ab-5a3f-b8f6-ce6a5dc9d7f5
+- category: deck
+  code: MBS-deck-intr-MBIPPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39117'
+  name: Mirrodin Besieged Intro Pack Path of Blight
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e79cc838bbc524b8
+  releaseDate: null
+  subtype: intro
+  uuid: 16df58bd-99a1-5f57-a66e-0de5dc360769
+- category: deck
+  code: MBS-deck-intr-MBIPM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39118'
+  name: Mirrodin Besieged Intro Pack Mirromancy
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9554e52b223d15a1
+  releaseDate: null
+  subtype: intro
+  uuid: 497ec52e-f232-57f8-acce-74310d128ea6
+- category: deck
+  code: MBS-deck-intr-MBIPDI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39119'
+  name: Mirrodin Besieged Intro Pack Doom Inevitable
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b09a8c3d68ad1c6a
+  releaseDate: null
+  subtype: intro
+  uuid: fc4e8ac6-b8dc-5ec3-b113-dd8e1e02221c
+- category: bundle
+  code: MBS-bndl-MBFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39120'
+  name: Mirrodin Besieged Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8b9618b781ba6632
+  releaseDate: null
+  subtype: ''
+  uuid: 085408f3-eb28-504d-a834-ea12dd98e9a2
+- category: booster_pack
+  code: MBS-pack-dft-MBMFBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '72025'
+  name: Mirrodin Besieged Mirran Faction Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aadb0b75b1946abe
+  releaseDate: null
+  subtype: draft
+  uuid: 7ad8e6d2-bdd1-5663-bbca-b38b32581b5a
+- category: booster_pack
+  code: MBS-pack-dft-MBPFBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '72026'
+  name: Mirrodin Besieged Phyrexian Faction Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03e223136b6841e6
+  releaseDate: null
+  subtype: draft
+  uuid: a2124d73-1822-5b99-8724-e1b36dd695f5
+- category: prerelease_pack
+  code: MBS-pre-MBPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '117598'
+  name: Mirrodin Besieged Prerelease Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2f8d0c0789313bab
+  releaseDate: null
+  subtype: ''
+  uuid: 5184ad2a-dec9-52c6-af68-d3038a96b7b6
+- category: deck
+  code: MBS-deck-evnt-MBEDIB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141937'
+  name: Mirrodin Besieged Event Deck Into the Breach
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9290f09a36197c49
+  releaseDate: null
+  subtype: event
+  uuid: 3db72a49-4406-52ee-9c79-61e0e2a31707
+- category: deck
+  code: MBS-deck-evnt-MBEDID
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141938'
+  name: Mirrodin Besieged Event Deck Infect and Defile
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/73dfa14f7fa0eb7b
+  releaseDate: null
+  subtype: event
+  uuid: c2b389b9-1d23-500a-ac6a-169497093dcd
+- category: booster_pack
+  code: MBS-pack-dft-MBCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '202956'
+  name: Mirrodin Besieged 6 Card Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/56f2cf6b6f1fb6c8
+  releaseDate: null
+  subtype: draft
+  uuid: 219c0bd0-ba84-5f33-b797-0ccf5fa692c2

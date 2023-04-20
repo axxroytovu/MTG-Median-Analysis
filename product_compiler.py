@@ -58,7 +58,6 @@ subtype_swap = {
 parentPath = Path("json/AllSetfiles/")
 files = parentPath.glob("*.json")
 t = tqdm(files)
-products = []
 codes = set()
 for file in t:
 	'''
@@ -68,6 +67,7 @@ for file in t:
 		for t in types:
 			print(file, "booster:", t)
 	'''
+	products = []
 	with open(file, 'rb') as ifile:
 		sealed_product = list(ijson.items(ifile, "data.sealedProduct.item"))
 		for p in sealed_product:
@@ -86,8 +86,9 @@ for file in t:
 			codes.add(code2)
 			p.update({"contents":[], "code": code2})
 			products.append(p)
+	with open(Path("sets/").joinpath(file.with_suffix(".yaml").name), 'w') as write:
+		yaml.dump(products, write)
 t.close
 del(t)
 
-with open("products.yaml", 'w') as write:
-	yaml.dump(products, write)
+

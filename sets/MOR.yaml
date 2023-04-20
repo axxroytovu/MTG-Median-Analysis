@@ -1,0 +1,78 @@
+- category: booster_box
+  code: MOR-bbox-dft-MBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27292'
+  name: Morningtide Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/84e614c77f7dd705
+  releaseDate: null
+  subtype: draft
+  uuid: f3f48ccf-5ce3-5ba3-9363-3a5723b29971
+- category: booster_pack
+  code: MOR-pack-dft-MBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27354'
+  name: Morningtide Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/87158c0cf6e47ca0
+  releaseDate: null
+  subtype: draft
+  uuid: 86fe9759-a1eb-5a78-a014-531b1b670cde
+- category: bundle
+  code: MOR-bndl-MFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78321'
+  name: Morningtide Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9e721760c57e55d4
+  releaseDate: null
+  subtype: ''
+  uuid: 4f3dade8-afa3-5ff0-ab93-1ee40ffec8f9
+- category: deck
+  code: MOR-deck-thm-MTDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249987'
+  name: Morningtide Theme Deck Battalion
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/065afc6db1da145b
+  releaseDate: null
+  subtype: theme
+  uuid: fd08b94d-c430-51b9-a90e-0b3641815a3e
+- category: deck
+  code: MOR-deck-thm-MTDGR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249988'
+  name: Morningtide Theme Deck Going Rogue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a99b4aa9c0d3e918
+  releaseDate: null
+  subtype: theme
+  uuid: 415016b9-2de0-5d05-8639-2b8ddb55d5c6
+- category: deck
+  code: MOR-deck-thm-MTDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249989'
+  name: Morningtide Theme Deck Shamanism
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/265447ac431d5e3f
+  releaseDate: null
+  subtype: theme
+  uuid: b2da0096-c4e1-5585-8e06-c9d4590f2329
+- category: deck
+  code: MOR-deck-thm-MTDWC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249990'
+  name: Morningtide Theme Deck Warriors Code
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e0ea812e02b5f8d9
+  releaseDate: null
+  subtype: theme
+  uuid: 9551ee44-ac0a-5511-b1a6-e30f4389ebec

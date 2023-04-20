@@ -1,0 +1,34 @@
+- category: booster_box
+  code: IMA-bbox-dft-IMBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '145235'
+  name: Iconic Masters Booster Box
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3f4b767705c6feaf
+  releaseDate: '2017-11-17'
+  subtype: draft
+  uuid: be2ca3e3-0162-5a3b-9805-fcb24b65900f
+- category: booster_pack
+  code: IMA-pack-dft-IMBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '145236'
+  name: Iconic Masters Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4ddd9985b0d8a629
+  releaseDate: '2017-11-17'
+  subtype: draft
+  uuid: fd06409e-509e-594f-81a1-64ebdb34f968
+- category: case
+  code: IMA-case-IMBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '145237'
+  name: Iconic Masters Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c0ae2e1065e0462
+  releaseDate: null
+  subtype: ''
+  uuid: 12a283c0-cfe8-5231-9add-39084e911cb4

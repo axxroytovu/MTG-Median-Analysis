@@ -1,0 +1,44 @@
+- category: box_set
+  code: HOP-bset-plnc-PETD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32800'
+  name: Planechase 2009 Elemental Thunder Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f12873c5b614e5aa
+  releaseDate: null
+  subtype: planechase
+  uuid: 002e73ed-c43e-5534-af54-5c003f624413
+- category: box_set
+  code: HOP-bset-plnc-PMDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32801'
+  name: Planechase 2009 Metallic Dreams Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ffca515d110401d0
+  releaseDate: null
+  subtype: planechase
+  uuid: 772490e2-d92a-5006-9ce6-4f8c9e609193
+- category: box_set
+  code: HOP-bset-plnc-PSFD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32802'
+  name: Planechase 2009 Strike Force Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3e915f33d3171f60
+  releaseDate: null
+  subtype: planechase
+  uuid: 24973b04-4961-52de-874e-57103c2a392b
+- category: box_set
+  code: HOP-bset-plnc-PZED
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32803'
+  name: Planechase 2009 Zombie Empire Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0e39b8bc61521df0
+  releaseDate: null
+  subtype: planechase
+  uuid: 0ef01983-2285-5113-9fb6-8ebaf703d2d6

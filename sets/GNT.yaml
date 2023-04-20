@@ -1,0 +1,11 @@
+- category: box_set
+  code: GNT-bset-MGNS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175171'
+  name: Magic Game Night Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6b7637fdf3288f61
+  releaseDate: '2018-11-16'
+  subtype: ''
+  uuid: 4f76d8d7-4ac7-564a-acca-631ad6e298c2

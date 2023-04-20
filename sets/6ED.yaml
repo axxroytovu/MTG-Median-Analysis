@@ -1,0 +1,56 @@
+- category: booster_box
+  code: 6ED-bbox-dft-CSEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27270'
+  name: Classic Sixth Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9b3c3e94f1945763
+  releaseDate: null
+  subtype: draft
+  uuid: 9f80e55a-88d0-59dd-a13f-fe967bd7f5c2
+- category: booster_pack
+  code: 6ED-pack-dft-CSEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27332'
+  name: Classic Sixth Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/59a380d4c55f1954
+  releaseDate: null
+  subtype: draft
+  uuid: 45c579b9-6951-59e1-8d30-f44a600f2a56
+- category: deck
+  code: 6ED-deck-CSETP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118880'
+  name: Classic Sixth Edition Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7775c7a532194b97
+  releaseDate: null
+  subtype: ''
+  uuid: 55e22afb-ad7d-52cd-ab52-056e3a9705b0
+- category: two_player_starter_set
+  code: 6ED-2plr-str-CSETPSD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '184222'
+  name: Classic Sixth Edition Two Player Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bb8f05fbd4bd7164
+  releaseDate: null
+  subtype: starter
+  uuid: 8b18a7df-17b2-557c-bb4d-aa66ad5afd8f
+- category: two_player_starter_set
+  code: 6ED-2plr-str-CSETPSDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '184223'
+  name: Classic Sixth Edition Two Player Starter Deck Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4fb593d2fe8af908
+  releaseDate: null
+  subtype: starter
+  uuid: 0037c738-cbbe-5d56-b4c4-48e30101aa22

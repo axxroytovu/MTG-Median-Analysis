@@ -1,0 +1,11 @@
+- category: box_set
+  code: V09-bset-ftv-FVEBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32809'
+  name: From the Vault Exiled Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1f25d3a183660f92
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: becd1c1c-3db3-5d75-842c-ca25d16e6779

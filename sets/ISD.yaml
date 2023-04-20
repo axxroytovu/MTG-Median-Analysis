@@ -1,0 +1,155 @@
+- category: booster_pack
+  code: ISD-pack-dft-IBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47787'
+  name: Innistrad Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2fe25ee987b855a4
+  releaseDate: null
+  subtype: draft
+  uuid: b1a6cf3f-d005-5dfa-a593-677ca5401563
+- category: bundle
+  code: ISD-bndl-IFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47788'
+  name: Innistrad Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b0911098935d12f5
+  releaseDate: null
+  subtype: ''
+  uuid: 67b41610-4941-50ce-968b-0be5fcc3b663
+- category: booster_pack
+  code: ISD-pack-dft-IBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47789'
+  name: Innistrad 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dc78b9bdf5e8efd1
+  releaseDate: null
+  subtype: draft
+  uuid: b79903bc-c99c-5afb-8f42-722da9fa9cc2
+- category: subset
+  code: ISD-sub-intr-IIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47790'
+  name: Innistrad Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5e2a36ffe6a3f4da
+  releaseDate: null
+  subtype: intro
+  uuid: b5c5e15f-43ad-5a5d-84e0-60f00549b745
+- category: booster_box
+  code: ISD-bbox-dft-IBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47791'
+  name: Innistrad Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/11c63e30150947fc
+  releaseDate: null
+  subtype: draft
+  uuid: c53cf2d7-0d9d-514f-aaf8-2509d47e15d5
+- category: case
+  code: ISD-case-IBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '47792'
+  name: Innistrad Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d13372ff563dc9ae
+  releaseDate: null
+  subtype: ''
+  uuid: 61ca4392-a996-5704-8d02-f3c714a82e9f
+- category: deck
+  code: ISD-deck-intr-IIPSL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56210'
+  name: Innistrad Intro Pack Spectral Legions
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0fe117d3090e8a19
+  releaseDate: null
+  subtype: intro
+  uuid: d9e621bf-a9d3-5568-9097-1f6099a8ea22
+- category: deck
+  code: ISD-deck-intr-IIPEO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56211'
+  name: Innistrad Intro Pack Eldritch Onslaught
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f721997d567fe5f5
+  releaseDate: null
+  subtype: intro
+  uuid: f964f260-ce68-5cdd-8597-561d13f9f6c8
+- category: deck
+  code: ISD-deck-intr-IIPDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56212'
+  name: Innistrad Intro Pack Deathly Dominion
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e080afaafdf6d283
+  releaseDate: null
+  subtype: intro
+  uuid: 04cbee84-5006-5727-a2ff-b8ff25d2c8b8
+- category: deck
+  code: ISD-deck-intr-IIPCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56213'
+  name: Innistrad Intro Pack Carnival of Blood
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/65c78b6231392f27
+  releaseDate: null
+  subtype: intro
+  uuid: 7293f434-d450-57da-aeca-319b0051665a
+- category: deck
+  code: ISD-deck-intr-IIPRD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56214'
+  name: Innistrad Intro Pack Repel the Dark
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a356fe92c4c6a25a
+  releaseDate: null
+  subtype: intro
+  uuid: e790c7f6-314a-5026-bb0c-e085edb102e0
+- category: deck
+  code: ISD-deck-evnt-IEDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56987'
+  name: Innistrad Event Deck Deathfed
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a821eb5ba21d74a1
+  releaseDate: null
+  subtype: event
+  uuid: ced406c1-c393-5955-92bb-8d6ecbca0fd4
+- category: deck
+  code: ISD-deck-evnt-IEDHL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56988'
+  name: Innistrad Event Deck Hold the Line
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7d70f71ba140ffae
+  releaseDate: null
+  subtype: event
+  uuid: 65a22799-9165-5a62-b7f6-1c175b131a24
+- category: subset
+  code: ISD-sub-IEDST
+  contents: []
+  identifiers:
+    tcgplayerProductId: '56989'
+  name: Innistrad Event Deck Set of Two
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b6192358bf033076
+  releaseDate: null
+  subtype: ''
+  uuid: 8457936b-cea2-5055-8882-dde243a5ea05

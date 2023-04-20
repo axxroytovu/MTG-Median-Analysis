@@ -1,0 +1,11 @@
+- category: box_set
+  code: EVG-bset-DDEGBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32805'
+  name: Duel Decks Elves vs Goblins Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2d2ffda625376a9e
+  releaseDate: null
+  subtype: ''
+  uuid: ccab03d8-e989-58d2-9daa-6dc3cf33e64c

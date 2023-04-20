@@ -1,0 +1,23 @@
+- category: booster_box
+  code: VIS-bbox-dft-VBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27317'
+  name: Visions Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ecc022076511adbc
+  releaseDate: null
+  subtype: draft
+  uuid: 7a437ad7-1971-539c-bccc-68344fedb6d6
+- category: booster_pack
+  code: VIS-pack-dft-VBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27379'
+  name: Visions Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/94b0cb796c82316b
+  releaseDate: null
+  subtype: draft
+  uuid: 5a1aeba8-e8b4-543e-b108-93496c417ad4

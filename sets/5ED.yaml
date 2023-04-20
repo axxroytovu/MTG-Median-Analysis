@@ -1,0 +1,56 @@
+- category: booster_box
+  code: 5ED-bbox-dft-FEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27278'
+  name: Fifth Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/80520fd680b5aaf4
+  releaseDate: null
+  subtype: draft
+  uuid: bfe335c8-487a-5e51-a31b-540a723d8024
+- category: booster_pack
+  code: 5ED-pack-dft-FEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27340'
+  name: Fifth Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d1ad54f678f34064
+  releaseDate: null
+  subtype: draft
+  uuid: 93389a2e-9a5e-5ef4-9afe-60898199b905
+- category: deck
+  code: 5ED-deck-str-FESD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '139148'
+  name: Fifth Edition Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8eedfce9938eba36
+  releaseDate: null
+  subtype: starter
+  uuid: ec6e6678-3869-57ab-ab9a-d210e16fbaa9
+- category: deck_box
+  code: 5ED-dbox-str-FESDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '184221'
+  name: Fifth Edition Starter Deck Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c5b49a97f2f7aeae
+  releaseDate: null
+  subtype: starter
+  uuid: 4771c49e-4ef3-5b53-a5e7-79a2cccca037
+- category: two_player_starter_set
+  code: 5ED-2plr-str-FETPSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '232842'
+  name: Fifth Edition Two Player Starter Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ab3cd89e908d7ce2
+  releaseDate: null
+  subtype: starter
+  uuid: b1f3c0a4-01b7-59ee-8145-ca669bb49f40

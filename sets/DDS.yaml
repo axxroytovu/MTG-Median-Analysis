@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDS-bset-DDMMBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '129358'
+  name: Duel Decks Mind vs Might Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/17da8d6cb099ef7f
+  releaseDate: '2017-03-31'
+  subtype: ''
+  uuid: 547514ce-de4b-54e4-a23f-b027641dc442

@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDC-bset-DDDDBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32807'
+  name: Duel Decks Divine vs Demonic Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e411fc22f914fa0e
+  releaseDate: null
+  subtype: ''
+  uuid: 9d58d959-5fc6-56a7-a2db-8898311f0dba

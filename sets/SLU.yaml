@@ -1,0 +1,33 @@
+- category: box_set
+  code: SLU-bset-sld-SLUEB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '210718'
+  name: Secret Lair Ultimate Edition Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/25f7d979ac94b61d
+  releaseDate: '2020-06-12'
+  subtype: secret_lair
+  uuid: 15d21c4b-3284-5753-abc2-dfd4608faacc
+- category: box_set
+  code: SLU-bset-sld-SLUEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230386'
+  name: Secret Lair Ultimate Edition 2 Box Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cdc6cd7a6900b0dc
+  releaseDate: null
+  subtype: secret_lair
+  uuid: ea7cd4b5-35cf-5181-a435-b141a26ebd6e
+- category: box_set
+  code: SLU-bset-sld-SLUEBG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230482'
+  name: Secret Lair Ultimate Edition 2 Box Grey
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e49bfaa57ae17a0f
+  releaseDate: null
+  subtype: secret_lair
+  uuid: bf150e2b-244d-5224-b4c1-87973513b0ed

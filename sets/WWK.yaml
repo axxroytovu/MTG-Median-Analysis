@@ -1,0 +1,89 @@
+- category: booster_box
+  code: WWK-bbox-dft-WBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34468'
+  name: Worldwake Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9cf6237bef38fa9a
+  releaseDate: null
+  subtype: draft
+  uuid: cfc1bcb9-021a-5ae7-ba4a-c3cecf0026af
+- category: booster_pack
+  code: WWK-pack-dft-WBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34469'
+  name: Worldwake Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fc5a3b7631a64a81
+  releaseDate: null
+  subtype: draft
+  uuid: d40674d1-34ff-5855-8dad-7718eaa462aa
+- category: bundle
+  code: WWK-bndl-WFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78334'
+  name: Worldwake Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/be41a8cdb8d9ee97
+  releaseDate: null
+  subtype: ''
+  uuid: 56b685e8-e2da-560c-ad7e-1f99a0e88457
+- category: deck
+  code: WWK-deck-intr-WIPF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196796'
+  name: Worldwake Intro Pack Flyover
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aa2401556c6d0901
+  releaseDate: null
+  subtype: intro
+  uuid: fe1fabf5-8294-5a1d-9f00-c554c3087851
+- category: deck
+  code: WWK-deck-intr-WIPRF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196797'
+  name: Worldwake Intro Pack Rapid Fire
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0b885d6cf0c9d65d
+  releaseDate: null
+  subtype: intro
+  uuid: f06ea6a1-ac18-5679-985d-db01539216df
+- category: deck
+  code: WWK-deck-intr-WIPFB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196798'
+  name: Worldwake Intro Pack Fangs of the Bloodchief
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f1a9b4c33ce8ffdc
+  releaseDate: null
+  subtype: intro
+  uuid: 4fd1fa84-5f0c-58c9-a970-58825f08138a
+- category: deck
+  code: WWK-deck-intr-WIPBF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196799'
+  name: Worldwake Intro Pack Brute Force
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c42885fd2ef71bca
+  releaseDate: null
+  subtype: intro
+  uuid: e3bf0b9a-2ef8-58c3-b051-a4cfa6db558d
+- category: deck
+  code: WWK-deck-intr-WIPMR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196800'
+  name: Worldwake Intro Pack Mysterious Realms
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/246d988ac17cbed6
+  releaseDate: null
+  subtype: intro
+  uuid: 1a9e97c4-91bd-5f6b-82b4-d35142da19a1

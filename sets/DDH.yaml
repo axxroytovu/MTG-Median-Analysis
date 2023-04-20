@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDH-bset-DDANBBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '48162'
+  name: Duel Decks Ajani vs Nicol Bolas Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/78f897cae1b9172d
+  releaseDate: null
+  subtype: ''
+  uuid: 5ff74965-10b8-5000-b8a3-ee95e54b64a5

@@ -1,0 +1,69 @@
+- category: booster_pack
+  code: REN-pack-dft-RFBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '182048'
+  name: Renaissance French Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b14abfe6175d705b
+  releaseDate: null
+  subtype: draft
+  uuid: 21e61c60-d9a9-5760-9b1d-2aa1acbbec93
+- category: booster_pack
+  code: REN-pack-dft-RGBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '182049'
+  name: Renaissance German Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1f2b7acd6e1bc7f1
+  releaseDate: null
+  subtype: draft
+  uuid: 9f9d93b9-2314-5886-ad9a-f61da75df04f
+- category: booster_pack
+  code: REN-pack-dft-RIBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '182050'
+  name: Renaissance Italian Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b0e2f87ab2b19614
+  releaseDate: null
+  subtype: draft
+  uuid: 5cd728b8-8e86-53ef-9338-31aa3ac1994e
+- category: booster_box
+  code: REN-bbox-dft-RFBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245970'
+  name: Renaissance French Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0fc3ee8f95a61abc
+  releaseDate: null
+  subtype: draft
+  uuid: 6e38f92c-06cd-5dea-9d1f-f47cb331a2e4
+- category: booster_box
+  code: REN-bbox-dft-RGBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245971'
+  name: Renaissance German Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ac47698415844948
+  releaseDate: null
+  subtype: draft
+  uuid: e7661556-1f6a-5e12-be44-d9e2453f599c
+- category: booster_box
+  code: REN-bbox-dft-RIBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245972'
+  name: Renaissance Italian Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dad7c0207b06cc1e
+  releaseDate: null
+  subtype: draft
+  uuid: 16ab122c-9ad8-5152-8ae6-cc6a74873ffe

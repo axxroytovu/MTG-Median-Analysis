@@ -1,0 +1,122 @@
+- category: booster_box
+  code: OGW-bbox-dft-OGBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110418'
+  name: Oath of the Gatewatch Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/67696da06493d0a6
+  releaseDate: '2016-01-22'
+  subtype: draft
+  uuid: d1d5ff36-b38c-5767-84be-8977e1501c18
+- category: case
+  code: OGW-case-OGBBCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110419'
+  name: Oath of the Gatewatch Booster Box Case 6 Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1dcef29a226a891b
+  releaseDate: '2016-01-22'
+  subtype: ''
+  uuid: 3c7461d3-5435-5b42-af2d-608d0c6d1392
+- category: booster_pack
+  code: OGW-pack-dft-OGBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110420'
+  name: Oath of the Gatewatch Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d315e7364cb89a0a
+  releaseDate: null
+  subtype: draft
+  uuid: a80b98ae-3781-5077-83a9-31907bd528e4
+- category: bundle
+  code: OGW-bndl-OGFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110421'
+  name: Oath of the Gatewatch Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3fa9a3f8182bbeac
+  releaseDate: '2016-01-22'
+  subtype: ''
+  uuid: 325c2832-9a28-51fc-8dd3-989e1a9d4519
+- category: deck
+  code: OGW-deck-intr-OGIPG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110705'
+  name: Oath of the Gatewatch Intro Pack Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1cc6f3420a6fb3fb
+  releaseDate: null
+  subtype: intro
+  uuid: dc3058a2-c1fe-5b95-9bb7-2ddd61e71ba4
+- category: deck
+  code: OGW-deck-intr-OGIPR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110706'
+  name: Oath of the Gatewatch Intro Pack Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c0e59773835ea902
+  releaseDate: null
+  subtype: intro
+  uuid: 589e6407-f867-5ed4-94d0-827266cb4888
+- category: deck
+  code: OGW-deck-intr-OGIPW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110707'
+  name: Oath of the Gatewatch Intro Pack White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5468f7329e4ff482
+  releaseDate: null
+  subtype: intro
+  uuid: db59309e-c457-51f7-8a58-a301ff5256ed
+- category: deck
+  code: OGW-deck-intr-OGIPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110708'
+  name: Oath of the Gatewatch Intro Pack Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6b35b7e4d88f36d3
+  releaseDate: null
+  subtype: intro
+  uuid: 00708407-3f0a-586c-8f3c-50c88e61a703
+- category: deck
+  code: OGW-deck-intr-OGIPB-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110709'
+  name: Oath of the Gatewatch Intro Pack Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/997d5830df466a8c
+  releaseDate: null
+  subtype: intro
+  uuid: 500262d4-48e8-5806-9e9d-63bbb3504e0b
+- category: subset
+  code: OGW-sub-intr-OGIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110710'
+  name: Oath of the Gatewatch Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/142d7e10ccbcd3a1
+  releaseDate: '2016-01-22'
+  subtype: intro
+  uuid: b2aa72ba-bec7-5fb8-b441-4d40210fa1f8
+- category: prerelease_pack
+  code: OGW-pre-OGHPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '111283'
+  name: Oath of the Gatewatch Hedron Prerelease Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2158fb1a4e5e0767
+  releaseDate: null
+  subtype: ''
+  uuid: 594a7416-25df-5557-a23b-c066e449d391

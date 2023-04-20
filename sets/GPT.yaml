@@ -1,0 +1,67 @@
+- category: booster_box
+  code: GPT-bbox-dft-GBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27281'
+  name: Guildpact Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d844221ec013954f
+  releaseDate: null
+  subtype: draft
+  uuid: f5b7f0df-ba24-5a30-9273-fc6b1bf563ed
+- category: booster_pack
+  code: GPT-pack-dft-GBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27343'
+  name: Guildpact Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0075526b513b5641
+  releaseDate: null
+  subtype: draft
+  uuid: 44757677-cf9e-5920-a178-6a4b66acf42e
+- category: bundle
+  code: GPT-bndl-GFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78313'
+  name: Guildpact Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8761f190c0391498
+  releaseDate: null
+  subtype: ''
+  uuid: 1b634d7d-c292-5617-a361-330849141f5a
+- category: deck
+  code: GPT-deck-thm-GTDCO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96340'
+  name: Guildpact Theme Deck Code of the Orzhov
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/113923b80df66236
+  releaseDate: null
+  subtype: theme
+  uuid: 21799486-357f-528f-a4ff-1414ed078bc8
+- category: deck
+  code: GPT-deck-thm-GTDGW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96341'
+  name: Guildpact Theme Deck Gruul Wilding
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/13160240eb870364
+  releaseDate: null
+  subtype: theme
+  uuid: 541b4639-a3f2-5568-ac42-3edc7ef7831f
+- category: deck
+  code: GPT-deck-thm-GTDIG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96342'
+  name: Guildpact Theme Deck Izzet Gizmometry
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8710486c459aca22
+  releaseDate: null
+  subtype: theme
+  uuid: d855b582-c2d0-5b0f-b42a-96a3797ccf38

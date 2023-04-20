@@ -1,0 +1,45 @@
+- category: booster_pack
+  code: MH1-pack-dft-MHBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '185892'
+  name: Modern Horizons Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e240a3c319a0585f
+  releaseDate: '2019-06-13'
+  subtype: draft
+  uuid: 12cb8f8e-4dad-5773-81c1-6309fb2fa154
+- category: booster_box
+  code: MH1-bbox-dft-MHBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '185894'
+  name: Modern Horizons Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/32e960181c7eca4b
+  releaseDate: '2019-06-13'
+  subtype: draft
+  uuid: 9ed117b6-1f95-55f7-9b3c-e747763ef214
+- category: case
+  code: MH1-case-MHBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190885'
+  name: Modern Horizons Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/877af802594d7972
+  releaseDate: '2019-06-13'
+  subtype: ''
+  uuid: 65a8da1d-b3ae-5238-8881-b0eebe9b8d9e
+- category: draft_set
+  code: MH1-dft-dft-MHBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '192628'
+  name: Modern Horizons 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/352f8a864e5127f2
+  releaseDate: null
+  subtype: draft
+  uuid: 78d5661c-ce0f-50c4-8748-ebc1517e6151

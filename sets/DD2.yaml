@@ -1,0 +1,22 @@
+- category: box_set
+  code: DD2-bset-DDJCBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32804'
+  name: Duel Decks Jace vs Chandra Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f4c26a07c4c4f69f
+  releaseDate: null
+  subtype: ''
+  uuid: 21b1d392-f1ef-52c3-a2b4-882563466b90
+- category: box_set
+  code: DD2-bset-DDJCJBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78341'
+  name: Duel Decks Jace vs Chandra Japanese Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/eaa44e52feca7e23
+  releaseDate: null
+  subtype: ''
+  uuid: 1cd5657a-237e-5fc8-99b4-38ca828b2e27

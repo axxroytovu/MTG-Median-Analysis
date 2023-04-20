@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDM-bset-DDJVBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '71895'
+  name: Duel Decks Jace vs Vraska Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7660aea0727f85a
+  releaseDate: '2014-03-14'
+  subtype: ''
+  uuid: 9cfef75e-2b9f-5130-a9ad-550a92f1a0fc

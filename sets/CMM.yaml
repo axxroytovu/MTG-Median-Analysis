@@ -1,0 +1,146 @@
+- category: booster_pack
+  code: CMM-pack-dft-CMDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484923'
+  name: Commander Masters Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/45e3e8b27c7a9b69
+  releaseDate: '2023-08-04'
+  subtype: draft
+  uuid: d03a0e5f-11c7-504a-a486-44179896f770
+- category: booster_box
+  code: CMM-bbox-dft-CMDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484924'
+  name: Commander Masters Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3f1348791edcd399
+  releaseDate: '2023-08-04'
+  subtype: draft
+  uuid: 107555ee-7403-5c44-8d48-9134199427a5
+- category: case
+  code: CMM-case-dft-CMDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484925'
+  name: Commander Masters Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9ee2a95f1616add6
+  releaseDate: '2023-08-04'
+  subtype: draft
+  uuid: 46fdf15b-00d7-517f-ac7c-c694363c82ce
+- category: booster_pack
+  code: CMM-pack-set-CMSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484926'
+  name: Commander Masters Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3e35a2e4bd63fd24
+  releaseDate: '2023-08-04'
+  subtype: set
+  uuid: b9f3d07f-8ad0-5def-8086-e5199e004d4d
+- category: booster_box
+  code: CMM-bbox-set-CMSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484927'
+  name: Commander Masters Set Booster Box
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4e6cccac215779e1
+  releaseDate: '2023-08-04'
+  subtype: set
+  uuid: 53b47cd8-928a-5b9e-9a38-0181d2cd664b
+- category: booster_pack
+  code: CMM-pack-col-CMCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484928'
+  name: Commander Masters Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8b39987d4e4b3840
+  releaseDate: '2023-08-04'
+  subtype: collector
+  uuid: 27cadb89-a295-5ce4-89e1-5854303185db
+- category: booster_box
+  code: CMM-bbox-col-CMCBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484929'
+  name: Commander Masters Collector Booster Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d89aacc995655395
+  releaseDate: '2023-08-04'
+  subtype: collector
+  uuid: b232cd6d-b2fa-5a79-a9d0-f14cf87e77dc
+- category: commander_deck
+  code: CMM-cmr-plw-CMCDPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484930'
+  name: Commander Masters Commander Deck Planeswalker Party
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/16c0c8a089b614de
+  releaseDate: '2023-08-04'
+  subtype: planeswalker
+  uuid: b1dc7b0f-2d84-52cc-85f6-b7498d5132c8
+- category: commander_deck
+  code: CMM-cmr-CMCDEU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484931'
+  name: Commander Masters Commander Deck Eldrazi Unbound
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/95c35ce98a062680
+  releaseDate: '2023-08-04'
+  subtype: ''
+  uuid: 1ee1ed05-d68c-5926-9cda-6f3daf4eb355
+- category: commander_deck
+  code: CMM-cmr-CMCDEE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484932'
+  name: Commander Masters Commander Deck Enduring Enchantments
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b6dea93555f93f08
+  releaseDate: '2023-08-04'
+  subtype: ''
+  uuid: d379fa71-0664-5039-bbe0-e16869de18f5
+- category: commander_deck
+  code: CMM-cmr-CMCDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484933'
+  name: Commander Masters Commander Deck Sliver Swarm
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3ca985b922a4699c
+  releaseDate: '2023-08-04'
+  subtype: ''
+  uuid: 845ceac0-488b-5321-8e8d-f20f5f757b5c
+- category: case
+  code: CMM-case-CMCDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484934'
+  name: Commander Masters Commander Decks Set of 4
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/025004facadb0a34
+  releaseDate: '2023-08-04'
+  subtype: ''
+  uuid: 710554fe-0087-5f2c-bcc3-a1cb98ffb123
+- category: case
+  code: CMM-case-CMSBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '490553'
+  name: Commander Masters Set Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9bdeaaefe242230b
+  releaseDate: '2023-08-04'
+  subtype: ''
+  uuid: a1c2bf61-c308-51fd-8dbe-c9045f0cf49d

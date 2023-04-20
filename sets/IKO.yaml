@@ -1,0 +1,223 @@
+- category: booster_box
+  code: IKO-bbox-dft-ILBBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208273'
+  name: Ikoria Lair of Behemoths Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9495ae9d11656c7c
+  releaseDate: '2020-05-15'
+  subtype: draft
+  uuid: d2d3b770-4a2b-5cb0-8be9-d991dcc14765
+- category: case
+  code: IKO-case-ILBBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208275'
+  name: Ikoria Lair of Behemoths Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/79229e00254e3e39
+  releaseDate: null
+  subtype: ''
+  uuid: 651ce4ab-1ef5-588a-9b9f-89ea351baa31
+- category: booster_pack
+  code: IKO-pack-dft-ILBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208277'
+  name: Ikoria Lair of Behemoths Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/103784fba31cc9e7
+  releaseDate: '2020-05-15'
+  subtype: draft
+  uuid: 8fd6ce9e-1b30-5d92-b78f-f8325d81e832
+- category: bundle
+  code: IKO-bndl-ILBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208278'
+  name: Ikoria Lair of Behemoths Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/79711744af505c25
+  releaseDate: '2020-05-15'
+  subtype: ''
+  uuid: 29290864-bbc9-5877-9bd0-1341d3eed9e0
+- category: booster_box
+  code: IKO-bbox-col-ILBCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208279'
+  name: Ikoria Lair of Behemoths Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/292c59d1bae35dbd
+  releaseDate: null
+  subtype: collector
+  uuid: 86540f0d-b640-50ee-908d-26246661ce12
+- category: booster_pack
+  code: IKO-pack-col-ILBCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208280'
+  name: Ikoria Lair of Behemoths Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/84e0354c8471a34b
+  releaseDate: '2020-05-15'
+  subtype: collector
+  uuid: 7157ede1-21a6-51ec-8fb4-0ca29220f52c
+- category: booster_box
+  code: IKO-bbox-thm-ILBTBDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208282'
+  name: Ikoria Lair of Behemoths Theme Booster Display Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0ba3981a1b463138
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 2148b735-65af-5f5a-9f35-df40fc90f103
+- category: subset
+  code: IKO-sub-thm-ILBTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208283'
+  name: Ikoria Lair of Behemoths Theme Booster Set of 6
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/57cdae67cd656d06
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 46bc4a3a-7dae-5eda-9723-d8d9c1c52997
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208285'
+  name: Ikoria Lair of Behemoths Theme Booster Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/70544bc98d5cd5b9
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 79bf2dc4-f091-5919-902e-0d88e15f14e8
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBB-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208287'
+  name: Ikoria Lair of Behemoths Theme Booster Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8574e38ff0dce319
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: b2df01db-ee9e-5258-9bec-766b75dd304a
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208288'
+  name: Ikoria Lair of Behemoths Theme Booster Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03e379e61442583e
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 185dedaf-b961-5ad3-ade3-1c1b7d55c350
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208289'
+  name: Ikoria Lair of Behemoths Theme Booster Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e438479908fabc45
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 5050fcc4-2d4d-5cdb-8e95-a0c44d1ca0a6
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208290'
+  name: Ikoria Lair of Behemoths Theme Booster White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b568e6031245c450
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: e019c272-33c5-5266-978d-b3de08100a8b
+- category: booster_pack
+  code: IKO-pack-thm-ILBTBM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '212110'
+  name: Ikoria Lair of Behemoths Theme Booster Monsters
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fe8dcb2653a4000c
+  releaseDate: '2020-05-15'
+  subtype: theme
+  uuid: 2a7a9617-635b-501a-bf0a-14b43801eae6
+- category: prerelease_pack
+  code: IKO-pre-ILBPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '212284'
+  name: Ikoria Lair of Behemoths Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/16af1dfbf6baf5b6
+  releaseDate: null
+  subtype: ''
+  uuid: 30686d97-444a-51a9-a39a-f6311ab264a9
+- category: prerelease_pack
+  code: IKO-pre-ILBPPIPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '213397'
+  name: Ikoria Lair of Behemoths Prerelease Pack plus 2 Ikoria Prize Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a47645a9045d445e
+  releaseDate: null
+  subtype: ''
+  uuid: 5798a404-fef8-5978-bf40-ed81c5702afa
+- category: booster_pack
+  code: IKO-pack-tpr-ILBBTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214395'
+  name: Ikoria Lair of Behemoths Box Topper Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5dd36ca9570b5bf5
+  releaseDate: null
+  subtype: topper
+  uuid: 60cb142a-fdc7-58d0-b67c-69a56e88ead1
+- category: booster_pack
+  code: IKO-pack-col-ILBCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249638'
+  name: Ikoria Lair of Behemoths Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/84904864bed46e26
+  releaseDate: null
+  subtype: collector
+  uuid: 8bb2388d-aa52-5a5f-9b7e-35ac51d0830c
+- category: case
+  code: IKO-case-col-ILBCBHPC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249639'
+  name: Ikoria Lair of Behemoths Collector Booster Hanger Pack Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0d5da7ce01be67b7
+  releaseDate: null
+  subtype: collector
+  uuid: 7d372ac4-27c1-5d67-8676-b21eec7059c9
+- category: case
+  code: IKO-case-col-ILBCBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '268993'
+  name: Ikoria Lair of Behemoths Collector Booster Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/76134a732cac9e09
+  releaseDate: null
+  subtype: collector
+  uuid: 36a38911-2989-5fcb-b914-e423d1025eb3

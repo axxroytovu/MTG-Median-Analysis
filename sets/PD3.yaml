@@ -1,0 +1,11 @@
+- category: box_set
+  code: PD3-bset-prem-PDSG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '48163'
+  name: Premium Deck Series Graveborn
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6997bc2f67400e8d
+  releaseDate: null
+  subtype: premium
+  uuid: ab5065bd-1745-5a37-9d58-bd5d1ff7d46b

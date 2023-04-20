@@ -1,0 +1,34 @@
+- category: booster_box
+  code: DBL-bbox-dft-IDFDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '255911'
+  name: Innistrad Double Feature Draft Booster Box
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2b66017bdb81488a
+  releaseDate: '2022-01-28'
+  subtype: draft
+  uuid: fb86724d-25db-5050-bc0a-b160578bb319
+- category: booster_pack
+  code: DBL-pack-dft-IDFDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '255912'
+  name: Innistrad Double Feature Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5beab5f5c87f5fc6
+  releaseDate: '2022-01-28'
+  subtype: draft
+  uuid: 9cb58fb6-2df9-574d-ba20-68ed1e3bec53
+- category: case
+  code: DBL-case-dft-IDFDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '255913'
+  name: Innistrad Double Feature Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/117734c5fe1397aa
+  releaseDate: '2022-01-28'
+  subtype: draft
+  uuid: 56410133-ea8a-5014-828f-cf2d72e4a46f

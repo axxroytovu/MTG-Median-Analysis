@@ -1,0 +1,11 @@
+- category: box_set
+  code: V13-bset-ftv-FVTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70765'
+  name: From the Vault Twenty Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c288d7750b4e5532
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: 6c24be59-990c-5845-8601-47b00461a1e8

@@ -1,0 +1,144 @@
+- category: case
+  code: SOI-case-SIBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112705'
+  name: Shadows over Innistrad Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4fa732bc0afc3431
+  releaseDate: '2016-04-08'
+  subtype: ''
+  uuid: d86f88f0-5071-5dc8-b6e5-6153c7ec8d5d
+- category: booster_box
+  code: SOI-bbox-dft-SIBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112706'
+  name: Shadows over Innistrad Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/22d0d0769c082618
+  releaseDate: '2016-04-08'
+  subtype: draft
+  uuid: 83e2732b-e79e-5ca4-9ad0-764b4b289a7b
+- category: booster_pack
+  code: SOI-pack-dft-SIBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112708'
+  name: Shadows over Innistrad Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2c2b7fb4a4dbe7d3
+  releaseDate: '2016-04-08'
+  subtype: draft
+  uuid: a06fe76f-0b7f-59cc-b2b9-04b4c436df10
+- category: bundle
+  code: SOI-bndl-SIFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112723'
+  name: Shadows over Innistrad Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0e2350909b9a9205
+  releaseDate: '2016-04-08'
+  subtype: ''
+  uuid: d0ff0f5e-a2cc-5b10-950c-917fb455d86b
+- category: box_set
+  code: SOI-bset-tkt-SIDBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112725'
+  name: Shadows over Innistrad Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/025b154d74d4bd82
+  releaseDate: '2016-04-08'
+  subtype: deck_builders_toolkit
+  uuid: 8b577b77-1762-5280-a1b7-d328089a0616
+- category: deck
+  code: SOI-deck-intr-SIIPVTB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112956'
+  name: Shadows over Innistrad Intro Pack Vampiric Thirst B
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/270482dbe0e7d382
+  releaseDate: null
+  subtype: intro
+  uuid: cae59855-57b0-57c6-8845-5771738fdafe
+- category: deck
+  code: SOI-deck-intr-SIIPUSU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112957'
+  name: Shadows over Innistrad Intro Pack Unearthed Secrets U
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c89dd8cb427d4a98
+  releaseDate: null
+  subtype: intro
+  uuid: a4a9120f-a3ca-52a3-bd18-f6d60e51b4c4
+- category: deck
+  code: SOI-deck-intr-SIIPHVG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112958'
+  name: Shadows over Innistrad Intro Pack Horrific Visions G
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5fd923c784136db4
+  releaseDate: null
+  subtype: intro
+  uuid: 11dcb0b6-d1f3-528b-a875-979bbb6aa886
+- category: deck
+  code: SOI-deck-intr-SIIPAFR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112959'
+  name: Shadows over Innistrad Intro Pack Angelic Fury R
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/422152b09ce7ca38
+  releaseDate: null
+  subtype: intro
+  uuid: 96722735-b3ee-5443-b05f-c49deccc0043
+- category: deck
+  code: SOI-deck-intr-SIIPGTW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112960'
+  name: Shadows over Innistrad Intro Pack Ghostly Tide W
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/77eef43aac66dc84
+  releaseDate: null
+  subtype: intro
+  uuid: a09c1ad1-2a0d-5100-af97-7822dce78cea
+- category: subset
+  code: SOI-sub-intr-SIIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '112961'
+  name: Shadows over Innistrad Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/30716bb08b7bea56
+  releaseDate: null
+  subtype: intro
+  uuid: f844f676-78a7-5b31-abf0-20ff446869e3
+- category: prerelease_pack
+  code: SOI-pre-SIPK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116926'
+  name: Shadows over Innistrad Prerelease Kit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd487180a20688ca
+  releaseDate: null
+  subtype: ''
+  uuid: 9736f499-7cd7-55eb-976d-f986154a5008
+- category: bundle
+  code: SOI-bndl-SIGB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118345'
+  name: Shadows over Innistrad Gift Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0ba9dee620d8b898
+  releaseDate: null
+  subtype: ''
+  uuid: 94bd9f26-46fe-551c-9b6a-92d398851f35

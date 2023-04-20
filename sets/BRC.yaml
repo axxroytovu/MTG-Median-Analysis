@@ -1,0 +1,44 @@
+- category: commander_deck
+  code: BRC-cmr-TBWCDUIA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449722'
+  name: The Brothers War Commander Deck Urzas Iron Alliance
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef7a37fcab132b11
+  releaseDate: '2022-11-18'
+  subtype: ''
+  uuid: c145c7a4-4df2-5bdc-8dd7-bf0838be01b6
+- category: commander_deck
+  code: BRC-cmr-TBWCDMBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449723'
+  name: The Brothers War Commander Deck Mishras Burnished Banner
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1e209a004b030326
+  releaseDate: '2022-11-18'
+  subtype: ''
+  uuid: 3c4ada6a-fe92-5672-a49a-4449d839d824
+- category: case
+  code: BRC-case-TBWCDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449724'
+  name: The Brothers War Commander Deck Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9d10c1ab257f1198
+  releaseDate: '2022-11-18'
+  subtype: ''
+  uuid: 74be67c5-8501-5ae1-8e2f-197a0af6e170
+- category: commander_deck
+  code: BRC-cmr-TBWCDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450084'
+  name: The Brothers War Commander Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5b5f03d4076814b0
+  releaseDate: '2022-11-18'
+  subtype: ''
+  uuid: cde0ce8b-eb34-5141-a88a-496c1a92d340

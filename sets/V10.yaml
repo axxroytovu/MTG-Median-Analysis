@@ -1,0 +1,11 @@
+- category: box_set
+  code: V10-bset-ftv-FVRBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77350'
+  name: From the Vault Relics Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6ebc330ddd5975d5
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: 0424d3bd-2f37-5522-a1d1-e0efc0dddedc

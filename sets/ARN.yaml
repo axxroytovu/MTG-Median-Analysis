@@ -1,0 +1,23 @@
+- category: booster_box
+  code: ARN-bbox-dft-ANBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27265'
+  name: Arabian Nights Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c5435a6f1517032
+  releaseDate: null
+  subtype: draft
+  uuid: db1c4496-6eed-53f2-ac3a-af99a220cb9e
+- category: booster_pack
+  code: ARN-pack-dft-ANBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27327'
+  name: Arabian Nights Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fccda170050c6b3a
+  releaseDate: null
+  subtype: draft
+  uuid: 083e15ac-d73e-545d-a47e-2eb2fc32d36d

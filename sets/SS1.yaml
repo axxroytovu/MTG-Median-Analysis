@@ -1,0 +1,11 @@
+- category: box_set
+  code: SS1-bset-spb-SSJBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '162755'
+  name: Signature Spellbook Jace Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9780fc9a39400300
+  releaseDate: null
+  subtype: spellbook
+  uuid: 78db379c-d502-5490-9405-37ee69781b0c

@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDO-bset-DDEKBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96064'
+  name: Duel Decks Elspeth vs Kiora Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7f4828fe09000510
+  releaseDate: null
+  subtype: ''
+  uuid: dd473e4f-cf23-5aec-aea2-204cf5996b6f

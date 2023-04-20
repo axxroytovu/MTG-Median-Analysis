@@ -1,0 +1,99 @@
+- category: box_set
+  code: PMEI-bset-plw-SDCCEXCLUSIVEBPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70795'
+  name: SDCC 2013 EXCLUSIVE Black Planeswalkers Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/024eb744c69bb8be
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 4dedc382-fae7-51cd-b2e2-998a5896b6cc
+- category: box_set
+  code: PMEI-bset-plw-SDCCEBPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '91628'
+  name: SDCC 2014 Exclusive Black Planeswalkers Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/218faaad7ed6830e
+  releaseDate: null
+  subtype: planeswalker
+  uuid: a3dad798-aad3-5506-abbc-4c40f8c2b534
+- category: box_set
+  code: PMEI-bset-plw-SDCCEBPA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '91629'
+  name: SDCC 2014 Exclusive Black Planeswalkers w Axe
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f02ce11781946f92
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 551a0af3-e6a7-5e61-80a5-4adf3f7ee48d
+- category: box_set
+  code: PMEI-bset-plw-SDCCEXCLUSIVEMOBPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101352'
+  name: SDCC 2015 EXCLUSIVE Magic Origins Black Planeswalkers Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9fb9c8e59efcec18
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 36804c43-56da-54e2-9e4d-6db49c41f05b
+- category: box_set
+  code: PMEI-bset-plw-SDCCEXCLUSIVEZPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121360'
+  name: SDCC 2016 EXCLUSIVE Zombie Planeswalker Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03dbb32f00c9bf5f
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 0f9327be-6aa4-5591-b402-84fb74311fa8
+- category: box_set
+  code: PMEI-bset-plw-SDCCEXCLUSIVEPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '139426'
+  name: SDCC 2017 EXCLUSIVE Planeswalker Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fe1309c677246ce4
+  releaseDate: null
+  subtype: planeswalker
+  uuid: e97f0fb0-37bc-560a-ba05-a64879be6358
+- category: box_set
+  code: PMEI-bset-MTGHC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '145878'
+  name: 2017 Magic The Gathering Hascon Collection
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cc6c2cc7414f7767
+  releaseDate: null
+  subtype: ''
+  uuid: 60e154f0-91f2-5145-ae10-67d7c1c051f1
+- category: box_set
+  code: PMEI-bset-plw-SDCCEXCLUSIVEPS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '170787'
+  name: SDCC 2018 EXCLUSIVE Planeswalker Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f65cafd2755588c9
+  releaseDate: null
+  subtype: planeswalker
+  uuid: b22605e6-bb94-5fc3-b231-338f92776aa7
+- category: box_set
+  code: PMEI-bset-SDCCEXCLUSIVEDES
+  contents: []
+  identifiers:
+    tcgplayerProductId: '193826'
+  name: SDCC 2019 EXCLUSIVE Dragons Endgame Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/437635681dbb228b
+  releaseDate: '2019-07-19'
+  subtype: ''
+  uuid: 67ac0039-82db-58f0-9f8b-a7a6bcc979fb

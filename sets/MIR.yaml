@@ -1,0 +1,45 @@
+- category: booster_box
+  code: MIR-bbox-dft-MBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27290'
+  name: Mirage Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1095d01756f935e7
+  releaseDate: null
+  subtype: draft
+  uuid: 226ed8af-59b4-5063-a25a-21cb8d55872a
+- category: booster_pack
+  code: MIR-pack-dft-MBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27352'
+  name: Mirage Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/34070ffb40750e77
+  releaseDate: null
+  subtype: draft
+  uuid: fc64e977-1e91-5da0-804e-09ec7e9d5241
+- category: deck
+  code: MIR-deck-str-MSD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121397'
+  name: Mirage Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6096002025ac5b62
+  releaseDate: null
+  subtype: starter
+  uuid: 96a16e8c-7695-5768-aa9d-f84cc295a5ca
+- category: deck_box
+  code: MIR-dbox-str-MSDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121754'
+  name: Mirage Starter Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f9e586d79a06d742
+  releaseDate: null
+  subtype: starter
+  uuid: ba1fcec0-42d4-5dab-a6c9-81cf49a78f76

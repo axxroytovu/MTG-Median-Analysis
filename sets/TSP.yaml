@@ -1,0 +1,100 @@
+- category: booster_box
+  code: TSP-bbox-dft-TSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27310'
+  name: Time Spiral Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f6584dab379e0540
+  releaseDate: null
+  subtype: draft
+  uuid: fe11a8a2-4bdb-556f-9501-a60a936a7533
+- category: booster_pack
+  code: TSP-pack-dft-TSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27372'
+  name: Time Spiral Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/53fce6a96b5fc0dc
+  releaseDate: null
+  subtype: draft
+  uuid: 9d623fc4-e528-588c-91d6-a4aa340f95ad
+- category: bundle
+  code: TSP-bndl-TSFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78332'
+  name: Time Spiral Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1f5bd7d2fd90dfe6
+  releaseDate: null
+  subtype: ''
+  uuid: 34e2948b-e2e8-5308-b421-334cbea4b9d5
+- category: deck
+  code: TSP-deck-TSTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118877'
+  name: Time Spiral Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aa48f8497622dbe0
+  releaseDate: null
+  subtype: ''
+  uuid: 030eab89-c5f9-575d-940b-a5711cb224e9
+- category: deck
+  code: TSP-deck-thm-TSTDHC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125557'
+  name: Time Spiral Theme Deck Hopes Crusaders
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b4fcf7f74f9a755c
+  releaseDate: null
+  subtype: theme
+  uuid: 83c78deb-2c3f-50a8-a06d-d2630e77f93b
+- category: deck
+  code: TSP-deck-thm-TSTDFWF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125558'
+  name: Time Spiral Theme Deck Fun With Fungus
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b919e4433a40aa64
+  releaseDate: null
+  subtype: theme
+  uuid: c0af4d79-578a-5b7a-a3cb-864643f7f530
+- category: deck
+  code: TSP-deck-thm-TSTDRF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125559'
+  name: Time Spiral Theme Deck Reality Fracture
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/95d1aa8bacde0e81
+  releaseDate: null
+  subtype: theme
+  uuid: 54672a4d-0ef9-538a-b29d-f1b0188930ae
+- category: deck
+  code: TSP-deck-thm-TSTDSE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125560'
+  name: Time Spiral Theme Deck Sliver Evolution
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4877b2579defe0ed
+  releaseDate: null
+  subtype: theme
+  uuid: 2f9c8a80-5e17-5646-8fb9-3ee9bc5044cc
+- category: case
+  code: TSP-case-TSTPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '453053'
+  name: Time Spiral Tournament Pack Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/635c72a1b6d98932
+  releaseDate: null
+  subtype: ''
+  uuid: 6a1adb95-d9c1-559c-b71a-51869605aa19

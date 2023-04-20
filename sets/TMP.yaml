@@ -1,0 +1,78 @@
+- category: booster_box
+  code: TMP-bbox-dft-TBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27308'
+  name: Tempest Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d61399b2ab67ad19
+  releaseDate: null
+  subtype: draft
+  uuid: e00d639c-b8cf-51a2-9eb5-270d1f4685cb
+- category: booster_pack
+  code: TMP-pack-dft-TBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27370'
+  name: Tempest Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/58711aa2ef9b4f8a
+  releaseDate: null
+  subtype: draft
+  uuid: 21b87b9c-d0f2-5a4b-aee7-163c9813a3aa
+- category: deck
+  code: TMP-deck-TTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127433'
+  name: Tempest Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c94bbac0723d9e28
+  releaseDate: null
+  subtype: ''
+  uuid: 364fdc25-afa7-59f2-9978-d7a83006cfc2
+- category: deck
+  code: TMP-deck-thm-TTDDF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236686'
+  name: Tempest Theme Deck Deep Freeze
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8524263ba65bf309
+  releaseDate: null
+  subtype: theme
+  uuid: a05d989b-0281-5d5a-85ac-b1c82c008661
+- category: deck
+  code: TMP-deck-thm-TTDTFR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236687'
+  name: Tempest Theme Deck The Flames of Rath
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f3b56faded09c74d
+  releaseDate: null
+  subtype: theme
+  uuid: 0d77cf61-7a1e-5f84-9c54-3209e57c4e0d
+- category: deck
+  code: TMP-deck-thm-TTDTS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236688'
+  name: Tempest Theme Deck The Slivers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2f07483fef965eb0
+  releaseDate: null
+  subtype: theme
+  uuid: 4a57a3e3-c3ca-5acc-b474-e7a444414499
+- category: deck
+  code: TMP-deck-thm-TTDTS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236689'
+  name: Tempest Theme Deck The Swarm
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8fc60fc0e6d24e01
+  releaseDate: null
+  subtype: theme
+  uuid: a846221e-484e-51a6-973d-7d3a04fff452

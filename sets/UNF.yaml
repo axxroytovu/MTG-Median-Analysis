@@ -1,0 +1,90 @@
+- category: booster_box
+  code: UNF-bbox-dft-UDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275404'
+  name: Unfinity Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1d97a67636060576
+  releaseDate: null
+  subtype: draft
+  uuid: 258c5814-be9e-552b-864f-99eb4f0a26ec
+- category: booster_box
+  code: UNF-bbox-col-UCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275406'
+  name: Unfinity Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8c143fcede99afa5
+  releaseDate: null
+  subtype: collector
+  uuid: c03f8aef-a11d-5669-96f1-6ebfe1c5810b
+- category: booster_pack
+  code: UNF-pack-dft-UDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275408'
+  name: Unfinity Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3e5cc93f6895eae4
+  releaseDate: '2022-10-07'
+  subtype: draft
+  uuid: c9e902a8-2f70-54d5-b8a5-ddc8361df6e5
+- category: booster_pack
+  code: UNF-pack-col-UCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275409'
+  name: Unfinity Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/27634698748ead23
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: 82b12384-1c83-548e-8866-7563857f09b6
+- category: case
+  code: UNF-case-col-UCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275410'
+  name: Unfinity Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e243da21c32d77a1
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: 43ceb8f7-9071-54ec-bae8-752614d39481
+- category: case
+  code: UNF-case-dft-UDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275411'
+  name: Unfinity Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd7b76adb4034d67
+  releaseDate: '2022-10-07'
+  subtype: draft
+  uuid: 3ba29d83-ee34-5200-8c20-9af0df6ddf2f
+- category: booster_pack
+  code: UNF-pack-tpr-UBTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450283'
+  name: Unfinity Box Topper Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/746f8767f7749ce7
+  releaseDate: null
+  subtype: topper
+  uuid: 4d3676f2-0f3e-576f-96df-e416e6a49b70
+- category: draft_set
+  code: UNF-dft-dft-UBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '476061'
+  name: Unfinity 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fd1c60758d671092
+  releaseDate: null
+  subtype: draft
+  uuid: a21ab17e-2537-5d88-833b-5ff400d4a385

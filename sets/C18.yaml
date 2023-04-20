@@ -1,0 +1,55 @@
+- category: case
+  code: C18-case-CS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166596'
+  name: Commander 2018 Set of 4
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/536d039083214627
+  releaseDate: '2018-08-10'
+  subtype: ''
+  uuid: 44370cbe-5606-5676-a57a-00a565fe7d5b
+- category: commander_deck
+  code: C18-cmr-CDEI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '170283'
+  name: Commander 2018 Deck Exquisite Invention
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1b99aa2ea7f5e620
+  releaseDate: '2018-08-10'
+  subtype: ''
+  uuid: 7937d494-ced5-5ae2-b9da-d1fb51d87916
+- category: commander_deck
+  code: C18-cmr-CDNV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '170284'
+  name: Commander 2018 Deck Natures Vengeance
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/799b4fbfd3ed6760
+  releaseDate: '2018-08-10'
+  subtype: ''
+  uuid: 1e88a39d-2545-5473-b7f0-cfebf090e188
+- category: commander_deck
+  code: C18-cmr-CDAE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '170285'
+  name: Commander 2018 Deck Adaptive Enchantment
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cea744f8e445e1c8
+  releaseDate: '2018-08-10'
+  subtype: ''
+  uuid: 94ad89a5-46e6-53aa-bdd1-365e06b66684
+- category: commander_deck
+  code: C18-cmr-CDSR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '170286'
+  name: Commander 2018 Deck Subjective Reality
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/24e7fb3b2b79e9aa
+  releaseDate: '2018-08-10'
+  subtype: ''
+  uuid: 39dc4e69-a9e8-59cf-bbfa-71825cf0b99f

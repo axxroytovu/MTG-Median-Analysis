@@ -1,0 +1,202 @@
+- category: booster_box
+  code: DMU-bbox-dft-DUDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275403'
+  name: Dominaria United Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0fdcb514854a6f46
+  releaseDate: '2022-09-09'
+  subtype: draft
+  uuid: 8233563f-860b-5505-b727-918ca14b1e79
+- category: booster_pack
+  code: DMU-pack-set-DUSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275405'
+  name: Dominaria United Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7766fd58783a1866
+  releaseDate: '2022-09-09'
+  subtype: set
+  uuid: f5f30fc8-0b27-5c44-b9b1-43250ae3ebf1
+- category: booster_pack
+  code: DMU-pack-col-DUCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275407'
+  name: Dominaria United Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6ef1903e963f4559
+  releaseDate: '2022-09-09'
+  subtype: collector
+  uuid: d1dd4fe5-896a-5347-835e-a62367233c66
+- category: booster_box
+  code: DMU-bbox-col-DUCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275412'
+  name: Dominaria United Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/37d66da0f48a2160
+  releaseDate: '2022-09-09'
+  subtype: collector
+  uuid: 014e562b-2a7a-5568-9e23-3c1d217acc5b
+- category: bundle
+  code: DMU-bndl-DUB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275414'
+  name: Dominaria United Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3557f222c3b21b89
+  releaseDate: '2022-09-09'
+  subtype: ''
+  uuid: 2893f4f4-daec-5b4d-b5ce-a4e9444cae84
+- category: prerelease_pack
+  code: DMU-pre-DUPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275422'
+  name: Dominaria United Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/132585bf62069f59
+  releaseDate: '2022-09-09'
+  subtype: ''
+  uuid: cd2e6c5a-207f-54bd-b7ae-443987b30211
+- category: booster_pack
+  code: DMU-pack-jmp-DUJBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275425'
+  name: Dominaria United Jumpstart Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bef9705688bc6fc4
+  releaseDate: '2022-09-09'
+  subtype: jumpstart
+  uuid: 4584305b-2b1a-5ffd-a4b6-16a65d0985f7
+- category: booster_box
+  code: DMU-bbox-jmp-DUJBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275428'
+  name: Dominaria United Jumpstart Booster Display
+  productSize: 18
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5d7453d164af9de0
+  releaseDate: '2022-09-09'
+  subtype: jumpstart
+  uuid: cacc917d-2004-5fdc-bcb3-a403a731195b
+- category: case
+  code: DMU-case-DUBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275429'
+  name: Dominaria United Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5991cea07b13dd9f
+  releaseDate: '2022-09-09'
+  subtype: ''
+  uuid: d530d363-267b-5826-aeeb-b3f56a1e38bb
+- category: booster_box
+  code: DMU-bbox-set-DUSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275430'
+  name: Dominaria United Set Booster Box
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/82550eaaa4017187
+  releaseDate: '2022-09-09'
+  subtype: set
+  uuid: d6ff5fde-2f90-5534-bd13-991dde372dd8
+- category: case
+  code: DMU-case-DUSBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275431'
+  name: Dominaria United Set Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0daafc6e56193946
+  releaseDate: '2022-09-09'
+  subtype: ''
+  uuid: c7a639ca-2c15-585d-bd0b-59ecfdf7546d
+- category: booster_pack
+  code: DMU-pack-dft-DUDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275432'
+  name: Dominaria United Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9eaef4a7c8238f93
+  releaseDate: '2022-09-09'
+  subtype: draft
+  uuid: d01631ef-a954-5feb-b8cc-fdba0d46a80a
+- category: case
+  code: DMU-case-dft-DUDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275433'
+  name: Dominaria United Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d3d07891579b31d8
+  releaseDate: '2022-09-09'
+  subtype: draft
+  uuid: 235ba920-bef0-58c4-9a43-a8206598ddc0
+- category: case
+  code: DMU-case-col-DUCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275434'
+  name: Dominaria United Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b166df9ccee2e1fc
+  releaseDate: '2022-09-09'
+  subtype: collector
+  uuid: dcd6b9fc-146d-5b79-afeb-fce444310ee2
+- category: case
+  code: DMU-case-jmp-DUJBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '275435'
+  name: Dominaria United Jumpstart Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/692c051a2b774af9
+  releaseDate: '2022-09-09'
+  subtype: jumpstart
+  uuid: c305a7ca-6e87-5eaf-a056-05473b86cf71
+- category: booster_pack
+  code: DMU-pack-tpr-DUBTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '286610'
+  name: Dominaria United Box Topper Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c00235b5cf52c85
+  releaseDate: null
+  subtype: topper
+  uuid: 94cea37a-60d8-582e-94b7-375362650017
+- category: booster_pack
+  code: DMU-pack-col-DUCBOP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '287482'
+  name: Dominaria United Collector Booster Omega Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ccbbee3ef9f31219
+  releaseDate: '2022-09-09'
+  subtype: collector
+  uuid: dd1fa232-c9b6-51b2-8912-f7d8df08dc5c
+- category: case
+  code: DMU-case-jmp-TBWJBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449721'
+  name: The Brothers War Jumpstart Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f3ac005b55829484
+  releaseDate: '2022-09-09'
+  subtype: jumpstart
+  uuid: 1f91052f-35da-544f-8bba-cff65dbd3bcf

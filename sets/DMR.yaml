@@ -1,0 +1,68 @@
+- category: booster_box
+  code: DMR-bbox-dft-DRDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449558'
+  name: Dominaria Remastered Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1536a2fe319f169c
+  releaseDate: '2023-01-13'
+  subtype: draft
+  uuid: 34ccf727-55f0-5fb0-9bdc-49b6104fa366
+- category: booster_box
+  code: DMR-bbox-col-DRCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449559'
+  name: Dominaria Remastered Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8f649e07eba0cfe5
+  releaseDate: '2023-01-13'
+  subtype: collector
+  uuid: 2b3e3b7d-ca00-5c38-9c76-5c42b78e44d5
+- category: booster_pack
+  code: DMR-pack-col-DRCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449570'
+  name: Dominaria Remastered Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/88cb82d8986c50ab
+  releaseDate: null
+  subtype: collector
+  uuid: 862c70fb-a657-56ed-8fef-6aad116966b2
+- category: booster_pack
+  code: DMR-pack-dft-DRDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '449571'
+  name: Dominaria Remastered Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6a422b7eafb2867a
+  releaseDate: null
+  subtype: draft
+  uuid: 86657417-b41e-5b7e-96d8-d9a7dd9351d8
+- category: case
+  code: DMR-case-col-DRCBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '455797'
+  name: Dominaria Remastered Collector Booster Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/45d54174bff20178
+  releaseDate: '2023-01-13'
+  subtype: collector
+  uuid: 7968ed1d-8484-5b2b-a1b5-c1df60d63f4d
+- category: case
+  code: DMR-case-dft-DRDBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '455798'
+  name: Dominaria Remastered Draft Booster Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/54fd5fe0c774bd37
+  releaseDate: '2023-01-13'
+  subtype: draft
+  uuid: b183d157-0242-57e8-a984-59ea52fee577

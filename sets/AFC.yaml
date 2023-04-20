@@ -1,0 +1,55 @@
+- category: commander_deck
+  code: AFC-cmr-AFRDRCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238754'
+  name: Adventures in the Forgotten Realms Draconic Rage Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c36ea4d0da3a3d25
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: dabbb9ef-3446-55a2-9f46-488d73c87125
+- category: commander_deck
+  code: AFC-cmr-AFRPPCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238755'
+  name: Adventures in the Forgotten Realms Planar Portal Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9237e5d4db3d88a6
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: b0edf9c6-18bd-508a-a4ae-5b0f489a55a4
+- category: commander_deck
+  code: AFC-cmr-AFRDDCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238757'
+  name: Adventures in the Forgotten Realms Dungeons of Death Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3fd41ab49022643c
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: bff70067-7279-5764-93f8-ba5a2c971539
+- category: commander_deck
+  code: AFC-cmr-AFRACCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238759'
+  name: Adventures in the Forgotten Realms Aura of Courage Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ddee0b6eb4fbb667
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: c90c5b01-4fd3-5269-8a88-81b80b760b29
+- category: commander_deck
+  code: AFC-cmr-AFRCDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238784'
+  name: Adventures in the Forgotten Realms Commander Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/885fc7caaae2e6b8
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: cc4a5f9f-7d04-5b52-a18e-e6fae1c2eab1

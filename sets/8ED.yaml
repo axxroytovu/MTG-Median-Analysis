@@ -1,0 +1,122 @@
+- category: booster_box
+  code: 8ED-bbox-dft-EBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27259'
+  name: 8th Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0aebefab291ff6c7
+  releaseDate: null
+  subtype: draft
+  uuid: bbe7c789-c6a8-5227-b37b-eae13c6a1adb
+- category: booster_pack
+  code: 8ED-pack-dft-EBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27321'
+  name: 8th Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/187ae6e07fff0fa2
+  releaseDate: null
+  subtype: draft
+  uuid: 599d9ec6-ebf6-5d28-b1e4-9447f70e4349
+- category: box_set
+  code: 8ED-bset-EBSCG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '81797'
+  name: 8th Edition Box Set Core Game
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6ebbe2d3541f9641
+  releaseDate: null
+  subtype: ''
+  uuid: 3a675398-aedc-5b64-a08c-61625dbc8106
+- category: deck
+  code: 8ED-deck-thm-ETDE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96325'
+  name: 8th Edition Theme Deck Expulsion
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5905c9a78982a53e
+  releaseDate: null
+  subtype: theme
+  uuid: a138109b-6400-5d7f-8b91-74427a3dcaf9
+- category: deck
+  code: 8ED-deck-thm-ETDHH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96326'
+  name: 8th Edition Theme Deck Heavy Hitters
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c1c4b1674b78459
+  releaseDate: null
+  subtype: theme
+  uuid: 5255e35a-e75e-5751-9951-ce9fbe259782
+- category: deck
+  code: 8ED-deck-thm-ETDLB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96327'
+  name: 8th Edition Theme Deck Life Boost
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/97d92055cacc238c
+  releaseDate: null
+  subtype: theme
+  uuid: d3cdda23-2db0-54b7-8cdb-a4ca465dde81
+- category: deck
+  code: 8ED-deck-thm-ETDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96328'
+  name: 8th Edition Theme Deck Sky Slam
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bb96d4fad49ca1d5
+  releaseDate: null
+  subtype: theme
+  uuid: e1e1a433-31e3-5f05-837e-73776fbda094
+- category: deck
+  code: 8ED-deck-thm-ETDSS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96329'
+  name: 8th Edition Theme Deck Speed Scorch
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/22e0ae726f2066cc
+  releaseDate: null
+  subtype: theme
+  uuid: 35c09062-0ebe-5bc7-b8fa-cffbcf663ae6
+- category: box_set
+  code: 8ED-bset-EBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245974'
+  name: 8th Edition Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9fc326365a675846
+  releaseDate: null
+  subtype: ''
+  uuid: 4ab797ab-73c7-53a9-a573-e9325b2d98c1
+- category: booster_pack
+  code: 8ED-pack-dft-EDGBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '248192'
+  name: 8th Edition Demo Game Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/711542a35ed7dff8
+  releaseDate: null
+  subtype: draft
+  uuid: 15285c25-828b-57f5-9e68-3de2bd9952b6
+- category: booster_pack
+  code: 8ED-pack-adv-EABP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '248193'
+  name: 8th Edition Advanced Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bb92b690e69d1257
+  releaseDate: null
+  subtype: advanced
+  uuid: 7b6c0abc-bf63-5f7b-bce1-455253156fbf

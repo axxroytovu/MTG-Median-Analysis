@@ -1,0 +1,133 @@
+- category: booster_pack
+  code: ALA-pack-dft-SABP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '28639'
+  name: Shards of Alara Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b86d4b44ca7ccc3b
+  releaseDate: null
+  subtype: draft
+  uuid: 53db9568-de5e-5a95-9882-b3b16ad4931c
+- category: booster_box
+  code: ALA-bbox-dft-SABB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '28640'
+  name: Shards of Alara Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/975a24b519eaa891
+  releaseDate: null
+  subtype: draft
+  uuid: 8a7f3a5c-c3b8-5b8c-afa0-8df14e929396
+- category: bundle
+  code: ALA-bndl-SAFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78331'
+  name: Shards of Alara Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a212305172f4f580
+  releaseDate: null
+  subtype: ''
+  uuid: ad5225b6-6422-5fda-8b75-2c0f6bebc655
+- category: deck
+  code: ALA-deck-SATP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118881'
+  name: Shards of Alara Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ec4cf4595430bb5a
+  releaseDate: null
+  subtype: ''
+  uuid: f0fe45b8-af2c-5ff4-9376-85e32cec4172
+- category: case
+  code: ALA-case-prem-SAPFBPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '137060'
+  name: Shards of Alara Premium Foil Booster Pack Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/13f65d5870dbc86f
+  releaseDate: null
+  subtype: premium
+  uuid: c9d68d04-ef6b-5276-8b1e-6e292e4dd49a
+- category: booster_pack
+  code: ALA-pack-prem-SAPFBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '137061'
+  name: Shards of Alara Premium Foil Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9a784094ad5a4992
+  releaseDate: null
+  subtype: premium
+  uuid: 7b26b4e6-bd5a-5e1b-bc1a-e4fa8a132669
+- category: case
+  code: ALA-case-SABBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245883'
+  name: Shards of Alara Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ec92060375291d96
+  releaseDate: null
+  subtype: ''
+  uuid: 78e66168-5c36-5ad1-943e-2cc62e3f8bc6
+- category: deck
+  code: ALA-deck-intr-SAIPBE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '278889'
+  name: Shards of Alara Intro Pack Bant Exalted
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/673022ca3743ebfa
+  releaseDate: null
+  subtype: intro
+  uuid: 080a4cde-840f-5f4f-8dd2-721d57a42bc9
+- category: deck
+  code: ALA-deck-intr-SAIPEA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '278891'
+  name: Shards of Alara Intro Pack Esper Artifice
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e4d3c3caede4dc53
+  releaseDate: null
+  subtype: intro
+  uuid: 4465f07e-3276-5210-a4a7-c41d608370ae
+- category: deck
+  code: ALA-deck-intr-SAIPGU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '278893'
+  name: Shards of Alara Intro Pack Grixis Undead
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/97abc37b449faf8b
+  releaseDate: null
+  subtype: intro
+  uuid: a26ac54c-2f36-5245-a82f-87fd7c84c0f3
+- category: deck
+  code: ALA-deck-intr-SAIPNB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '278895'
+  name: Shards of Alara Intro Pack Naya Behemoths
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d9503d5d8b8d79ef
+  releaseDate: null
+  subtype: intro
+  uuid: 4c711672-8ab4-50e6-863f-03a93d5292ff
+- category: deck
+  code: ALA-deck-intr-SAIPPJ
+  contents: []
+  identifiers:
+    tcgplayerProductId: '278897'
+  name: Shards of Alara Intro Pack Primordial Jund
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5f24f8fc61e6905b
+  releaseDate: null
+  subtype: intro
+  uuid: 4a3ca7c6-f912-54b4-90ab-be34089ff5e0

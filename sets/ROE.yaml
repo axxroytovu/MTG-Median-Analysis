@@ -1,0 +1,122 @@
+- category: booster_box
+  code: ROE-bbox-dft-REBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34678'
+  name: Rise of the Eldrazi Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd251d023364e886
+  releaseDate: null
+  subtype: draft
+  uuid: fe1d561a-3d93-52e8-890d-1d62214830a9
+- category: case
+  code: ROE-case-REBBCBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34679'
+  name: Rise of the Eldrazi Booster Box Case 6 Booster Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ec1a018e86f48ad2
+  releaseDate: null
+  subtype: ''
+  uuid: 11a3a45f-65fa-5de2-a312-cd72b10c49df
+- category: booster_pack
+  code: ROE-pack-dft-REBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34680'
+  name: Rise of the Eldrazi Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ee857bc514d4d085
+  releaseDate: null
+  subtype: draft
+  uuid: c675ae28-5f7f-5362-ba99-5ad074ea2807
+- category: booster_pack
+  code: ROE-pack-dft-REBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34681'
+  name: Rise of the Eldrazi 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f3d04cc15d302a0e
+  releaseDate: null
+  subtype: draft
+  uuid: 4ce6e495-0e34-5d1a-a533-5b74c3c3323d
+- category: bundle
+  code: ROE-bndl-REFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34682'
+  name: Rise of the Eldrazi Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef6691489a2257fa
+  releaseDate: null
+  subtype: ''
+  uuid: 384cd144-0f5a-53ef-a65b-6bfe603b27f2
+- category: subset
+  code: ROE-sub-intr-RESIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34683'
+  name: Rise of the Eldrazi Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0b27db51dbb9b94b
+  releaseDate: null
+  subtype: intro
+  uuid: cc0ce6fb-f548-5152-9b50-cb2acb24c35a
+- category: deck
+  code: ROE-deck-intr-REIPLG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34684'
+  name: Rise of the Eldrazi Intro Pack Levelers Glory
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d84dd7906ccc71f1
+  releaseDate: null
+  subtype: intro
+  uuid: ecbe8663-215c-5e77-8351-8ff3bc7cfac9
+- category: deck
+  code: ROE-deck-intr-REIPLS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34685'
+  name: Rise of the Eldrazi Intro Pack Levelers Scorn
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/99ea3312c02525c3
+  releaseDate: null
+  subtype: intro
+  uuid: 164a186d-f165-53f7-8307-11b4ddd98f6e
+- category: deck
+  code: ROE-deck-intr-REIPIS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34686'
+  name: Rise of the Eldrazi Intro Pack Invading Spawn
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/01ecec79b18b7253
+  releaseDate: null
+  subtype: intro
+  uuid: 32051989-47fa-514e-b27d-454dbe4eca67
+- category: deck
+  code: ROE-deck-intr-REIPEA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34687'
+  name: Rise of the Eldrazi Intro Pack Eldrazi Arisen
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9d6de1836f620922
+  releaseDate: null
+  subtype: intro
+  uuid: 2f42e259-4f51-5809-9fe0-22155fc43ef9
+- category: deck
+  code: ROE-deck-intr-REIPTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '34688'
+  name: Rise of the Eldrazi Intro Pack Totem Power
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6e62050662cc2e47
+  releaseDate: null
+  subtype: intro
+  uuid: 9c3b1039-2cb1-5126-a38d-eaaa89eee750

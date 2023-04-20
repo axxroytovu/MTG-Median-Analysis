@@ -1,0 +1,144 @@
+- category: bundle
+  code: NPH-bndl-NPFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39402'
+  name: New Phyrexia Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/92b978118ac0d2ce
+  releaseDate: null
+  subtype: ''
+  uuid: a806e3df-2e43-5af0-8672-1634f88bd615
+- category: subset
+  code: NPH-sub-intr-NPSIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39403'
+  name: New Phyrexia Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/392ae37a9921194f
+  releaseDate: null
+  subtype: intro
+  uuid: 981e7164-b52d-5b78-a888-af68984e0e4f
+- category: deck
+  code: NPH-deck-intr-NPIPRS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39404'
+  name: New Phyrexia Intro Pack Ravaging Swarm
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4922cc28be98e61a
+  releaseDate: null
+  subtype: intro
+  uuid: 3ddf5d74-e280-537d-b596-fec998fc9d79
+- category: deck
+  code: NPH-deck-intr-NPIPLD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39405'
+  name: New Phyrexia Intro Pack Life for Death
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/83f622cecfe05d75
+  releaseDate: null
+  subtype: intro
+  uuid: a90ca4fd-14e0-571a-a823-f20a4211dcc3
+- category: deck
+  code: NPH-deck-intr-NPIPFF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39406'
+  name: New Phyrexia Intro Pack Feast of Flesh
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/52f1e511fa5cde2b
+  releaseDate: null
+  subtype: intro
+  uuid: e965bc0c-286d-53db-b169-ac1728bc18a3
+- category: deck
+  code: NPH-deck-intr-NPIPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39407'
+  name: New Phyrexia Intro Pack Devouring Skies
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2799d5f6e64ba104
+  releaseDate: null
+  subtype: intro
+  uuid: 3b213ab4-afd0-5a3b-b42a-0720d1aa4c44
+- category: deck
+  code: NPH-deck-intr-NPIPAD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39408'
+  name: New Phyrexia Intro Pack Artful Destruction
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d10ae2d55974a7c8
+  releaseDate: null
+  subtype: intro
+  uuid: 3d19af4b-46f4-5ba0-ada3-e04691e4633e
+- category: booster_pack
+  code: NPH-pack-dft-NPBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39409'
+  name: New Phyrexia Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e184d81f9e529fa9
+  releaseDate: null
+  subtype: draft
+  uuid: 13798a31-0146-563b-aab8-33ae1b104684
+- category: booster_box
+  code: NPH-bbox-dft-NPBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39410'
+  name: New Phyrexia Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dcc3a279e58d3d8b
+  releaseDate: null
+  subtype: draft
+  uuid: 5817bcc1-676b-52ea-8e4a-639673eed9b3
+- category: case
+  code: NPH-case-NPBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '39440'
+  name: New Phyrexia Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd940141a129ad98
+  releaseDate: null
+  subtype: ''
+  uuid: 46593c0a-3a12-5ea1-93b5-fc234cb79a26
+- category: deck
+  code: NPH-deck-evnt-NPEDWA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '42099'
+  name: New Phyrexia Event Deck War of Attrition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4447509083f1057b
+  releaseDate: null
+  subtype: event
+  uuid: 9664a8f2-e9dc-5225-971c-d4775cb26c77
+- category: deck
+  code: NPH-deck-evnt-NPEDRW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '42100'
+  name: New Phyrexia Event Deck Rot from Within
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/977a8df1796cc049
+  releaseDate: null
+  subtype: event
+  uuid: fe5118a1-e1cf-537b-8419-e18fd0afd4c0
+- category: subset
+  code: NPH-sub-NPEDST
+  contents: []
+  identifiers:
+    tcgplayerProductId: '42101'
+  name: New Phyrexia Event Deck Set of Two
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c5fb0093802bcb25
+  releaseDate: null
+  subtype: ''
+  uuid: a7130843-2470-5a4c-aba1-95f8ddcb1832

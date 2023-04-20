@@ -1,0 +1,157 @@
+- category: booster_box
+  code: MH2-bbox-col-MHCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236348'
+  name: Modern Horizons 2 Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1ea6316e70dc45a1
+  releaseDate: '2021-06-18'
+  subtype: collector
+  uuid: 5fe7bbc1-5d83-5e3a-ae79-7381329ca03c
+- category: booster_pack
+  code: MH2-pack-col-MHCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236349'
+  name: Modern Horizons 2 Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/335d5ffb33fa7d79
+  releaseDate: '2021-06-18'
+  subtype: collector
+  uuid: 16d143d9-e957-54bc-8344-87a7ed85666d
+- category: booster_pack
+  code: MH2-pack-set-MHSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236351'
+  name: Modern Horizons 2 Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef50c667fe6cba32
+  releaseDate: '2021-06-18'
+  subtype: set
+  uuid: 1fc1a634-d083-59eb-8194-2e6da14e912e
+- category: booster_box
+  code: MH2-bbox-set-MHSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236353'
+  name: Modern Horizons 2 Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3608d0a1b7dd313b
+  releaseDate: '2021-06-18'
+  subtype: set
+  uuid: 4577a4ee-b413-54b2-a09b-cda6247a9617
+- category: booster_box
+  code: MH2-bbox-dft-MHDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236354'
+  name: Modern Horizons 2 Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2240fc159ea29dda
+  releaseDate: '2021-06-18'
+  subtype: draft
+  uuid: f61277fa-4be0-5efb-b747-256c25586715
+- category: case
+  code: MH2-case-dft-MHDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236355'
+  name: Modern Horizons 2 Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5aeb1ade2c67056d
+  releaseDate: '2021-06-18'
+  subtype: draft
+  uuid: 64e88165-fedb-5c07-a790-13107282fe81
+- category: booster_pack
+  code: MH2-pack-dft-MHDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236356'
+  name: Modern Horizons 2 Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a3159333a2b18fd0
+  releaseDate: '2021-06-18'
+  subtype: draft
+  uuid: ad26d972-c187-5109-ba88-301a89762c34
+- category: prerelease_pack
+  code: MH2-pre-MHPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238648'
+  name: Modern Horizons 2 Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/da9b0b411d647cc5
+  releaseDate: null
+  subtype: ''
+  uuid: 48a731ef-4d0f-51b0-8a07-7d3c0bbc1277
+- category: bundle
+  code: MH2-bndl-MHB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238649'
+  name: Modern Horizons 2 Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a2b0687b12d52d06
+  releaseDate: '2021-06-18'
+  subtype: ''
+  uuid: c359406c-2a39-5781-8705-963aff8181c3
+- category: draft_set
+  code: MH2-dft-dft-MHBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '243550'
+  name: Modern Horizons 2 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a822787b5b299122
+  releaseDate: null
+  subtype: draft
+  uuid: 1836f44e-930a-5506-9e8e-efc4054963fa
+- category: case
+  code: MH2-case-col-MHCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '249163'
+  name: Modern Horizons 2 Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/488e8a19ce96b8bd
+  releaseDate: null
+  subtype: collector
+  uuid: 5e3edfc0-fef5-5456-a83a-615826087deb
+- category: case
+  code: MH2-case-MHSBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '250493'
+  name: Modern Horizons 2 Set Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6daea7370c9448d1
+  releaseDate: null
+  subtype: ''
+  uuid: 3df12945-c159-54aa-a585-80bb01c5ad14
+- category: booster_pack
+  code: MH2-pack-set-MHSBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450089'
+  name: Modern Horizons 2 Set Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0182212732a31a40
+  releaseDate: null
+  subtype: set
+  uuid: 84d9480c-4081-5c49-8c49-8e8f0f42b294
+- category: booster_pack
+  code: MH2-pack-col-MHCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450139'
+  name: Modern Horizons 2 Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/24682a44989acf9e
+  releaseDate: null
+  subtype: collector
+  uuid: 52ab28eb-7953-5b19-bd13-17925c876196

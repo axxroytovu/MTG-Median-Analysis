@@ -1,0 +1,122 @@
+- category: booster_pack
+  code: AKH-pack-dft-ABP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127173'
+  name: Amonkhet Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9e21a8667a4ee68d
+  releaseDate: '2017-04-28'
+  subtype: draft
+  uuid: bdfaa43d-9ebd-502f-856b-11eadc97b026
+- category: booster_box
+  code: AKH-bbox-dft-ABB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127174'
+  name: Amonkhet Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ecbd7160164fcc7e
+  releaseDate: '2017-04-28'
+  subtype: draft
+  uuid: 898e50ab-73ef-514d-94cf-656cb2e647c1
+- category: bundle
+  code: AKH-bndl-AB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127175'
+  name: Amonkhet Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03fa6a6c31d3083c
+  releaseDate: '2017-04-28'
+  subtype: ''
+  uuid: ae0a8ac7-0b9b-5b8e-97eb-a8e166a6753c
+- category: box_set
+  code: AKH-bset-tkt-ADBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127176'
+  name: Amonkhet Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/de09f5138a738fc0
+  releaseDate: null
+  subtype: deck_builders_toolkit
+  uuid: 503118bc-9574-5668-8a76-d04aea7de15f
+- category: case
+  code: AKH-case-ABBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127177'
+  name: Amonkhet Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7d2707f3fd38e188
+  releaseDate: '2017-04-28'
+  subtype: ''
+  uuid: 37548441-9651-53ed-90e0-2b460b616158
+- category: deck
+  code: AKH-deck-plw-APDG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127532'
+  name: Amonkhet Planeswalker Deck Gideon
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fc03627aae091b76
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 54945ed8-387d-5824-a8fa-2eb6971610a0
+- category: deck
+  code: AKH-deck-plw-APDL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127533'
+  name: Amonkhet Planeswalker Deck Liliana
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e45b8f4af28b1067
+  releaseDate: null
+  subtype: planeswalker
+  uuid: d4e272d1-115b-5e97-98e2-39c855ddc0b6
+- category: prerelease_pack
+  code: AKH-pre-APP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127534'
+  name: Amonkhet Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cb2e6ed4acc676b5
+  releaseDate: null
+  subtype: ''
+  uuid: 7dd19880-768a-50ac-bbc4-e089e7ae3212
+- category: subset
+  code: AKH-sub-plw-APDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '131217'
+  name: Amonkhet Planeswalker Deck Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4f2c6c2c4d62b79e
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 81cb351a-34f0-5ed6-b6bc-29049c27a9ab
+- category: land_station
+  code: AKH-land-ALS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215049'
+  name: Amonkhet Land Station
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c30ae40c1075cdec
+  releaseDate: null
+  subtype: ''
+  uuid: ef929aef-4510-5819-bcd8-6313cd4e6399
+- category: two_player_starter_set
+  code: AKH-2plr-bpck-ABBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '217689'
+  name: Amonkhet Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/90dff1dc3eb428ab
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 70800f19-b8c1-5801-8b74-115615edc5d3

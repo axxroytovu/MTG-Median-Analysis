@@ -1,0 +1,199 @@
+- category: booster_box
+  code: THS-bbox-dft-TBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70960'
+  name: Theros Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5fdb1b54dd67ce15
+  releaseDate: null
+  subtype: draft
+  uuid: 048613bd-9745-5132-a7c0-40636e9dd453
+- category: booster_pack
+  code: THS-pack-dft-TBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70961'
+  name: Theros Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/20c9465f2e778ac3
+  releaseDate: null
+  subtype: draft
+  uuid: 7bba9d52-6334-538e-af18-23bda395adb4
+- category: bundle
+  code: THS-bndl-TFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70962'
+  name: Theros Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8a4caaa48bb0f003
+  releaseDate: null
+  subtype: ''
+  uuid: c6e08377-1c47-58e7-9c31-e7c4b091345e
+- category: case
+  code: THS-case-TBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70963'
+  name: Theros Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cf65a9be543c041c
+  releaseDate: null
+  subtype: ''
+  uuid: 02b5250d-c0e5-54da-a6cd-9c307a62030e
+- category: subset
+  code: THS-sub-intr-TSIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70964'
+  name: Theros Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/df9c87c946f2b5ad
+  releaseDate: null
+  subtype: intro
+  uuid: 5b01889a-80de-5d25-b193-00cc51391dc0
+- category: deck
+  code: THS-deck-intr-TIPCA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70980'
+  name: Theros Intro Pack Celestial Archon
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bac69a24a57d50b7
+  releaseDate: null
+  subtype: intro
+  uuid: dc2873bc-7128-5451-a4de-e7983e68810e
+- category: deck
+  code: THS-deck-intr-TIPSK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70981'
+  name: Theros Intro Pack Shipbreaker Kraken
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/413e8fdb69183efa
+  releaseDate: null
+  subtype: intro
+  uuid: 988f4439-bd7e-58eb-958a-80ab87650079
+- category: deck
+  code: THS-deck-intr-TIPAO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70982'
+  name: Theros Intro Pack Abhorrent Overlord
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/17c204ae7a13a3ee
+  releaseDate: null
+  subtype: intro
+  uuid: 6926ed7f-e8be-59c7-8378-44f6fa668f41
+- category: deck
+  code: THS-deck-intr-TIPES
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70983'
+  name: Theros Intro Pack Ember Swallower
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/410bf4802c7d9ebb
+  releaseDate: null
+  subtype: intro
+  uuid: 0c359b38-90de-55e9-a213-0629692eeaf0
+- category: deck
+  code: THS-deck-intr-TIPASH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70984'
+  name: Theros Intro Pack Anthousa Setessan Hero
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e1f38a032522f7ce
+  releaseDate: null
+  subtype: intro
+  uuid: 32e1600c-ae7f-5941-b301-da0a0e0ad3ae
+- category: deck
+  code: THS-deck-evnt-TEDIH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '70986'
+  name: Theros Event Deck Inspiring Heroics
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f4f244dada11bf3d
+  releaseDate: null
+  subtype: event
+  uuid: 94695fd0-265f-5256-81be-95df2e6701df
+- category: deck
+  code: THS-deck-chl-FHCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '72028'
+  name: Face the Hydra Challenge Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/78051ba728f2bd6b
+  releaseDate: null
+  subtype: challenge
+  uuid: 36929178-cbec-5128-98ab-e036d94863d6
+- category: prerelease_pack
+  code: THS-pre-TPKPA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '79268'
+  name: Theros Prerelease Kit Path of Ambition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3d7438f16d46d3c7
+  releaseDate: null
+  subtype: ''
+  uuid: c68f384c-3f97-5abe-a5e1-eda2d4c9453b
+- category: prerelease_pack
+  code: THS-pre-TPKPH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '79269'
+  name: Theros Prerelease Kit Path of Honor
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/508fd6f2e8e8d6ac
+  releaseDate: null
+  subtype: ''
+  uuid: 2db7e9f1-f51a-5603-829d-f46e44117b87
+- category: prerelease_pack
+  code: THS-pre-TPKPW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '79270'
+  name: Theros Prerelease Kit Path of Wisdom
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/32252252545332c0
+  releaseDate: null
+  subtype: ''
+  uuid: 68c79ca4-9647-5c1d-ba88-edca30153c1c
+- category: prerelease_pack
+  code: THS-pre-TPKPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '79271'
+  name: Theros Prerelease Kit Path of Battle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0a56ce13258d75e6
+  releaseDate: null
+  subtype: ''
+  uuid: 745a9744-7ed1-552a-a8d7-b3cae00bd44e
+- category: prerelease_pack
+  code: THS-pre-TPKPM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '79272'
+  name: Theros Prerelease Kit Path of Might
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5f02787f35e0a20a
+  releaseDate: null
+  subtype: ''
+  uuid: 4d215870-d408-56c2-b1bf-f6d0f2e16902
+- category: prerelease_pack
+  code: THS-pre-TPPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '199940'
+  name: Theros Prerelease Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/59b9d7bc85ac1071
+  releaseDate: null
+  subtype: ''
+  uuid: 0efc2c59-58e1-5e5f-8978-2afe9d6f1ce9

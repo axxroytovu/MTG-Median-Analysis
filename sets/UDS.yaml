@@ -1,0 +1,67 @@
+- category: booster_box
+  code: UDS-bbox-dft-UDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27314'
+  name: Urzas Destiny Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/10c17257c0946f85
+  releaseDate: null
+  subtype: draft
+  uuid: a1ea3da8-2816-5441-b4c2-a83c51238b15
+- category: booster_pack
+  code: UDS-pack-dft-UDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27376'
+  name: Urzas Destiny Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ccdfcc4771424749
+  releaseDate: null
+  subtype: draft
+  uuid: 22c253fe-3bba-5b0d-8cf8-faea1fa154a3
+- category: deck
+  code: UDS-deck-thm-UDTDA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116058'
+  name: Urzas Destiny Theme Deck Assassin
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/09fbcc735525ace6
+  releaseDate: null
+  subtype: theme
+  uuid: 243aa2b0-18ea-58f6-ab4a-9ec8d945ab79
+- category: deck
+  code: UDS-deck-thm-UDTDBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116059'
+  name: Urzas Destiny Theme Deck Battle Surge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6829d3a3c6cf1496
+  releaseDate: null
+  subtype: theme
+  uuid: 59b5d447-0445-59ed-b02c-13ebff8a2341
+- category: deck
+  code: UDS-deck-thm-UDTDFN
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116060'
+  name: Urzas Destiny Theme Deck Fiendish Nature
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a3f8f02224d384bd
+  releaseDate: null
+  subtype: theme
+  uuid: 354f7dd5-ba02-5cb9-92d5-762754bbc748
+- category: deck
+  code: UDS-deck-thm-UDTDE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116061'
+  name: Urzas Destiny Theme Deck Enchanter
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/46158cd7f3e9f7df
+  releaseDate: null
+  subtype: theme
+  uuid: 6684a38d-ad2b-5c65-9f73-266921d16597

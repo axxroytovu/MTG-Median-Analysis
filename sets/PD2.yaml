@@ -1,0 +1,11 @@
+- category: box_set
+  code: PD2-bset-prem-PDSFLD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78736'
+  name: Premium Deck Series Fire and Lightning Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f3eab8374b6a4da4
+  releaseDate: null
+  subtype: premium
+  uuid: 6b4e8033-e4a3-59af-aeb0-6191b6c39f4a

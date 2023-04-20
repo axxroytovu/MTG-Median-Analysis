@@ -1,0 +1,45 @@
+- category: booster_box
+  code: UST-bbox-dft-UBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '149402'
+  name: Unstable Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b0e1599b1f55b9b2
+  releaseDate: '2017-12-08'
+  subtype: draft
+  uuid: 96821d46-eb3c-5302-a6a2-07322e5c17f7
+- category: booster_pack
+  code: UST-pack-dft-UBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '149403'
+  name: Unstable Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/20562ba6a7eca13a
+  releaseDate: '2017-12-08'
+  subtype: draft
+  uuid: 9f8542c2-5415-5fcd-a208-48e6cc2fb64e
+- category: case
+  code: UST-case-UBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '152232'
+  name: Unstable Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f2500901927cae45
+  releaseDate: '2017-12-08'
+  subtype: ''
+  uuid: 1fd356ec-15f5-5654-b747-21755afe7f98
+- category: draft_set
+  code: UST-dft-dft-UBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '174456'
+  name: Unstable 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0cf58060991a3d01
+  releaseDate: null
+  subtype: draft
+  uuid: 7fc63a1c-f643-5eb0-bf41-a2972b561b90

@@ -1,0 +1,210 @@
+- category: booster_box
+  code: ORI-bbox-dft-MOBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96147'
+  name: Magic Origins Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c8d56e2ff2688490
+  releaseDate: null
+  subtype: draft
+  uuid: 54ac0b83-b597-5616-bef0-ed74705f5a82
+- category: booster_pack
+  code: ORI-pack-dft-MOBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96148'
+  name: Magic Origins Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2181f437c4ee008e
+  releaseDate: '2015-07-17'
+  subtype: draft
+  uuid: bfb784dd-6f89-55b2-ae61-8506e0b29a61
+- category: bundle
+  code: ORI-bndl-MOFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96149'
+  name: Magic Origins Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e68fcf0ee7882bf8
+  releaseDate: '2015-07-17'
+  subtype: ''
+  uuid: 472ec004-fc18-53ce-b6fe-4a9f3acf0353
+- category: two_player_starter_set
+  code: ORI-2plr-clsh-MOCP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96150'
+  name: Magic Origins Clash Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/57c15054443614de
+  releaseDate: '2015-07-17'
+  subtype: clash
+  uuid: 2a48ac0a-57ff-5d3d-a8f0-84447ca6084c
+- category: deck
+  code: ORI-deck-intr-MOIPBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100023'
+  name: Magic Origins Intro Pack Brave the Battle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6262be3801370abc
+  releaseDate: null
+  subtype: intro
+  uuid: fca82ca3-3356-5cdf-b146-02056fcd5850
+- category: deck
+  code: ORI-deck-intr-MOIPTS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100024'
+  name: Magic Origins Intro Pack Take to the Sky
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9b1e215e23348a0e
+  releaseDate: null
+  subtype: intro
+  uuid: 7db218a9-72f1-5f97-8525-732ad81a2439
+- category: deck
+  code: ORI-deck-intr-MOIPDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100025'
+  name: Magic Origins Intro Pack Demonic Deals
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/75870e0b1d4d5e3a
+  releaseDate: null
+  subtype: intro
+  uuid: d474b826-1d6f-5b98-a0ec-c21a6e1b45bc
+- category: deck
+  code: ORI-deck-intr-MOIPAV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100026'
+  name: Magic Origins Intro Pack Assemble Victory
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0cf5adad8db994a7
+  releaseDate: null
+  subtype: intro
+  uuid: d4ecba0e-c924-5481-9b76-b51b9510754a
+- category: deck
+  code: ORI-deck-intr-MOIPHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100027'
+  name: Magic Origins Intro Pack Hunting Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/129a6a886803d54d
+  releaseDate: null
+  subtype: intro
+  uuid: 3ba53b4d-9c33-5018-9941-185264fcdff9
+- category: box_set
+  code: ORI-bset-tkt-MODBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100028'
+  name: Magic Origins Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a09c7b4eab47f5e6
+  releaseDate: '2015-07-17'
+  subtype: deck_builders_toolkit
+  uuid: 0c276899-04f3-5751-bf0b-7e5dff73ef32
+- category: case
+  code: ORI-case-MOBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '100314'
+  name: Magic Origins Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9d0899163d7fe99a
+  releaseDate: null
+  subtype: ''
+  uuid: 5d90e160-a10f-5793-bdf8-1302a201cf1d
+- category: subset
+  code: ORI-sub-intr-MOIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101217'
+  name: Magic Origins Intro Packs Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/113f18b6964c441a
+  releaseDate: null
+  subtype: intro
+  uuid: ccc3961c-8980-5717-aef5-65174c3ad562
+- category: prerelease_pack
+  code: ORI-pre-MOPKG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101218'
+  name: Magic Origins Prerelease Kit Gideon
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a23063d95c30886b
+  releaseDate: null
+  subtype: ''
+  uuid: c2ccaf0c-a115-5d1b-b935-2efba125f8b4
+- category: prerelease_pack
+  code: ORI-pre-MOPKJ
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101219'
+  name: Magic Origins Prerelease Kit Jace
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b4fa3a4e7c6464fc
+  releaseDate: null
+  subtype: ''
+  uuid: 9823e19d-cba6-5ffa-8ea8-98126e0b0d7a
+- category: prerelease_pack
+  code: ORI-pre-MOPKN
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101220'
+  name: Magic Origins Prerelease Kit Nissa
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f2831dd1147a7136
+  releaseDate: null
+  subtype: ''
+  uuid: 0a673cb1-1938-595d-9824-b02ee14f52ca
+- category: prerelease_pack
+  code: ORI-pre-MOPKL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101221'
+  name: Magic Origins Prerelease Kit Liliana
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/11eeaeed9066ad72
+  releaseDate: null
+  subtype: ''
+  uuid: b567038a-2a78-5f92-a408-4559a2815654
+- category: prerelease_pack
+  code: ORI-pre-MOPKC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101222'
+  name: Magic Origins Prerelease Kit Chandra
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d568e9292837352d
+  releaseDate: null
+  subtype: ''
+  uuid: 4dc06bf7-d1fe-5650-8f34-95ce73446632
+- category: prerelease_pack
+  code: ORI-pre-MOPKS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '101312'
+  name: Magic Origins Prerelease Kit Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/89811a1d4b770327
+  releaseDate: null
+  subtype: ''
+  uuid: 5d45f846-9dba-54ec-aba5-1cf87b004c22
+- category: land_station
+  code: ORI-land-MOLS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215048'
+  name: Magic Origins Land Station
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/547f9b0cb042ed39
+  releaseDate: null
+  subtype: ''
+  uuid: b5f0c62e-f48b-5079-ba41-693a26a75090

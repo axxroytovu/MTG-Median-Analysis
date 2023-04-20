@@ -1,0 +1,122 @@
+- category: booster_box
+  code: KLD-bbox-dft-KBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121527'
+  name: Kaladesh Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/75a9aabdac20ba2a
+  releaseDate: null
+  subtype: draft
+  uuid: 9a748fe4-fde6-5a7f-b10e-e080141114a3
+- category: case
+  code: KLD-case-KBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121528'
+  name: Kaladesh Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8c3456d1e3952672
+  releaseDate: null
+  subtype: ''
+  uuid: db28654f-baad-5d96-ae3e-21e6f58db0ac
+- category: booster_pack
+  code: KLD-pack-dft-KBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '121529'
+  name: Kaladesh Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c32a75631185ecba
+  releaseDate: null
+  subtype: draft
+  uuid: cf0f8060-bd6a-5d26-994c-202112e5177c
+- category: box_set
+  code: KLD-bset-tkt-KDBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122679'
+  name: Kaladesh Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f0d5ec615e87236a
+  releaseDate: null
+  subtype: deck_builders_toolkit
+  uuid: c1d62920-29ca-5bbb-a67d-89ba7ba40c95
+- category: bundle
+  code: KLD-bndl-KB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122680'
+  name: Kaladesh Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7bcf74db0ecd1cd4
+  releaseDate: null
+  subtype: ''
+  uuid: 37a41f85-e9b4-5a4f-bac6-a49a4c2c483a
+- category: two_player_starter_set
+  code: KLD-2plr-bpck-KTPBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122681'
+  name: Kaladesh Two Player Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c541005b22db952f
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 1f60d907-1bfa-5efa-b288-72b523570628
+- category: deck
+  code: KLD-deck-plw-KPDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122682'
+  name: Kaladesh Planeswalker Deck Chandra
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ca9a0850a8e525f0
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 559b6d6c-fe2f-5a4b-8f39-b0a70f279148
+- category: deck
+  code: KLD-deck-plw-KPDN
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122683'
+  name: Kaladesh Planeswalker Deck Nissa
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d7b38d4741c9074a
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 2fb85819-8bb7-565c-bc80-24f9482f50a2
+- category: subset
+  code: KLD-sub-plw-KPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122684'
+  name: Kaladesh Planeswalker Deck Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4131aa88e2b43937
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 0ae6da9b-d40b-57a6-aed0-c4e5d1fce220
+- category: prerelease_pack
+  code: KLD-pre-KPK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '122685'
+  name: Kaladesh Prerelease Kit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/09542ba79883db66
+  releaseDate: null
+  subtype: ''
+  uuid: 92c69f84-459a-5dd4-9c4b-bf63a5a85368
+- category: booster_pack
+  code: KLD-pack-dft-KHBBPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264814'
+  name: Kaladesh Holiday Buy a Box Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cc5af53097e531e7
+  releaseDate: null
+  subtype: draft
+  uuid: ca847e9a-858c-5f34-9a97-b5cdfe719985

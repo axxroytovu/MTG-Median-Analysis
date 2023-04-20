@@ -1,0 +1,56 @@
+- category: booster_box
+  code: 4ED-bbox-dft-FEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27279'
+  name: Fourth Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b8e911de5059413d
+  releaseDate: null
+  subtype: draft
+  uuid: 01419779-7279-5871-9e3a-bd00f03e7a39
+- category: booster_pack
+  code: 4ED-pack-dft-FEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27341'
+  name: Fourth Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dc8c06fe6257458c
+  releaseDate: null
+  subtype: draft
+  uuid: 5cdef45e-395c-5c65-a6a1-3a44136308bf
+- category: deck
+  code: 4ED-deck-str-FESD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '194420'
+  name: Fourth Edition Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3380c1e3ddb14c0a
+  releaseDate: null
+  subtype: starter
+  uuid: aadb04f0-36cf-564a-b105-5466938faff7
+- category: two_player_starter_set
+  code: 4ED-2plr-FEGB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '250109'
+  name: Fourth Edition Gift Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b74ec971a6ccb3ae
+  releaseDate: null
+  subtype: ''
+  uuid: f1e98f27-9dfc-54a0-9d94-336b37689f4a
+- category: deck_box
+  code: 4ED-dbox-str-FESDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '250110'
+  name: Fourth Edition Starter Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/53e0723b2fe23bb1
+  releaseDate: null
+  subtype: starter
+  uuid: e986d63f-dbd2-525b-9a11-c22989b1a750

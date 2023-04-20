@@ -1,0 +1,23 @@
+- category: booster_pack
+  code: CMB1-pack-dft-MBBPCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '202644'
+  name: Mystery Booster Booster Pack Convention Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/112b2ee74056b4ad
+  releaseDate: null
+  subtype: draft
+  uuid: 417a2b99-b2f8-5041-a981-f6404cdf175b
+- category: booster_box
+  code: CMB1-bbox-dft-MBBBCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '217533'
+  name: Mystery Booster Booster Box Convention Edition
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c28d42c38f88f4b7
+  releaseDate: null
+  subtype: draft
+  uuid: 1d5175fc-9673-5665-8f02-50a9824b5e0e

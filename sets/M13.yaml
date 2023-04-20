@@ -1,0 +1,188 @@
+- category: case
+  code: M13-case-MBBCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59119'
+  name: Magic 2013 Booster Box Case 6 Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4cf011576eb85323
+  releaseDate: null
+  subtype: ''
+  uuid: fb8af621-f721-58e0-99b1-383915d86943
+- category: booster_box
+  code: M13-bbox-dft-MBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59120'
+  name: Magic 2013 Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/663ac69084137688
+  releaseDate: '2012-07-13'
+  subtype: draft
+  uuid: 4d772a5e-3b00-5ca3-a209-5b69e64369ee
+- category: subset
+  code: M13-sub-intr-MSIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59121'
+  name: Magic 2013 Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3fbfe59f0f279b54
+  releaseDate: '2012-07-13'
+  subtype: intro
+  uuid: 16d58eea-ee62-536d-a997-852f9740938e
+- category: booster_pack
+  code: M13-pack-dft-MBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59122'
+  name: Magic 2013 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/844736c488d8b6c8
+  releaseDate: '2012-07-13'
+  subtype: draft
+  uuid: 9a8b24be-a2a9-5b2f-85bc-b8b7a1f4a234
+- category: booster_pack
+  code: M13-pack-dft-MBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59123'
+  name: Magic 2013 Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/458dadfaccedda5b
+  releaseDate: '2012-07-13'
+  subtype: draft
+  uuid: b91e1967-3d17-5a90-9ec9-7a0da8393c20
+- category: bundle
+  code: M13-bndl-MFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59124'
+  name: Magic 2013 Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9224424d1a00d621
+  releaseDate: '2012-07-13'
+  subtype: ''
+  uuid: 09a2c16f-1598-5def-8386-e0f887293b40
+- category: deck
+  code: M13-deck-evnt-MEDRP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60109'
+  name: Magic 2013 Event Deck Repeat Performance
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1f7a3c85e838a40b
+  releaseDate: null
+  subtype: event
+  uuid: 32e3c00e-0095-55a2-b4b5-a7a821670595
+- category: deck
+  code: M13-deck-evnt-MEDSR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60110'
+  name: Magic 2013 Event Deck Sweet Revenge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5aba0b8c2876ee29
+  releaseDate: null
+  subtype: event
+  uuid: 33e9d6f7-cd40-521b-b778-514654cd392e
+- category: subset
+  code: M13-sub-MEDST
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60111'
+  name: Magic 2013 Event Deck Set of Two
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d1f3fe5764d5d078
+  releaseDate: null
+  subtype: ''
+  uuid: da0ace84-1b7e-5709-b39d-45c631679f14
+- category: deck
+  code: M13-deck-intr-MIPPVW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97813'
+  name: Magic 2013 Intro Pack Path to Victory White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2b72cd4bcb067518
+  releaseDate: null
+  subtype: intro
+  uuid: eb4eb2f7-d898-551e-881b-6495229fda1f
+- category: deck
+  code: M13-deck-intr-MIPDPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97814'
+  name: Magic 2013 Intro Pack Depths of Power Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fd5a871d7b85ab66
+  releaseDate: null
+  subtype: intro
+  uuid: 841993cb-2831-5a96-b346-82fbe0ecacb0
+- category: deck
+  code: M13-deck-intr-MIPSDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97815'
+  name: Magic 2013 Intro Pack Sole Domination Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a94e0f107c76bd2f
+  releaseDate: null
+  subtype: intro
+  uuid: a05a616a-e276-57c2-ba55-35fe95e4354b
+- category: deck
+  code: M13-deck-intr-MIPMRR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97816'
+  name: Magic 2013 Intro Pack Mob Rule Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5825891ba4e26532
+  releaseDate: null
+  subtype: intro
+  uuid: e8a55ed2-2510-5581-a62a-b466cfaa5dd2
+- category: deck
+  code: M13-deck-intr-MIPWRG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97817'
+  name: Magic 2013 Intro Pack Wild Rush Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f81e22c970dfc654
+  releaseDate: null
+  subtype: intro
+  uuid: 88890443-5ebf-5572-96db-d258091080a9
+- category: two_player_starter_set
+  code: M13-2plr-bpck-MBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '97819'
+  name: Magic 2013 Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dc1bba6f3d963868
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 321cc252-ecdc-5606-a065-470a42e3945c
+- category: box_set
+  code: M13-bset-tkt-MDBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '245962'
+  name: Magic 2013 Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f9ce37a837ebd473
+  releaseDate: null
+  subtype: deck_builders_toolkit
+  uuid: 2eeda71b-d055-57c9-acf9-c0da11031fe6
+- category: two_player_starter_set
+  code: M13-2plr-bpck-MBBPDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '485831'
+  name: Magic 2013 Booster Battle Pack Display Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7fdb4e86a14715e8
+  releaseDate: null
+  subtype: battle_pack
+  uuid: f8bb60f4-6218-5553-aba1-8859d3281688

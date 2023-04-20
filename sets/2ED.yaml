@@ -1,0 +1,34 @@
+- category: booster_box
+  code: 2ED-bbox-dft-UEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27313'
+  name: Unlimited Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d915af7172972ed8
+  releaseDate: null
+  subtype: draft
+  uuid: 650a0d9a-9c08-576a-81fc-72150175af77
+- category: booster_pack
+  code: 2ED-pack-dft-UEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27375'
+  name: Unlimited Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8f30f3223a00c836
+  releaseDate: null
+  subtype: draft
+  uuid: 6f80d7de-166e-5a73-bfbd-1bde46fbbc26
+- category: deck
+  code: 2ED-deck-str-UESD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '162897'
+  name: Unlimited Edition Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0e8c91beab1f61e7
+  releaseDate: null
+  subtype: starter
+  uuid: fb2cb6ae-bcdf-5e4c-becb-aa860bc30544

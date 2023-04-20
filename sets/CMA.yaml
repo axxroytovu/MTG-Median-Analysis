@@ -1,0 +1,11 @@
+- category: box_set
+  code: CMA-bset-CABS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '131447'
+  name: Commander Anthology Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9c9b0b1daee61c2a
+  releaseDate: null
+  subtype: ''
+  uuid: 25295a88-e779-5fc3-bfbe-1d57f73ea6ae

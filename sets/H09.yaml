@@ -1,0 +1,11 @@
+- category: box_set
+  code: H09-bset-prem-PDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '90957'
+  name: Premium Deck Series Slivers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/17ba5fac63029fde
+  releaseDate: null
+  subtype: premium
+  uuid: 8c1956ac-c44a-5c7b-bb1b-e3b375eba07f

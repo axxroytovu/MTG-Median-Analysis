@@ -1,0 +1,11 @@
+- category: box_set
+  code: PCA-bset-plnc-PABS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125161'
+  name: Planechase Anthology Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2fbd28bb9dd99c5f
+  releaseDate: null
+  subtype: planechase
+  uuid: 3a29aa6e-44d1-54a9-9663-45285b736f22

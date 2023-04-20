@@ -1,0 +1,55 @@
+- category: case
+  code: PC2-case-plnc-PS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59114'
+  name: Planechase 2012 Set of 4
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2b329d56a123f624
+  releaseDate: null
+  subtype: planechase
+  uuid: 544f056a-6ca3-5566-acab-497e101a0711
+- category: box_set
+  code: PC2-bset-plnc-PCRD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59115'
+  name: Planechase 2012 Chaos Reigns Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9655f62666cdd240
+  releaseDate: '2012-06-01'
+  subtype: planechase
+  uuid: 9d12dbb6-6434-56ff-80c8-5a5e0c379a4d
+- category: box_set
+  code: PC2-bset-plnc-PNND
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59116'
+  name: Planechase 2012 Night of the Ninja Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e356d7441ddedd78
+  releaseDate: '2012-06-01'
+  subtype: planechase
+  uuid: f11cc69d-3277-5ebb-809c-7219d79e586b
+- category: box_set
+  code: PC2-bset-plnc-PPHD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59117'
+  name: Planechase 2012 Primordial Hunger Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/432d8d1ebfd640eb
+  releaseDate: '2012-06-01'
+  subtype: planechase
+  uuid: 04be3b12-cfcd-5063-8cd2-d791dd84e647
+- category: box_set
+  code: PC2-bset-plnc-PSAD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '59118'
+  name: Planechase 2012 Savage Auras Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/41738a617aa829c1
+  releaseDate: '2012-06-01'
+  subtype: planechase
+  uuid: e6d7d890-88ae-5972-948d-0562db592c8c

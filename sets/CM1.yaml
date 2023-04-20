@@ -1,0 +1,11 @@
+- category: box_set
+  code: CM1-bset-CABS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '71419'
+  name: Commanders Arsenal Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a9e6a3ee99563d95
+  releaseDate: null
+  subtype: ''
+  uuid: 98a32c34-1217-5191-a738-d8880b915b9f

@@ -1,0 +1,12 @@
+- category: booster_box
+  code: MED-bbox-dft-GRME
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175240'
+  name: Guilds of Ravnica Mythic Edition
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/65146c64a2559001
+  releaseDate: null
+  subtype: draft
+  uuid: 8ca48e6f-de2c-59a8-b714-da7ebdd65291

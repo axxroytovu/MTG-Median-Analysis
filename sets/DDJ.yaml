@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDJ-bset-DDIGBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60128'
+  name: Duel Decks Izzet vs Golgari Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef0e579203b8bdf1
+  releaseDate: null
+  subtype: ''
+  uuid: e79e576b-ec53-590b-8568-8f4e841abae5

@@ -1,0 +1,176 @@
+- category: ''
+  code: DPA-DPHFCND
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77281'
+  name: Duels of the Planeswalkers Hands of Flame Chandra Nalaar Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c1764d80d32a7e0
+  releaseDate: null
+  subtype: ''
+  uuid: 31881286-3564-59d0-9068-3585b62e28d1
+- category: ''
+  code: DPA-DPTPGWD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77282'
+  name: Duels of the Planeswalkers Teeth of the Predator Garruk Wildspeaker Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/106d49b66feac0d6
+  releaseDate: null
+  subtype: ''
+  uuid: 3dc9a690-8698-50c2-b4ae-01183ad994ee
+- category: ''
+  code: DPA-DPTWJBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77283'
+  name: Duels of the Planeswalkers Thoughts of the Wind Jace Beleren Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f35742f42c95ae8d
+  releaseDate: null
+  subtype: ''
+  uuid: fd0f1ab1-d803-55d1-8740-404eb4aafc3d
+- category: ''
+  code: DPA-DPEENRD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77284'
+  name: Duels of the Planeswalkers Ears of the Elves Nissa Revane Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/42115b85dc483331
+  releaseDate: null
+  subtype: ''
+  uuid: ef24e368-e1c8-56d6-85ec-7289c91d0a4d
+- category: ''
+  code: DPA-DPESLVD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77285'
+  name: Duels of the Planeswalkers Eyes of Shadow Liliana Vess Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8172a5275a010461
+  releaseDate: null
+  subtype: ''
+  uuid: 97f492e4-9457-5fb3-b25c-17d20e7f2d0b
+- category: booster_pack
+  code: DPA-pack-plw-DPPCSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77286'
+  name: Duels of the Planeswalkers 2013 PC Steam Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/30658c0558badcd2
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 50cd1c16-c8c0-5a56-b78c-7ca3363a5590
+- category: booster_pack
+  code: DPA-pack-plw-DPPSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77287'
+  name: Duels of the Planeswalkers 2013 PS3 Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2185ac98187902e9
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 51908725-4c55-5086-b50f-9f52e8e44b3f
+- category: booster_pack
+  code: DPA-pack-plw-DPXBOXPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77288'
+  name: Duels of the Planeswalkers 2013 XBOX Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b5681c8ea56dc808
+  releaseDate: null
+  subtype: planeswalker
+  uuid: f91ce0e4-3845-5758-95dc-061b60ad6b81
+- category: booster_pack
+  code: DPA-pack-plw-DPAPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77289'
+  name: Duels of the Planeswalkers 2014 Android Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/432185b2b49f7e10
+  releaseDate: null
+  subtype: planeswalker
+  uuid: e75417fa-9a5b-5a72-852b-22d04990b176
+- category: booster_pack
+  code: DPA-pack-plw-DPPPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77290'
+  name: Duels of the Planeswalkers 2014 iPad Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b99fb943dc179533
+  releaseDate: null
+  subtype: planeswalker
+  uuid: a2f5a996-8718-537a-adb0-271e5c70a94f
+- category: booster_pack
+  code: DPA-pack-plw-DPPSPP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77291'
+  name: Duels of the Planeswalkers 2014 PS3 Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7160258602129db0
+  releaseDate: null
+  subtype: planeswalker
+  uuid: f6a6ea25-c806-542a-82e5-5c4ad645c32e
+- category: booster_pack
+  code: DPA-pack-plw-DPSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77292'
+  name: Duels of the Planeswalkers 2014 Steam Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/819f3e47316e8611
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 20b9c793-01c3-5dc8-a4cd-adff58df3a50
+- category: booster_pack
+  code: DPA-pack-plw-DPXBOXPP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77293'
+  name: Duels of the Planeswalkers 2014 XBOX Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bb7dae5a01c6b6d5
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 5f85f3ee-c427-59d1-a507-5b816c1b1d8f
+- category: ''
+  code: DPA-DPSD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77294'
+  name: Duels of the Planeswalkers Set of 5 Decks
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f1bde3094ef4a2f3
+  releaseDate: null
+  subtype: ''
+  uuid: dc31016c-0a64-54e2-8ffb-ca7844bb5e04
+- category: booster_pack
+  code: DPA-pack-plw-DPXBOXPP-2
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264778'
+  name: Duels of the Planeswalkers 2015 XBOX Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cb245d46dd493dad
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 3c074ed1-0263-5e27-96a7-053f5fb1fbe1
+- category: booster_pack
+  code: DPA-pack-plw-DPPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264779'
+  name: Duels of the Planeswalkers 2015 Promo Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/14adab474f12998b
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 25dfcd00-df7b-57e2-a748-8590fc64202a

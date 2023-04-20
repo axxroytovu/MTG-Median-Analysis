@@ -1,0 +1,67 @@
+- category: booster_box
+  code: ULG-bbox-dft-ULBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27315'
+  name: Urzas Legacy Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d49ec4bf826eac99
+  releaseDate: null
+  subtype: draft
+  uuid: e934ed80-6af4-5e51-802c-5e2a0705a2d6
+- category: booster_pack
+  code: ULG-pack-dft-ULBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27377'
+  name: Urzas Legacy Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a8a5d5714b6f58ca
+  releaseDate: null
+  subtype: draft
+  uuid: c7edd411-b36c-5fd3-8c1d-0424c020bf3c
+- category: deck
+  code: ULG-deck-thm-ULTDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125553'
+  name: Urzas Legacy Theme Deck Crusher
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/95167d8ab0ee99cf
+  releaseDate: null
+  subtype: theme
+  uuid: 287ee793-65db-5cb8-b9e5-7422e7eecdd9
+- category: deck
+  code: ULG-deck-thm-ULTDPA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125554'
+  name: Urzas Legacy Theme Deck Phyrexian Assault
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0a3373b332658ea2
+  releaseDate: null
+  subtype: theme
+  uuid: fc38f6c9-a9a2-544a-9b76-1a3a007e5ea5
+- category: deck
+  code: ULG-deck-thm-ULTDRR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125555'
+  name: Urzas Legacy Theme Deck Radiants Revenge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7266e02be542d21f
+  releaseDate: null
+  subtype: theme
+  uuid: ffc34058-2090-5835-b29b-f3fb8f6f85aa
+- category: deck
+  code: ULG-deck-thm-ULTDTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '125556'
+  name: Urzas Legacy Theme Deck Time Drain
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/689a7c85d3dc5bef
+  releaseDate: null
+  subtype: theme
+  uuid: ade128d4-3feb-5e55-8240-b4366cee9b42

@@ -1,0 +1,199 @@
+- category: booster_box
+  code: FRF-bbox-dft-FRBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '94746'
+  name: Fate Reforged Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9948451522f03039
+  releaseDate: '2015-01-21'
+  subtype: draft
+  uuid: d8c365a9-1cb7-5901-8f73-4570cac812e5
+- category: case
+  code: FRF-case-FRBBCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95030'
+  name: Fate Reforged Booster Box Case 6 Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/751f9e755d9cda14
+  releaseDate: null
+  subtype: ''
+  uuid: 9c528e35-fd1b-56cb-8980-31e80d697365
+- category: booster_pack
+  code: FRF-pack-dft-FRBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95031'
+  name: Fate Reforged Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/07aa3006ce45affc
+  releaseDate: '2015-01-21'
+  subtype: draft
+  uuid: 12abbe7b-f87a-5fbf-ab77-1e9edec8cf90
+- category: bundle
+  code: FRF-bndl-FRFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95032'
+  name: Fate Reforged Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dae3ca28a68858a7
+  releaseDate: '2015-01-21'
+  subtype: ''
+  uuid: 1da4596f-30cf-5e60-bcc1-475c5b8277de
+- category: case
+  code: FRF-case-intr-FRIPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95033'
+  name: Fate Reforged Intro Pack Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7fd4160b6ef426f6
+  releaseDate: null
+  subtype: intro
+  uuid: 48720c05-afe5-59df-9872-f3c71b5fbbd5
+- category: subset
+  code: FRF-sub-intr-FRIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95034'
+  name: Fate Reforged Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0e730f404b4c3a6c
+  releaseDate: null
+  subtype: intro
+  uuid: 693417bd-a262-59ba-8854-401b7508f6d4
+- category: two_player_starter_set
+  code: FRF-2plr-clsh-FRCP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95035'
+  name: Fate Reforged Clash Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/347053e4531baa6e
+  releaseDate: null
+  subtype: clash
+  uuid: c676bc86-c455-5cc9-8d11-016569846580
+- category: deck
+  code: FRF-deck-intr-FRIPSH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95258'
+  name: Fate Reforged Intro Pack Stampeding Hordes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/52680156e471d84e
+  releaseDate: null
+  subtype: intro
+  uuid: 18293e20-e39a-56be-82ed-8465f1a32ddd
+- category: deck
+  code: FRF-deck-intr-FRIPGA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95259'
+  name: Fate Reforged Intro Pack Grave Advantage
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ccdc1f3715a96131
+  releaseDate: null
+  subtype: intro
+  uuid: ad87f6ba-2c13-5501-9807-45966a0aa0d1
+- category: deck
+  code: FRF-deck-intr-FRIPSA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95260'
+  name: Fate Reforged Intro Pack Surprise Attack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/31e7080f7b6bd61f
+  releaseDate: null
+  subtype: intro
+  uuid: 794a4ec7-18fc-581e-8f42-df9a80cec6fb
+- category: deck
+  code: FRF-deck-intr-FRIPCP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95261'
+  name: Fate Reforged Intro Pack Cunning Plan
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4d852f70e946a15d
+  releaseDate: null
+  subtype: intro
+  uuid: bd45cafd-7cf2-5016-9c1f-02571e39a733
+- category: deck
+  code: FRF-deck-intr-FRIPUA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95262'
+  name: Fate Reforged Intro Pack Unflinching Assault
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b8655b0d34353c40
+  releaseDate: null
+  subtype: intro
+  uuid: 5bf62292-fd06-50e6-82f2-726c7c04cce4
+- category: prerelease_pack
+  code: FRF-pre-FRPKA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95910'
+  name: Fate Reforged Prerelease Kit Abzan
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f58facbd88bdf071
+  releaseDate: null
+  subtype: ''
+  uuid: 9f182655-4109-5ef5-b1aa-7cfa1e1e94ac
+- category: prerelease_pack
+  code: FRF-pre-FRPKM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95911'
+  name: Fate Reforged Prerelease Kit Mardu
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/db6e4f8434ed12be
+  releaseDate: null
+  subtype: ''
+  uuid: ce25c423-40cd-5775-bd03-ca2e81cd86f6
+- category: prerelease_pack
+  code: FRF-pre-FRPKJ
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95912'
+  name: Fate Reforged Prerelease Kit Jeskai
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0b26d6554fc22ae5
+  releaseDate: null
+  subtype: ''
+  uuid: 8639c615-de8a-5c13-85e5-5b034a473ad3
+- category: prerelease_pack
+  code: FRF-pre-FRPKS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95913'
+  name: Fate Reforged Prerelease Kit Sultai
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a7317e0af6f97994
+  releaseDate: null
+  subtype: ''
+  uuid: 8cfcbaf0-2959-5d47-8586-454863126e2f
+- category: prerelease_pack
+  code: FRF-pre-FRPKT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95914'
+  name: Fate Reforged Prerelease Kit Temur
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3422f57580dcb9a4
+  releaseDate: null
+  subtype: ''
+  uuid: a7819679-10b8-598b-9ddf-40b92c93983f
+- category: prerelease_pack
+  code: FRF-pre-FRPKS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '95915'
+  name: Fate Reforged Prerelease Kit Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3164d5f73421aa80
+  releaseDate: null
+  subtype: ''
+  uuid: 92b86671-3871-5e34-b244-22b14e37cf00

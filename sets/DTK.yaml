@@ -1,0 +1,188 @@
+- category: booster_box
+  code: DTK-bbox-dft-DTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96137'
+  name: Dragons of Tarkir Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7fdc294f438a5653
+  releaseDate: null
+  subtype: draft
+  uuid: 1688d5f4-7160-5aa0-a8d9-09e3348ddef7
+- category: case
+  code: DTK-case-DTBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96138'
+  name: Dragons of Tarkir Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b24c2ca904da42f8
+  releaseDate: '2015-03-27'
+  subtype: ''
+  uuid: 665a7f12-f325-5397-82b4-5eeeed1cba69
+- category: booster_pack
+  code: DTK-pack-dft-DTBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96139'
+  name: Dragons of Tarkir Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0eb4184b9c0848d6
+  releaseDate: '2015-03-27'
+  subtype: draft
+  uuid: 1075193b-2991-5302-b1e0-e452a5010ceb
+- category: bundle
+  code: DTK-bndl-DTFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96140'
+  name: Dragons of Tarkir Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/83a828a8a4ebbbdf
+  releaseDate: '2015-03-27'
+  subtype: ''
+  uuid: 3b9d48be-72f4-5b9d-9c80-a3bee02bb816
+- category: deck
+  code: DTK-deck-evnt-DTED
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96151'
+  name: Dragons of Tarkir Event Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/58f0932bd092c14c
+  releaseDate: null
+  subtype: event
+  uuid: 275bccaf-1376-5937-b174-2488fbad9cf1
+- category: subset
+  code: DTK-sub-intr-DTIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96152'
+  name: Dragons of Tarkir Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8fed012105b70b8e
+  releaseDate: null
+  subtype: intro
+  uuid: 5333f7b4-b761-55ba-8d91-4f74b8b969b1
+- category: deck
+  code: DTK-deck-intr-DTIPMR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96407'
+  name: Dragons of Tarkir Intro Pack Massed Ranks
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8f3ea05a7726dcd8
+  releaseDate: null
+  subtype: intro
+  uuid: 07ff0825-564a-547c-8a29-9fa3d66ec3b0
+- category: deck
+  code: DTK-deck-intr-DTIPEM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96408'
+  name: Dragons of Tarkir Intro Pack Enlightened Mastery
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c41224c02e7aed3f
+  releaseDate: null
+  subtype: intro
+  uuid: a2bbc944-74c4-5739-b5a8-287ba889d58b
+- category: deck
+  code: DTK-deck-intr-DTIPRR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96409'
+  name: Dragons of Tarkir Intro Pack Relentless Rush
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c57afc5a7d0d46ec
+  releaseDate: null
+  subtype: intro
+  uuid: fded2dc3-e7ba-512e-b5a2-a6712d75cf6e
+- category: deck
+  code: DTK-deck-intr-DTIPFF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96410'
+  name: Dragons of Tarkir Intro Pack Furious Forces
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0d21388f5d7acacf
+  releaseDate: null
+  subtype: intro
+  uuid: 8dfdec72-abe6-51e8-b383-22267a0cdf30
+- category: deck
+  code: DTK-deck-intr-DTIPCP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96411'
+  name: Dragons of Tarkir Intro Pack Cruel Plots
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a7c3b394ea2b8c8a
+  releaseDate: null
+  subtype: intro
+  uuid: 485b2247-ae4d-551e-8a1d-bb7e0a02932f
+- category: prerelease_pack
+  code: DTK-pre-DTPKD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96473'
+  name: Dragons of Tarkir Prerelease Kit Dromoka
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/29d6f0dab1f0b9d7
+  releaseDate: null
+  subtype: ''
+  uuid: 03277677-5b6c-5749-821a-63c58860b307
+- category: prerelease_pack
+  code: DTK-pre-DTPKO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96474'
+  name: Dragons of Tarkir Prerelease Kit Ojutai
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5eb569be90e0a18f
+  releaseDate: null
+  subtype: ''
+  uuid: b68823f1-b6ae-5291-a7b6-337526403cb9
+- category: prerelease_pack
+  code: DTK-pre-DTPKS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96475'
+  name: Dragons of Tarkir Prerelease Kit Silumgar
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/05459a1b0b86b970
+  releaseDate: null
+  subtype: ''
+  uuid: 3f36d172-3b9a-573f-8206-79d9d157b823
+- category: prerelease_pack
+  code: DTK-pre-DTPKK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96476'
+  name: Dragons of Tarkir Prerelease Kit Kolaghan
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2b17847b826cfdb1
+  releaseDate: null
+  subtype: ''
+  uuid: e826a20f-6d50-5694-88f8-ff46f5ab2776
+- category: prerelease_pack
+  code: DTK-pre-DTPKA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96477'
+  name: Dragons of Tarkir Prerelease Kit Atarka
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c1dc04b4957934f0
+  releaseDate: null
+  subtype: ''
+  uuid: d0534106-1915-5eab-8dfc-5961cd2d0e59
+- category: prerelease_pack
+  code: DTK-pre-DTPKS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96478'
+  name: Dragons of Tarkir Prerelease Kit Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7518ccd5d8eb793d
+  releaseDate: null
+  subtype: ''
+  uuid: 13caa56a-7eb4-577f-b4de-4b36dad7cb92

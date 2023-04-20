@@ -1,0 +1,66 @@
+- category: commander_deck
+  code: SCD-cmr-str-SCDGD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448432'
+  name: Starter Commander Deck Grave Danger
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/95f518089053e5c4
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: a3e4cfc8-ace6-5518-affc-1331aa2c5ac3
+- category: commander_deck
+  code: SCD-cmr-str-SCDTT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448433'
+  name: Starter Commander Deck Token Triumph
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/69dce1cfe69f7ff0
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: c9e98362-8c81-5f65-bf35-faeb51d5961f
+- category: commander_deck
+  code: SCD-cmr-str-SCDFF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448434'
+  name: Starter Commander Deck First Flight
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/99e8a5ae830cb5c6
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: bd1bb123-37d6-5961-ad5b-f14453add9b0
+- category: commander_deck
+  code: SCD-cmr-str-SCDCI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448435'
+  name: Starter Commander Deck Chaos Incarnate
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/639c362620b5c690
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: b6ea4890-4f5a-5db8-b67b-c554f054b52d
+- category: commander_deck
+  code: SCD-cmr-str-SCDDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448436'
+  name: Starter Commander Deck Draconic Destruction
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5bcce06dba9bff00
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: eda5f16c-19f2-517e-80b7-0a50d48a91d9
+- category: case
+  code: SCD-case-str-SCDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448437'
+  name: Starter Commander Deck Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8bbe7f2bfb9d512a
+  releaseDate: '2022-12-02'
+  subtype: starter
+  uuid: 17308170-36a8-5b3b-95a3-1efd21b111bf

@@ -1,0 +1,111 @@
+- category: bundle
+  code: XLN-bndl-IB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141986'
+  name: Ixalan Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0d8093c019027431
+  releaseDate: '2017-09-29'
+  subtype: ''
+  uuid: 09500525-6283-5ea1-9e0c-e4b1496faad4
+- category: booster_box
+  code: XLN-bbox-dft-IBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141989'
+  name: Ixalan Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/172e689e8fc2e631
+  releaseDate: '2017-09-29'
+  subtype: draft
+  uuid: b9f9e12f-f731-5e26-ab29-eeb48ba2a3f6
+- category: case
+  code: XLN-case-IBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141990'
+  name: Ixalan Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f28f29892bc1a8fa
+  releaseDate: '2017-09-29'
+  subtype: ''
+  uuid: 1c54a2a2-0d0a-5e96-8e8b-051714062282
+- category: booster_pack
+  code: XLN-pack-dft-IBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '141991'
+  name: Ixalan Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ec922b99aeb245a1
+  releaseDate: null
+  subtype: draft
+  uuid: 1ffd541f-99e2-509e-9c9e-49f383f03484
+- category: deck
+  code: XLN-deck-plw-IPDJ
+  contents: []
+  identifiers:
+    tcgplayerProductId: '144693'
+  name: Ixalan Planeswalker Deck Jace
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6c596be7be759f00
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 0c47809b-6fb9-5f53-9d28-f9f868de627b
+- category: deck
+  code: XLN-deck-plw-IPDH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '144694'
+  name: Ixalan Planeswalker Deck Huatli
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/26d44ab9343f2618
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 19d7748e-22b9-5648-ae25-a8ff548afae0
+- category: subset
+  code: XLN-sub-plw-IPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '145218'
+  name: Ixalan Planeswalker Deck Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bb992027f783b520
+  releaseDate: null
+  subtype: planeswalker
+  uuid: 07501644-883a-5303-8f86-6d28838682f3
+- category: prerelease_pack
+  code: XLN-pre-IPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '146677'
+  name: Ixalan Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/238f32476ca9929e
+  releaseDate: null
+  subtype: ''
+  uuid: 2908afe5-4650-551d-bff6-7d9dc340bf63
+- category: box_set
+  code: XLN-bset-tkt-IDBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '148405'
+  name: Ixalan Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/82caf47003807f0c
+  releaseDate: null
+  subtype: deck_builders_toolkit
+  uuid: 366fb85d-7db5-5a42-b51b-3894e6638139
+- category: two_player_starter_set
+  code: XLN-2plr-bpck-IBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '217691'
+  name: Ixalan Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e8eede003067ba9e
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 76990768-d07f-50bc-8c66-be9f429ca8ba

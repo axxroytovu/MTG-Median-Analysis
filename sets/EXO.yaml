@@ -1,0 +1,67 @@
+- category: booster_box
+  code: EXO-bbox-dft-EBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27275'
+  name: Exodus Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/224640f014f3b098
+  releaseDate: null
+  subtype: draft
+  uuid: 6a96fe22-ef37-5ff6-8d40-aae91120ad31
+- category: booster_pack
+  code: EXO-pack-dft-EBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27337'
+  name: Exodus Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/77eaf4e2d311e13f
+  releaseDate: null
+  subtype: draft
+  uuid: 7a001473-a0b3-52e5-a0a2-2c86ce098008
+- category: deck
+  code: EXO-deck-thm-ETDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116054'
+  name: Exodus Theme Deck Dominator
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/966210a817692c2b
+  releaseDate: null
+  subtype: theme
+  uuid: 99f6ac66-be04-571b-bb65-c0f6a4e0e6e0
+- category: deck
+  code: EXO-deck-thm-ETDG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116055'
+  name: Exodus Theme Deck Groundbreaker
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7028ad12fe55ffc6
+  releaseDate: null
+  subtype: theme
+  uuid: 9a7edb8e-79ea-5937-80f8-eaa52e581039
+- category: deck
+  code: EXO-deck-thm-ETDWH
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116056'
+  name: Exodus Theme Deck White Heat
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6964f8392b63ff69
+  releaseDate: null
+  subtype: theme
+  uuid: 3d4ad862-9975-5549-a377-9b236a0e43fb
+- category: deck
+  code: EXO-deck-thm-ETDW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116057'
+  name: Exodus Theme Deck Widowmaker
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7d935c8509c155c5
+  releaseDate: null
+  subtype: theme
+  uuid: e4c3266a-9dc2-56c2-a64e-487641a6ec86

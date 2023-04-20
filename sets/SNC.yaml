@@ -1,0 +1,301 @@
+- category: booster_pack
+  code: SNC-pack-dft-SNCDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264759'
+  name: Streets of New Capenna Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c47319a2231fc038
+  releaseDate: '2022-04-29'
+  subtype: draft
+  uuid: 7676f91c-b08a-509b-9b77-3f987708a1a8
+- category: booster_box
+  code: SNC-bbox-dft-SNCDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264760'
+  name: Streets of New Capenna Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/91c606aea095bf63
+  releaseDate: '2022-04-29'
+  subtype: draft
+  uuid: 406deb6e-64d6-5869-a165-b51554fe7e23
+- category: case
+  code: SNC-case-dft-SNCDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264761'
+  name: Streets of New Capenna Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/949e684fe2fa28b8
+  releaseDate: '2022-04-29'
+  subtype: draft
+  uuid: c8d24666-c3ff-5eea-9309-293d8d05b6ad
+- category: case
+  code: SNC-case-SNCSBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264762'
+  name: Streets of New Capenna Set Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/87109d23a4640f61
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: e1ca6e48-d256-5ce2-ba63-601dc5ce2a57
+- category: booster_box
+  code: SNC-bbox-set-SNCSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264763'
+  name: Streets of New Capenna Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9a6dbf89701ba4a9
+  releaseDate: '2022-04-29'
+  subtype: set
+  uuid: 15ae57cc-952f-5c62-8f38-7b954c1e454e
+- category: booster_pack
+  code: SNC-pack-set-SNCSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264765'
+  name: Streets of New Capenna Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8918eecae0183a9d
+  releaseDate: null
+  subtype: set
+  uuid: e654bdd4-e412-5e28-9dba-29f84f2d57c5
+- category: booster_pack
+  code: SNC-pack-col-SNCCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264766'
+  name: Streets of New Capenna Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/530839eeec396d01
+  releaseDate: '2022-04-29'
+  subtype: collector
+  uuid: f2dcb1b8-4923-5289-904b-6a9a517e9751
+- category: booster_box
+  code: SNC-bbox-col-SNCCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264767'
+  name: Streets of New Capenna Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/26191ea035e1acf8
+  releaseDate: '2022-04-29'
+  subtype: collector
+  uuid: e97131b5-7027-5dfc-b988-a9f0c87afe94
+- category: case
+  code: SNC-case-col-SNCCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264768'
+  name: Streets of New Capenna Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d18a7b119ffcadc4
+  releaseDate: '2022-04-29'
+  subtype: collector
+  uuid: d86e32ea-1193-5f5e-9816-93ae0b3c2f6e
+- category: bundle
+  code: SNC-bndl-SNCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264769'
+  name: Streets of New Capenna Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8d8e428dbb61329d
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: db7060fe-52a0-55c8-91d5-b40a6730a803
+- category: case
+  code: SNC-case-SNCBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264770'
+  name: Streets of New Capenna Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6379d69bdbbf7a25
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: bed50b2e-beb6-538b-8863-52357fa61d90
+- category: draft_set
+  code: SNC-dft-dft-SNCBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264771'
+  name: Streets of New Capenna 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a032fb62b2c59233
+  releaseDate: '2022-04-29'
+  subtype: draft
+  uuid: 445ccae2-2454-5a12-93ea-d47b62889a62
+- category: prerelease_pack
+  code: SNC-pre-SNCPPO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '264772'
+  name: Streets of New Capenna Prerelease Pack Obscura
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b1ccaf2773107fbe
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: 499cde17-45ea-56ca-b3d3-8f85234a67b4
+- category: prerelease_pack
+  code: SNC-pre-SNCPPM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265341'
+  name: Streets of New Capenna Prerelease Pack Maestros
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/891327a5d917b03c
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: 08ecec6b-9cba-545d-83ba-be26b5d46588
+- category: prerelease_pack
+  code: SNC-pre-SNCPPR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265343'
+  name: Streets of New Capenna Prerelease Pack Riveteers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f12c6636fcf8b9b1
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: 244916e5-91ad-535d-b103-7e11035a4fb6
+- category: prerelease_pack
+  code: SNC-pre-SNCPPC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265344'
+  name: Streets of New Capenna Prerelease Pack Cabaretti
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2bf62cd49bfc3b72
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: f210eeac-d761-5fb0-a2f9-fece735a2120
+- category: prerelease_pack
+  code: SNC-pre-SNCPPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265345'
+  name: Streets of New Capenna Prerelease Pack Brokers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/af3e4e3d47137394
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: 4f8d38db-327e-5d77-bcf2-0b75709bd0a8
+- category: booster_box
+  code: SNC-bbox-thm-SNCTBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265347'
+  name: Streets of New Capenna Theme Booster Display
+  productSize: 10
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6d002be102c34deb
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: d210712e-642f-5551-a21a-a86e12c7d22d
+- category: subset
+  code: SNC-sub-thm-SNCTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265364'
+  name: Streets of New Capenna Theme Booster Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/04e936f61c056c5f
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: 823f633c-1cde-51a3-a216-24fca5b14154
+- category: booster_pack
+  code: SNC-pack-thm-SNCTBO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265367'
+  name: Streets of New Capenna Theme Booster Obscura
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/621b7ab1aded8104
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: 4e0d32a2-46cb-5cc5-bad6-f5b64396b17a
+- category: booster_pack
+  code: SNC-pack-thm-SNCTBM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265369'
+  name: Streets of New Capenna Theme Booster Maestros
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/33bbec5b8ea284d9
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: a973585c-5b2a-5d0e-8195-2a4df28b89ac
+- category: booster_pack
+  code: SNC-pack-thm-SNCTBR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265375'
+  name: Streets of New Capenna Theme Booster Riveteers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/983e8e9ed0fa6a80
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: f357ded1-6d0d-5e35-ba71-e21e7a927931
+- category: booster_pack
+  code: SNC-pack-thm-SNCTBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265377'
+  name: Streets of New Capenna Theme Booster Cabaretti
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/63beed9bcaa33288
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: 76bf2f83-4933-5052-9917-36d61ab677b0
+- category: booster_pack
+  code: SNC-pack-thm-SNCTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265380'
+  name: Streets of New Capenna Theme Booster Brokers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/45a64933c7d2172b
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: a5bd6198-8ab5-57f6-a239-f1af08508043
+- category: case
+  code: SNC-case-thm-SNCTBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265383'
+  name: Streets of New Capenna Theme Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7041b6ac7d599cb7
+  releaseDate: '2022-04-29'
+  subtype: theme
+  uuid: 970bc541-6b40-5fab-a53f-46fda1aea0ca
+- category: prerelease_pack
+  code: SNC-pre-SNCPPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265385'
+  name: Streets of New Capenna Prerelease Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1eb96fca99579cd6
+  releaseDate: '2022-04-29'
+  subtype: ''
+  uuid: badc3853-fce3-5f6c-84e5-04cb447b6648
+- category: booster_pack
+  code: SNC-pack-col-SNCCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '281723'
+  name: Streets of New Capenna Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e0192d26d9f2bab0
+  releaseDate: null
+  subtype: collector
+  uuid: c30d0054-2f90-5d6e-8cce-360c3bd41185

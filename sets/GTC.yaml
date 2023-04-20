@@ -1,0 +1,210 @@
+- category: case
+  code: GTC-case-GBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67310'
+  name: Gatecrash Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6b9e9997ab04cb03
+  releaseDate: null
+  subtype: ''
+  uuid: be35d5f7-6ae6-550c-996a-8f338bf3466e
+- category: booster_box
+  code: GTC-bbox-dft-GBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67311'
+  name: Gatecrash Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b112368b697d9469
+  releaseDate: null
+  subtype: draft
+  uuid: 9464df1d-9b6d-5d6b-b7b8-0e231edd203c
+- category: bundle
+  code: GTC-bndl-GFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67312'
+  name: Gatecrash Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b4d733d5812e2e61
+  releaseDate: '2013-02-01'
+  subtype: ''
+  uuid: fada9b77-0fba-51ff-9c43-9964cafee693
+- category: booster_pack
+  code: GTC-pack-dft-GBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67313'
+  name: Gatecrash Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/82eab89688f011ba
+  releaseDate: '2013-02-01'
+  subtype: draft
+  uuid: 11a63195-ea42-5624-95e9-206d788c9650
+- category: subset
+  code: GTC-sub-intr-GIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67384'
+  name: Gatecrash Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2ce8a3023984400e
+  releaseDate: null
+  subtype: intro
+  uuid: a51bab7c-0652-5444-abdf-e7ce5c252a40
+- category: deck
+  code: GTC-deck-intr-GIPOO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67385'
+  name: Gatecrash Intro Pack Orzhov Oppression
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3b3ef14b155ed2f6
+  releaseDate: '2013-02-01'
+  subtype: intro
+  uuid: 8766a4ac-3e42-5bab-a793-ab06b385850e
+- category: deck
+  code: GTC-deck-intr-GIPDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67386'
+  name: Gatecrash Intro Pack Dimir Dementia
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/23f4b6639500f21f
+  releaseDate: '2013-02-01'
+  subtype: intro
+  uuid: b1f3ba9c-b013-5e38-9901-2d6a11791674
+- category: deck
+  code: GTC-deck-intr-GIPGG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67387'
+  name: Gatecrash Intro Pack Gruul Goliaths
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d82bfec41dc64262
+  releaseDate: '2013-02-01'
+  subtype: intro
+  uuid: 0a1fbf64-abc5-5602-b2bc-7f42dcef4af0
+- category: deck
+  code: GTC-deck-intr-GIPBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67388'
+  name: Gatecrash Intro Pack Boros Battalion
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f692f5860639ebb0
+  releaseDate: '2013-02-01'
+  subtype: intro
+  uuid: a0e65d7c-ae6b-5b2d-88f2-403cee9a3d0f
+- category: deck
+  code: GTC-deck-intr-GIPSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67389'
+  name: Gatecrash Intro Pack Simic Synthesis
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5d4ae208d18f8856
+  releaseDate: '2013-02-01'
+  subtype: intro
+  uuid: 2fb0453a-e1fc-55e2-ab77-42aa9a2aec40
+- category: prerelease_pack
+  code: GTC-pre-GPKS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106350'
+  name: Gatecrash Prerelease Kits Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/412f8b48bcd6b9a4
+  releaseDate: null
+  subtype: ''
+  uuid: f03324ed-0288-5c75-812d-15b2e34be713
+- category: prerelease_pack
+  code: GTC-pre-GPKB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106351'
+  name: Gatecrash Prerelease Kit Boros
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3125e6e4a5829ecd
+  releaseDate: null
+  subtype: ''
+  uuid: 10e3cf0e-dd08-566f-bf2e-18ad0b453ed4
+- category: prerelease_pack
+  code: GTC-pre-GPKD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106352'
+  name: Gatecrash Prerelease Kit Dimir
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/acbcc030122a7ad7
+  releaseDate: null
+  subtype: ''
+  uuid: 0fa4a867-eea3-5f96-9a1e-ea884e92463b
+- category: prerelease_pack
+  code: GTC-pre-GPKG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106353'
+  name: Gatecrash Prerelease Kit Gruul
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/66678b32f8eed904
+  releaseDate: null
+  subtype: ''
+  uuid: 10a6c068-8876-532a-8ee6-74bd2b073492
+- category: prerelease_pack
+  code: GTC-pre-GPKO
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106354'
+  name: Gatecrash Prerelease Kit Orzhov
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f4e43373dee2c4e2
+  releaseDate: null
+  subtype: ''
+  uuid: 22347cdc-84fd-57fc-9683-d74596a92b46
+- category: prerelease_pack
+  code: GTC-pre-GPKS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '106355'
+  name: Gatecrash Prerelease Kit Simic
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b31419b548dce999
+  releaseDate: null
+  subtype: ''
+  uuid: b96738e7-df54-5a19-a3a0-b32d8d02dc75
+- category: deck
+  code: GTC-deck-evnt-GEDTT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110553'
+  name: Gatecrash Event Deck Thrive and Thrash
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/78a2bf604fc8aff2
+  releaseDate: null
+  subtype: event
+  uuid: c04fed7d-f18c-539c-8b36-de31a35d564f
+- category: deck
+  code: GTC-deck-evnt-GEDRR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110554'
+  name: Gatecrash Event Deck Rally and Rout
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e90e70b650a89049
+  releaseDate: null
+  subtype: event
+  uuid: 786f752f-632d-5c98-95b2-fa47ae57c0f3
+- category: two_player_starter_set
+  code: GTC-2plr-bpck-GBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '172938'
+  name: Gatecrash Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/251426c83578e993
+  releaseDate: null
+  subtype: battle_pack
+  uuid: d3771866-75ec-526c-a6b6-a9dca10e33ad

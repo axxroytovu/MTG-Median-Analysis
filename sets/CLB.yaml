@@ -1,0 +1,260 @@
+- category: booster_box
+  code: CLB-bbox-dft-CLBBGDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267019'
+  name: Commander Legends Battle for Baldurs Gate Draft Booster Box
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d8abb405c1f178d5
+  releaseDate: '2022-06-10'
+  subtype: draft
+  uuid: e6b8dad4-3b9c-552e-a608-f0f6c73fcad9
+- category: booster_pack
+  code: CLB-pack-dft-CLBBGDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267020'
+  name: Commander Legends Battle for Baldurs Gate Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2bef7d3f9a0b0c38
+  releaseDate: '2022-06-10'
+  subtype: draft
+  uuid: c2ecb06a-af21-54e4-80e3-34159a9e8583
+- category: booster_pack
+  code: CLB-pack-set-CLBBGSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267021'
+  name: Commander Legends Battle for Baldurs Gate Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c6ed52441bbc797e
+  releaseDate: '2022-06-10'
+  subtype: set
+  uuid: d41e5021-de07-569d-b133-c7e058c2f31b
+- category: booster_box
+  code: CLB-bbox-set-CLBBGSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267022'
+  name: Commander Legends Battle for Baldurs Gate Set Booster Box
+  productSize: 18
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3a9891dc75fe0a73
+  releaseDate: '2022-06-10'
+  subtype: set
+  uuid: b3d8f581-4ad8-5a94-a1e1-a3239884c9c7
+- category: booster_box
+  code: CLB-bbox-col-CLBBGCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267023'
+  name: Commander Legends Battle for Baldurs Gate Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dd95b56b2b455626
+  releaseDate: null
+  subtype: collector
+  uuid: d1536a3f-b8d2-588b-9228-aab2c8fe78ff
+- category: booster_pack
+  code: CLB-pack-col-CLBBGCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267024'
+  name: Commander Legends Battle for Baldurs Gate Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6cbaf47ae1613084
+  releaseDate: '2022-06-10'
+  subtype: collector
+  uuid: c0fa8d42-016e-51a5-a6cf-d05167da13ba
+- category: commander_deck
+  code: CLB-cmr-CLBBGPTCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267025'
+  name: Commander Legends Battle for Baldurs Gate Party Time Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c0019f77f4da1f2
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 28d73338-8ea6-5372-8589-da7b346b1a63
+- category: commander_deck
+  code: CLB-cmr-mpck-CLBBGPTCDMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267026'
+  name: Commander Legends Battle for Baldurs Gate Party Time Commander Deck Minimal
+    Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b28d847242423ec5
+  releaseDate: '2022-06-10'
+  subtype: minimal_packaging
+  uuid: 730b7d74-e859-543c-b070-11235fd0e9b7
+- category: commander_deck
+  code: CLB-cmr-CLBBGMFCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267027'
+  name: Commander Legends Battle for Baldurs Gate Mind Flayarrrs Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9d2cb4ca8d2ccf4d
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 869ad7d5-1080-5175-a2f4-0d4abe326570
+- category: commander_deck
+  code: CLB-cmr-mpck-CLBBGMFCDMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267028'
+  name: Commander Legends Battle for Baldurs Gate Mind Flayarrrs Commander Deck Minimal
+    Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0f75537bdd1c7e13
+  releaseDate: '2022-06-10'
+  subtype: minimal_packaging
+  uuid: 2b0d8b6d-ee87-5648-8c56-091d9e1f771c
+- category: commander_deck
+  code: CLB-cmr-mpck-CLBBGDDCDMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267029'
+  name: Commander Legends Battle for Baldurs Gate Draconic Dissent Commander Deck
+    Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dac17233172fd2d9
+  releaseDate: '2022-06-10'
+  subtype: minimal_packaging
+  uuid: 5c1f9e7a-2f15-52e3-a52b-d42a2c8934ff
+- category: commander_deck
+  code: CLB-cmr-CLBBGDDCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267030'
+  name: Commander Legends Battle for Baldurs Gate Draconic Dissent Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/07261c29933b0c46
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 96bd2a8c-587f-581b-b896-d028f3d49979
+- category: commander_deck
+  code: CLB-cmr-CLBBGEECD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267031'
+  name: Commander Legends Battle for Baldurs Gate Exit from Exile Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9171541795da693a
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: fedf9889-9218-50c0-839f-14112c62905a
+- category: commander_deck
+  code: CLB-cmr-mpck-CLBBGEECDMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267032'
+  name: Commander Legends Battle for Baldurs Gate Exit from Exile Commander Deck Minimal
+    Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4e78cef2d6f0670f
+  releaseDate: '2022-06-10'
+  subtype: minimal_packaging
+  uuid: 35998a1c-e429-5efb-bb74-c11f721a7713
+- category: draft_set
+  code: CLB-dft-dft-CLBBGBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267033'
+  name: Commander Legends Battle for Baldurs Gate 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0134015e29dbfc91
+  releaseDate: '2022-06-10'
+  subtype: draft
+  uuid: 4b0f969d-a0e0-5ce9-90f8-00484204ccb0
+- category: commander_deck
+  code: CLB-cmr-CLBBGB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267034'
+  name: Commander Legends Battle for Baldurs Gate Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd4138c873a5712f
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 89ec73e1-5d97-57fc-b6a5-1eb6ecba6695
+- category: prerelease_pack
+  code: CLB-pre-CLBBGPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '267035'
+  name: Commander Legends Battle for Baldurs Gate Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/49ffbbe7a9a5c44d
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: e2efbbd9-3006-5847-acb9-1cd919efe731
+- category: case
+  code: CLB-case-dft-CLBBGDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '268512'
+  name: Commander Legends Battle for Baldurs Gate Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef267dca8766f44d
+  releaseDate: '2022-06-10'
+  subtype: draft
+  uuid: ba70c535-9415-5e11-9275-b8e71f59a1b3
+- category: case
+  code: CLB-case-CLBBGSBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '268513'
+  name: Commander Legends Battle for Baldurs Gate Set Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/088fc64306703519
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 16e5db66-aae0-53e0-9dc1-08965be6c365
+- category: case
+  code: CLB-case-col-CLBBGCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '268514'
+  name: Commander Legends Battle for Baldurs Gate Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/450da457b39710f2
+  releaseDate: null
+  subtype: collector
+  uuid: 9578bdc4-dbfd-5fec-a996-b80ccec949ff
+- category: case
+  code: CLB-case-CLBBGBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '268516'
+  name: Commander Legends Battle for Baldurs Gate Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fa9ea29d57e9522b
+  releaseDate: '2022-06-10'
+  subtype: ''
+  uuid: 96e44935-25de-5b9c-b1cb-2d416696eecd
+- category: commander_deck
+  code: CLB-cmr-CLBBGCDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '271583'
+  name: Commander Legends Battle for Baldurs Gate Commander Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5906c4ffd19fdaf8
+  releaseDate: null
+  subtype: ''
+  uuid: c69d6f92-ba20-52e1-89b6-9e2fb3713145
+- category: booster_pack
+  code: CLB-pack-col-CLBBGCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '281727'
+  name: Commander Legends Battle for Baldurs Gate Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8ef28870a86d12f0
+  releaseDate: null
+  subtype: collector
+  uuid: 34d2b966-2d83-5683-a19f-48207b830207

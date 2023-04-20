@@ -1,0 +1,11 @@
+- category: booster_pack
+  code: G06-pack-set-JPPFALS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '448319'
+  name: Judge Promo Pack 2014 Full Art Land Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d12d78a807d20473
+  releaseDate: null
+  subtype: set
+  uuid: a0b85d64-0b22-5d96-b8fb-f1656e9940b5

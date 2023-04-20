@@ -1,0 +1,11 @@
+- category: box_set
+  code: V12-bset-ftv-FVRBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60149'
+  name: From the Vault Realms Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7a53f0f4118b500
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: 9bfc6ef4-ebf5-5466-ae61-de050ec89aa3

@@ -1,0 +1,23 @@
+- category: booster_box
+  code: UGL-bbox-dft-UBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27312'
+  name: Unglued Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9fa3b5272e3b6e07
+  releaseDate: null
+  subtype: draft
+  uuid: 0c5bc6af-bcd4-5d80-9ebd-98a5a4dceb2d
+- category: booster_pack
+  code: UGL-pack-dft-UBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27374'
+  name: Unglued Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b5265610f91bddeb
+  releaseDate: null
+  subtype: draft
+  uuid: 854f83da-bb8e-58e8-adc6-e4efc447d13c

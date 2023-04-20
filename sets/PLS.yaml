@@ -1,0 +1,78 @@
+- category: booster_box
+  code: PLS-bbox-dft-PBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27297'
+  name: Planeshift Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/66e0ecb74ad08b06
+  releaseDate: null
+  subtype: draft
+  uuid: b449ba09-608e-502c-8c0c-c6f344321eec
+- category: booster_pack
+  code: PLS-pack-dft-PBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27359'
+  name: Planeshift Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ce64ddb452ff6618
+  releaseDate: null
+  subtype: draft
+  uuid: c981cb60-bddd-5a80-9e4b-af2dd4d35f57
+- category: bundle
+  code: PLS-bndl-PFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78326'
+  name: Planeshift Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/11bf6127b81ad938
+  releaseDate: null
+  subtype: ''
+  uuid: 4e2fd405-deae-5df4-afa3-6126d760d6bc
+- category: deck
+  code: PLS-deck-thm-PBTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '93345'
+  name: Planeshift Barrage Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e492458941ec4799
+  releaseDate: null
+  subtype: theme
+  uuid: 86a8edf1-9f28-5f7c-85fd-0e8d09ed3067
+- category: deck
+  code: PLS-deck-thm-PCTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '93346'
+  name: Planeshift Comeback Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/adecf7db591be04a
+  releaseDate: null
+  subtype: theme
+  uuid: 486b433e-c01f-50db-9426-4784e91714b9
+- category: deck
+  code: PLS-deck-thm-PDTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '93347'
+  name: Planeshift Domain Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/66eb94bd2ec34ef6
+  releaseDate: null
+  subtype: theme
+  uuid: 14351105-0417-5d2f-bf8b-8a18acd71fba
+- category: deck
+  code: PLS-deck-thm-PSTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '93348'
+  name: Planeshift Scout Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f527daba3c02d10d
+  releaseDate: null
+  subtype: theme
+  uuid: e78c1e7a-47ac-5dbd-9866-d6cc57583a3e

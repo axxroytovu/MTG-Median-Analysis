@@ -1,0 +1,11 @@
+- category: box_set
+  code: SS3-bset-spb-SSCBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '210721'
+  name: Signature Spellbook Chandra Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f6118b391b820620
+  releaseDate: '2020-06-26'
+  subtype: spellbook
+  uuid: e891280f-65b3-51f0-9fec-1a2d3983fc86

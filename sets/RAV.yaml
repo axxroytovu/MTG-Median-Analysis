@@ -1,0 +1,100 @@
+- category: booster_box
+  code: RAV-bbox-dft-RBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27302'
+  name: Ravnica Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bdd6f26634db8a9e
+  releaseDate: null
+  subtype: draft
+  uuid: 9ac94035-6213-5e21-a64f-654cdbec3f05
+- category: booster_pack
+  code: RAV-pack-dft-RBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27364'
+  name: Ravnica Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8c059ae834769a21
+  releaseDate: null
+  subtype: draft
+  uuid: fb684793-38fa-5e34-bc75-34cff075443c
+- category: bundle
+  code: RAV-bndl-RFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78295'
+  name: Ravnica Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/373bd4938ef11503
+  releaseDate: null
+  subtype: ''
+  uuid: f987f61b-218e-5e36-9570-46db49dcf373
+- category: deck
+  code: RAV-deck-thm-RTDCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96335'
+  name: Ravnica Theme Deck Charge of the Boros
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bcf52c82df1405e6
+  releaseDate: null
+  subtype: theme
+  uuid: a9b7d631-0799-57aa-8784-b4dbebd20b58
+- category: deck
+  code: RAV-deck-thm-RTDDI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96336'
+  name: Ravnica Theme Deck Dimir Intrigues
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/295793963cd5b8d3
+  releaseDate: null
+  subtype: theme
+  uuid: 76b84a2b-e8fd-577a-a1ea-45185eff6340
+- category: deck
+  code: RAV-deck-thm-RTDGD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96337'
+  name: Ravnica Theme Deck Golgari Deathcreep
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3262de047a843ab5
+  releaseDate: null
+  subtype: theme
+  uuid: 2064906f-90f7-5995-ab27-c6150f391afd
+- category: deck
+  code: RAV-deck-thm-RTDSU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96339'
+  name: Ravnica Theme Deck Selesnya United
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d9383c0942a8e70a
+  releaseDate: null
+  subtype: theme
+  uuid: e5655754-ff66-5135-af7b-e70fdbc68122
+- category: deck
+  code: RAV-deck-RTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118876'
+  name: Ravnica Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/236b4dce02dedf5a
+  releaseDate: null
+  subtype: ''
+  uuid: 303d70f4-790d-5ccf-af92-fb6fe17c2311
+- category: case
+  code: RAV-case-RTPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '265603'
+  name: Ravnica Tournament Pack Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/179f76fad69ca939
+  releaseDate: null
+  subtype: ''
+  uuid: 363407f0-695e-5989-8088-16a094880eed

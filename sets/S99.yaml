@@ -1,0 +1,22 @@
+- category: booster_pack
+  code: S99-pack-str-SBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '168359'
+  name: Starter 1999 Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/26bf529bac15eb30
+  releaseDate: null
+  subtype: starter
+  uuid: 2e237abb-7f02-5eac-98fe-4b680586f02c
+- category: booster_pack
+  code: S99-pack-str-SDGBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '257332'
+  name: Starter 1999 Demo Game Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7f116c6e7e84aab
+  releaseDate: null
+  subtype: starter
+  uuid: 6356eb22-9a81-554f-bd19-4d90deaab024

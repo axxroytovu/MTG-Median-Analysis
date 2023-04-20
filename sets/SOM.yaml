@@ -1,0 +1,111 @@
+- category: bundle
+  code: SOM-bndl-SMFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '35746'
+  name: Scars of Mirrodin Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/682b8be06a542567
+  releaseDate: null
+  subtype: ''
+  uuid: c21ba9ec-f9cc-52c6-a2b5-24e32c0bbcd5
+- category: booster_pack
+  code: SOM-pack-dft-SMBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '35747'
+  name: Scars of Mirrodin Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ff8644af78f65ef5
+  releaseDate: null
+  subtype: draft
+  uuid: b9b14ddf-828f-5259-bf0b-fc8ee6038f7f
+- category: booster_pack
+  code: SOM-pack-dft-SMBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '35748'
+  name: Scars of Mirrodin 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/43c880e2a19a836a
+  releaseDate: null
+  subtype: draft
+  uuid: 034e7c3e-66ff-5e1f-bd3e-284f7775e909
+- category: booster_box
+  code: SOM-bbox-dft-SMBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '35749'
+  name: Scars of Mirrodin Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/88702c5865694ac5
+  releaseDate: null
+  subtype: draft
+  uuid: e5166a4a-a8b2-5485-a476-8986af8ea94e
+- category: case
+  code: SOM-case-SMBBCBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '35750'
+  name: Scars of Mirrodin Booster Box Case 6 Booster Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ee23ae7de8e8ec86
+  releaseDate: null
+  subtype: ''
+  uuid: 3b64e99b-f7e7-55f9-bd01-2e4676237964
+- category: deck
+  code: SOM-deck-intr-SMIPMM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196801'
+  name: Scars of Mirrodin Intro Pack Myr of Mirrodin
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cc5ffa44acf78a3e
+  releaseDate: null
+  subtype: intro
+  uuid: 3598016a-8f9f-52f5-89f8-35d47cb5bd5f
+- category: deck
+  code: SOM-deck-intr-SMIPM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196802'
+  name: Scars of Mirrodin Intro Pack Metalcraft
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c031abdaf883d8e2
+  releaseDate: null
+  subtype: intro
+  uuid: 2f8798de-aa7e-5abe-ad35-9696aa65ef6d
+- category: deck
+  code: SOM-deck-intr-SMIPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196803'
+  name: Scars of Mirrodin Intro Pack Deadspread
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5dcff62ed98b0542
+  releaseDate: null
+  subtype: intro
+  uuid: a303bcb2-31de-50fd-9565-133c86f8f37a
+- category: deck
+  code: SOM-deck-intr-SMIPRB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196804'
+  name: Scars of Mirrodin Intro Pack Relic Breaker
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6496823dd5104d18
+  releaseDate: null
+  subtype: intro
+  uuid: b16793c3-062f-5ded-8ba4-fa8046f2a532
+- category: deck
+  code: SOM-deck-intr-SMIPPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '196805'
+  name: Scars of Mirrodin Intro Pack Phyrexian Poison
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9fd6a38a0b9c209e
+  releaseDate: null
+  subtype: intro
+  uuid: f386c97a-0bd4-5131-b9bb-abe23b07680f

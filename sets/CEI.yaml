@@ -1,0 +1,11 @@
+- category: box_set
+  code: CEI-bset-IEB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '177865'
+  name: International Edition Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c565a0aeacfa4c9b
+  releaseDate: null
+  subtype: ''
+  uuid: 77e3a2b6-e115-5519-a3c9-730a8e019449

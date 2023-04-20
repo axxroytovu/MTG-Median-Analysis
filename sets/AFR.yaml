@@ -1,0 +1,268 @@
+- category: booster_box
+  code: AFR-bbox-dft-AFRDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238730'
+  name: Adventures in the Forgotten Realms Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7cc209c5a76eea42
+  releaseDate: '2021-07-23'
+  subtype: draft
+  uuid: eec88e2a-afd8-5590-8025-242da70a4520
+- category: booster_pack
+  code: AFR-pack-dft-AFRDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238731'
+  name: Adventures in the Forgotten Realms Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/07c309291c39697e
+  releaseDate: '2021-07-23'
+  subtype: draft
+  uuid: 93fab1fe-dde0-5bfd-aae5-755c6e43bc3d
+- category: bundle
+  code: AFR-bndl-AFRB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238732'
+  name: Adventures in the Forgotten Realms Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/70d4db3ac70650db
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: 9b6662a9-c867-5fe4-ac6d-6d2e17148f08
+- category: booster_box
+  code: AFR-bbox-set-AFRSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238739'
+  name: Adventures in the Forgotten Realms Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6fd854ace4436acc
+  releaseDate: '2021-07-23'
+  subtype: set
+  uuid: bc04f3f9-0655-5815-b64a-6f1947fca9e2
+- category: booster_pack
+  code: AFR-pack-set-AFRSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238741'
+  name: Adventures in the Forgotten Realms Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/292a672f080e3f22
+  releaseDate: '2021-07-23'
+  subtype: set
+  uuid: 30276ac1-7d36-5a87-9ee9-b7b5087520b5
+- category: booster_box
+  code: AFR-bbox-col-AFRCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238745'
+  name: Adventures in the Forgotten Realms Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7e8ffb64eaf4f32
+  releaseDate: '2021-07-23'
+  subtype: collector
+  uuid: 25c8731a-bd3e-50aa-a937-caf6ff6ec6ac
+- category: booster_pack
+  code: AFR-pack-col-AFRCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238746'
+  name: Adventures in the Forgotten Realms Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/25d43ddbc81ec200
+  releaseDate: '2021-07-23'
+  subtype: collector
+  uuid: d5512a78-bb11-5566-a634-7c9e4fa91396
+- category: subset
+  code: AFR-sub-thm-AFRTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238820'
+  name: Adventures in the Forgotten Realms Theme Booster Set of 6
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1dd032b641715048
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 5d933d32-88cd-517c-b7e1-a2b8ab80261c
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238822'
+  name: Adventures in the Forgotten Realms Theme Booster Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/309c1dae110440f6
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 03d05bc6-ca88-506e-8332-bb71a5789dd4
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238824'
+  name: Adventures in the Forgotten Realms Theme Booster White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ee697c5082f6bab0
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 2e7b1f55-5c3e-51f4-a06a-f2444fded29e
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBB-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238825'
+  name: Adventures in the Forgotten Realms Theme Booster Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d2bd83d4c1739c9b
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: b0aa9d7a-9b76-5069-9ff2-f7395dcc2252
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238826'
+  name: Adventures in the Forgotten Realms Theme Booster Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4fe9171d28f29bf0
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: d8434f99-8e6c-5210-892a-013345ec7899
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238827'
+  name: Adventures in the Forgotten Realms Theme Booster Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/43d7b5c61f19217c
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 6f1a8390-df17-5641-bace-a6d622c414ba
+- category: booster_pack
+  code: AFR-pack-thm-AFRTBDT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238829'
+  name: Adventures in the Forgotten Realms Theme Booster Dungeon Theme
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ab3baa0c411b80cd
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 71975e86-2dd4-56c4-8fa3-9734ed27f556
+- category: booster_box
+  code: AFR-bbox-thm-AFRTBDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238833'
+  name: Adventures in the Forgotten Realms Theme Booster Display Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3b72af28d508beb1
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 8bb2449f-6b82-57ec-b26b-b42ed8fa3c9f
+- category: case
+  code: AFR-case-thm-AFRTBDBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238842'
+  name: Adventures in the Forgotten Realms Theme Booster Display Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f45dcd284120fa23
+  releaseDate: '2021-07-23'
+  subtype: theme
+  uuid: 2a5d1770-ad3b-5788-a1e2-1b3b88257b33
+- category: prerelease_pack
+  code: AFR-pre-AFRPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238845'
+  name: Adventures in the Forgotten Realms Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ea1fb3e794427bb0
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: 0696252c-893b-5a4a-b61f-01a9527be559
+- category: case
+  code: AFR-case-col-AFRCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238851'
+  name: Adventures in the Forgotten Realms Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/780a268bdbb26f05
+  releaseDate: '2021-07-23'
+  subtype: collector
+  uuid: eb2069fe-67f8-5e5c-a90f-d7c84620c113
+- category: case
+  code: AFR-case-dft-AFRDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238854'
+  name: Adventures in the Forgotten Realms Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cbc8dc4c2897adf0
+  releaseDate: '2021-07-23'
+  subtype: draft
+  uuid: b3e85125-4241-5e3a-b091-a39bd46d19ce
+- category: case
+  code: AFR-case-AFRSBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '238858'
+  name: Adventures in the Forgotten Realms Set Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a52f60864bac408d
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: 89805c00-af22-59f7-8d79-0ab395e541e1
+- category: bundle
+  code: AFR-bndl-AFRBGE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '243658'
+  name: Adventures in the Forgotten Realms Bundle Gift Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/496551cf6a945001
+  releaseDate: '2021-07-23'
+  subtype: ''
+  uuid: c73f460d-6c7f-585a-a1fa-a9314b57fe96
+- category: case
+  code: AFR-case-AFRPPC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '251069'
+  name: Adventures in the Forgotten Realms Prerelease Pack Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1d9d51058e04004e
+  releaseDate: null
+  subtype: ''
+  uuid: e4b78457-6f7d-59ad-ba2b-1dad9c76acf6
+- category: booster_pack
+  code: AFR-pack-col-AFRCBRP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '281703'
+  name: Adventures in the Forgotten Realms Collector Booster Retail Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9933c7848bce4d60
+  releaseDate: null
+  subtype: collector
+  uuid: 8ce915b9-2499-5bd7-b68c-b413233743e8
+- category: booster_pack
+  code: AFR-pack-col-AFRCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '281706'
+  name: Adventures in the Forgotten Realms Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a0b2e59c19c8e278
+  releaseDate: null
+  subtype: collector
+  uuid: 5c68a42a-99a2-5171-913f-fc318a992afe

@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDK-bset-DDSTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '67874'
+  name: Duel Decks Sorin vs Tibalt Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/718929018ddabe3b
+  releaseDate: null
+  subtype: ''
+  uuid: 46cbb6f3-e717-5eec-aee1-03175ab09249

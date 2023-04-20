@@ -1,0 +1,89 @@
+- category: booster_box
+  code: RIX-bbox-dft-RIBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '149404'
+  name: Rivals of Ixalan Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8e5bbb41510dd992
+  releaseDate: '2018-01-19'
+  subtype: draft
+  uuid: 0258ca98-bd64-52e6-90a7-fd63a7935172
+- category: booster_pack
+  code: RIX-pack-dft-RIBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '149405'
+  name: Rivals of Ixalan Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cf76082cfb404e33
+  releaseDate: '2018-01-19'
+  subtype: draft
+  uuid: 307394ca-be46-5a6c-a688-2f351a3f75db
+- category: case
+  code: RIX-case-RIBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '149406'
+  name: Rivals of Ixalan Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0aaba6a15e7ae869
+  releaseDate: '2018-01-19'
+  subtype: ''
+  uuid: 1dd6ecaa-2bca-5729-ac2c-7919b4b9c75f
+- category: deck
+  code: RIX-deck-plw-RIPDA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '154414'
+  name: Rivals of Ixalan Planeswalker Deck Angrath
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/461cac6b350ecd1b
+  releaseDate: '2018-01-19'
+  subtype: planeswalker
+  uuid: 0da24da5-ff1a-503a-bc0b-4314a4e5077f
+- category: deck
+  code: RIX-deck-plw-RIPDV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '154415'
+  name: Rivals of Ixalan Planeswalker Deck Vraska
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4802d057d85201c
+  releaseDate: '2018-01-19'
+  subtype: planeswalker
+  uuid: b146e6c1-eea1-571c-8d51-b18aa4efd1dc
+- category: subset
+  code: RIX-sub-plw-RIPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '154416'
+  name: Rivals of Ixalan Planeswalker Deck Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/76add51964968447
+  releaseDate: '2018-01-19'
+  subtype: planeswalker
+  uuid: 29e39592-69ac-575c-b7f7-4dbe664d3883
+- category: bundle
+  code: RIX-bndl-RIB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '154729'
+  name: Rivals of Ixalan Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/eecdc54a728cc5f2
+  releaseDate: '2018-01-19'
+  subtype: ''
+  uuid: 4c446b5e-d1fb-5cca-b673-e0b142cc7000
+- category: prerelease_pack
+  code: RIX-pre-RIPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '157613'
+  name: Rivals of Ixalan Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/845ee81e7e54cfbc
+  releaseDate: null
+  subtype: ''
+  uuid: 4501ff6e-f81b-5d08-9f79-1fac2f2a4c51

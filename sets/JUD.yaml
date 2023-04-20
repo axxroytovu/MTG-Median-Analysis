@@ -1,0 +1,78 @@
+- category: booster_box
+  code: JUD-bbox-dft-JBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27285'
+  name: Judgment Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7fadcf9f1f4ccb9a
+  releaseDate: null
+  subtype: draft
+  uuid: c2aedc93-0012-55de-a320-6e9c5a380620
+- category: booster_pack
+  code: JUD-pack-dft-JBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27347'
+  name: Judgment Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d49461fe3ba87c7a
+  releaseDate: null
+  subtype: draft
+  uuid: bbae3f28-02b5-5e64-af4e-6ae73e28ea35
+- category: bundle
+  code: JUD-bndl-JFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78315'
+  name: Judgment Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4c7bc2c90027b68
+  releaseDate: null
+  subtype: ''
+  uuid: 160c6ef9-6782-5206-a57c-3d998b250b20
+- category: deck
+  code: JUD-deck-thm-JTDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175067'
+  name: Judgment Theme Deck Painflow
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3b091479b374f718
+  releaseDate: null
+  subtype: theme
+  uuid: f3546834-0672-550f-93f6-12f933f10993
+- category: deck
+  code: JUD-deck-thm-JTDAR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175068'
+  name: Judgment Theme Deck Air Razers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4cb08aeba2782bd3
+  releaseDate: null
+  subtype: theme
+  uuid: c545b70b-5e17-5a77-a225-fc3609203c67
+- category: deck
+  code: JUD-deck-thm-JTDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175069'
+  name: Judgment Theme Deck Spectral Slam
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/42f9b460709bc34f
+  releaseDate: null
+  subtype: theme
+  uuid: f5943fc3-da3c-5e69-9227-80c54a79e585
+- category: deck
+  code: JUD-deck-thm-JTDI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '175070'
+  name: Judgment Theme Deck Inundation
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7fb54860ab8ab0f9
+  releaseDate: null
+  subtype: theme
+  uuid: 89d0cb57-f12d-52ed-aa74-192219f9de09

@@ -1,0 +1,23 @@
+- category: booster_box
+  code: HML-bbox-dft-HBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27282'
+  name: Homelands Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c0b404242dfc9a5
+  releaseDate: null
+  subtype: draft
+  uuid: 6454c98e-0e8c-5bc7-a45a-76cea4f16dd7
+- category: booster_pack
+  code: HML-pack-dft-HBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27344'
+  name: Homelands Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2a50fb1514a87113
+  releaseDate: null
+  subtype: draft
+  uuid: c9de01e3-8ad0-5efa-a5f4-4cfeac03e5c7

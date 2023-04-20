@@ -1,0 +1,121 @@
+- category: case
+  code: C21-case-CS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235087'
+  name: Commander 2021 Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/66111051a7dd91a1
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: 5a02c740-9641-516a-a422-0541772c3a0f
+- category: commander_deck
+  code: C21-cmr-CDWW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235088'
+  name: Commander 2021 Deck Witherbloom Witchcraft
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/91fb7fd1f93e5774
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: 97144389-22ae-50ca-b3b0-def3ec1291cd
+- category: commander_deck
+  code: C21-cmr-CDPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235089'
+  name: Commander 2021 Deck Prismari Performance
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/79e980ca5fd5160b
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: 01f2b0d0-97de-5676-b81c-5a861c020fea
+- category: commander_deck
+  code: C21-cmr-CDQQ
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235090'
+  name: Commander 2021 Deck Quantum Quandrix
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/26a06a104873aae6
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: a3cf3e62-62a9-5f45-908b-00a7f74857dd
+- category: commander_deck
+  code: C21-cmr-CDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235091'
+  name: Commander 2021 Deck Silverquill Statement
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4c1df1fc69b5090
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: 31e6c939-6a79-57b3-9fbd-f703410927e6
+- category: commander_deck
+  code: C21-cmr-CDLL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '235092'
+  name: Commander 2021 Deck Lorehold Legacies
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/eea19515aedac984
+  releaseDate: '2021-04-23'
+  subtype: ''
+  uuid: ce510611-a73a-52d7-8b55-030a961cb21b
+- category: commander_deck
+  code: C21-cmr-mpck-CDLLMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236479'
+  name: Commander 2021 Deck Lorehold Legacies Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2a1d05b2a282f0af
+  releaseDate: '2021-04-23'
+  subtype: minimal_packaging
+  uuid: 086ac535-f8ee-54b2-af1a-85961f94c7c0
+- category: commander_deck
+  code: C21-cmr-mpck-CDPPMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236480'
+  name: Commander 2021 Deck Prismari Performance Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c6aa3f06078ca6a4
+  releaseDate: '2021-04-23'
+  subtype: minimal_packaging
+  uuid: 9057739a-5dae-5dc1-9f98-9a721dd82564
+- category: commander_deck
+  code: C21-cmr-mpck-CDQQMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236481'
+  name: Commander 2021 Deck Quantum Quandrix Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a605b6d13f4fe4e1
+  releaseDate: '2021-04-23'
+  subtype: minimal_packaging
+  uuid: e033fdeb-e978-5bcc-9cd7-0a7b66df610f
+- category: commander_deck
+  code: C21-cmr-mpck-CDSSMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236482'
+  name: Commander 2021 Deck Silverquill Statement Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7646108c79652164
+  releaseDate: '2021-04-23'
+  subtype: minimal_packaging
+  uuid: 4051d28f-6a3a-50a7-8896-122ed40bd0fe
+- category: commander_deck
+  code: C21-cmr-mpck-CDWWMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236483'
+  name: Commander 2021 Deck Witherbloom Witchcraft Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/abd19302d3586654
+  releaseDate: '2021-04-23'
+  subtype: minimal_packaging
+  uuid: 2a27f868-3703-5d4c-9a66-5e680bcb9135

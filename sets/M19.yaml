@@ -1,0 +1,133 @@
+- category: booster_box
+  code: M19-bbox-set-CSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166550'
+  name: Core Set 2019 Booster Box
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2f0b2cd780f74cd9
+  releaseDate: '2018-07-13'
+  subtype: set
+  uuid: dc4f7872-fe11-5cb5-8036-157ab2247c61
+- category: booster_pack
+  code: M19-pack-set-CSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166551'
+  name: Core Set 2019 Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4c2119b13ed10412
+  releaseDate: '2018-07-13'
+  subtype: set
+  uuid: 36d4765d-add1-5d6b-8bff-f342ef62a3d0
+- category: case
+  code: M19-case-CSBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166552'
+  name: Core Set 2019 Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c4597cdc1128ebaf
+  releaseDate: '2018-07-13'
+  subtype: ''
+  uuid: 8eee5b71-8e03-5f7c-9461-b4ca5fc8b7b4
+- category: box_set
+  code: M19-bset-tkt-CSDBT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166553'
+  name: Core Set 2019 Deck Builders Toolkit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a99b5a9d352cd481
+  releaseDate: '2018-07-13'
+  subtype: deck_builders_toolkit
+  uuid: 386d5ab9-b385-574c-9d8c-f63cd9e66866
+- category: prerelease_pack
+  code: M19-pre-CSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166555'
+  name: Core Set 2019 Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a2bca22aa9384048
+  releaseDate: '2018-07-13'
+  subtype: ''
+  uuid: 7d309cf3-5b2a-546b-bb7a-2eacc3606ad8
+- category: deck
+  code: M19-deck-plw-CSPDT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166560'
+  name: Core Set 2019 Planeswalker Deck Tezzeret
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a05daf285fa429c9
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: a7fa406e-78f9-5bee-ae80-0059efd9ace4
+- category: bundle
+  code: M19-bndl-CSB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '166562'
+  name: Core Set 2019 Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d8b204f9f9688328
+  releaseDate: '2018-07-13'
+  subtype: ''
+  uuid: 9e687586-1905-5baa-9fd7-5e7271821213
+- category: deck
+  code: M19-deck-plw-CSPDA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '169265'
+  name: Core Set 2019 Planeswalker Deck Ajani
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4e2c8be0e84ea738
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: fdac09a3-55da-5e1c-b20d-2ec8cd541fd1
+- category: deck
+  code: M19-deck-plw-CSPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '169266'
+  name: Core Set 2019 Planeswalker Deck Sarkhan
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f795b976ce723f83
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: 54ac2139-1043-5f7d-9e84-0c18ad249879
+- category: deck
+  code: M19-deck-plw-CSPDV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '169267'
+  name: Core Set 2019 Planeswalker Deck Vivien
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d5df1835e6c70c1c
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: a78bd391-ba28-5133-bc98-afe2cd878c0a
+- category: deck
+  code: M19-deck-plw-CSPDL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '169268'
+  name: Core Set 2019 Planeswalker Deck Liliana
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aaf1d37943336cba
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: 9967011a-b908-5af9-8f17-77fbe3810564
+- category: subset
+  code: M19-sub-plw-CSPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '169269'
+  name: Core Set 2019 Planeswalker Deck Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f6d033a4e3ae0af8
+  releaseDate: '2018-07-13'
+  subtype: planeswalker
+  uuid: f15d3891-18c5-5ce1-9a70-340b4e5f71b2

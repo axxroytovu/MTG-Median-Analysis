@@ -1,0 +1,11 @@
+- category: box_set
+  code: BRB-bset-BRBSBRMPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77303'
+  name: Battle Royale Box Set Battle Royale Multi Player Box set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6f9967a0b79b1772
+  releaseDate: null
+  subtype: ''
+  uuid: c24e0b22-29f3-53a8-ba31-23533be5fed7

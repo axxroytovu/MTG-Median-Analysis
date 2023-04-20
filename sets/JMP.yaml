@@ -1,0 +1,45 @@
+- category: booster_box
+  code: JMP-bbox-jmp-JBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214821'
+  name: Jumpstart Booster Box
+  productSize: 18
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d65e9cedba012b8a
+  releaseDate: '2020-07-17'
+  subtype: jumpstart
+  uuid: 6fd6fc44-7c68-5f4c-85e6-4e6201d5ceee
+- category: booster_pack
+  code: JMP-pack-jmp-JBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214822'
+  name: Jumpstart Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3a3603d53759ba9f
+  releaseDate: null
+  subtype: jumpstart
+  uuid: ca9092e8-a921-5e37-ab9d-4b0f76bb0d01
+- category: draft_set
+  code: JMP-dft-jmp-JMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228819'
+  name: Jumpstart Multipack 4 Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fef631048577317d
+  releaseDate: null
+  subtype: jumpstart
+  uuid: 5dab8fa5-9eaf-5ceb-845e-8ebde4f69066
+- category: case
+  code: JMP-case-jmp-JBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '256965'
+  name: Jumpstart Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/34bc82d9630c8952
+  releaseDate: null
+  subtype: jumpstart
+  uuid: b69c1574-221b-5e70-88aa-5ebae5713897

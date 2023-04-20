@@ -1,0 +1,113 @@
+- category: commander_deck
+  code: 40K-cmr-UBWNDCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272308'
+  name: Universes Beyond Warhammer 40000 Necron Dynasties Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cc1a3a35cef3898d
+  releaseDate: '2022-10-07'
+  subtype: ''
+  uuid: 2fe7d03d-f1e5-5b6d-be96-aecec9ce14b8
+- category: commander_deck
+  code: 40K-cmr-col-UBWNDCDCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272311'
+  name: Universes Beyond Warhammer 40000 Necron Dynasties Commander Deck Collectors
+    Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/af8676075bea2d9a
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: 602456c6-6a0f-5eca-b208-4060d846397b
+- category: commander_deck
+  code: 40K-cmr-col-UBWTSCDCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272312'
+  name: Universes Beyond Warhammer 40000 Tyranid Swarm Commander Deck Collectors Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e53df7b4b2b90d43
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: b450aaee-ee99-5a38-b9c0-f2ac52ef5d5f
+- category: commander_deck
+  code: 40K-cmr-UBWTSCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272314'
+  name: Universes Beyond Warhammer 40000 Tyranid Swarm Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c4868446c3a26633
+  releaseDate: '2022-10-07'
+  subtype: ''
+  uuid: f0bfa2e5-b6df-5074-aeb5-55cc0afce971
+- category: commander_deck
+  code: 40K-cmr-UBWTRPCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272315'
+  name: Universes Beyond Warhammer 40000 The Ruinous Powers Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ac3befe4895211d9
+  releaseDate: '2022-10-07'
+  subtype: ''
+  uuid: c80ff5c2-610a-522b-abbd-bbd89b00baee
+- category: commander_deck
+  code: 40K-cmr-col-UBWTRPCDCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272317'
+  name: Universes Beyond Warhammer 40000 The Ruinous Powers Commander Deck Collectors
+    Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8cdb7746c610f1b9
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: b41684c6-38ce-513b-9462-8814abfb4af5
+- category: commander_deck
+  code: 40K-cmr-col-UBWFICDCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272318'
+  name: Universes Beyond Warhammer 40000 Forces of the Imperium Commander Deck Collectors
+    Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/159200c2a90ca9f7
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: 2bf368b7-d69e-5f91-bceb-2f24e08418ea
+- category: commander_deck
+  code: 40K-cmr-UBWFICD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272320'
+  name: Universes Beyond Warhammer 40000 Forces of the Imperium Commander Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a948dc862f84dae2
+  releaseDate: '2022-10-07'
+  subtype: ''
+  uuid: 7d85b15c-e95f-5650-a9a7-ed195ffa2c24
+- category: commander_deck
+  code: 40K-cmr-UBWCDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272321'
+  name: Universes Beyond Warhammer 40000 Commander Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1ba36b079e9e19dc
+  releaseDate: '2022-10-07'
+  subtype: ''
+  uuid: ce50b5d6-12e2-541d-9d20-e0fefd683e3d
+- category: commander_deck
+  code: 40K-cmr-col-UBWCDDCE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '272322'
+  name: Universes Beyond Warhammer 40000 Commander Deck Display Collectors Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d48ca30c5fd00f23
+  releaseDate: '2022-10-07'
+  subtype: collector
+  uuid: b62a83da-cdb7-52e7-8745-753ad68b95df

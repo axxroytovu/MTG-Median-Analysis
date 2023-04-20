@@ -1,0 +1,246 @@
+- category: booster_pack
+  code: ZNR-pack-dft-ZRDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220413'
+  name: Zendikar Rising Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/49c76587f86cd147
+  releaseDate: '2020-09-25'
+  subtype: draft
+  uuid: f3736d50-8967-5f09-89be-3b7a4eddb948
+- category: booster_box
+  code: ZNR-bbox-dft-ZRDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220414'
+  name: Zendikar Rising Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ce81acf35c9e403d
+  releaseDate: null
+  subtype: draft
+  uuid: 4af9eee1-4534-5af4-8eb0-0fc32e907534
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220415'
+  name: Zendikar Rising Theme Booster Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6d77c60e08480f65
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 4f856f4c-acfe-5a56-9132-e209a9107209
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBB-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220416'
+  name: Zendikar Rising Theme Booster Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/94f11b81d5ff53f2
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: cda147b2-fd2e-5395-b89f-24fb4afd0deb
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220417'
+  name: Zendikar Rising Theme Booster Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cb0b6cf5cfee981f
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 76f22eb1-d495-5a89-b2fa-564943f2d389
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220418'
+  name: Zendikar Rising Theme Booster Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d2e8701a53d62c17
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 44d5e4b3-adc2-5407-84be-88b7e7780f8f
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220419'
+  name: Zendikar Rising Theme Booster White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d442f3aff3672238
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 0332a109-d6ad-59f3-80fb-432a103bfb25
+- category: booster_box
+  code: ZNR-bbox-thm-ZRTBDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220420'
+  name: Zendikar Rising Theme Booster Display Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6ea72cdce87482bf
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 705f1a8c-48a9-5432-9cc8-c00e0744bca0
+- category: booster_pack
+  code: ZNR-pack-col-ZRCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220422'
+  name: Zendikar Rising Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fd72dc93658fe594
+  releaseDate: '2020-09-25'
+  subtype: collector
+  uuid: a23f1a83-e1de-5b30-8276-745cffbbaba3
+- category: booster_box
+  code: ZNR-bbox-col-ZRCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220423'
+  name: Zendikar Rising Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bf2ae2ea567aa076
+  releaseDate: null
+  subtype: collector
+  uuid: 75d4106e-cc77-521f-9d30-593574e0dc3e
+- category: bundle
+  code: ZNR-bndl-ZRB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220426'
+  name: Zendikar Rising Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/85330dbcff0acf16
+  releaseDate: '2020-09-25'
+  subtype: ''
+  uuid: 4d9d262a-6ab5-5e25-a933-e7876ebe86d4
+- category: case
+  code: ZNR-case-dft-ZRDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220522'
+  name: Zendikar Rising Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/36939992d7786f3a
+  releaseDate: '2020-09-25'
+  subtype: draft
+  uuid: a7831b69-abd3-5fd0-9b7c-373cc16d7a47
+- category: booster_box
+  code: ZNR-bbox-set-ZRSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220523'
+  name: Zendikar Rising Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/645ff283562ead66
+  releaseDate: '2020-09-25'
+  subtype: set
+  uuid: cbe6657d-0a4c-5340-8c88-f0c00ae89a70
+- category: booster_pack
+  code: ZNR-pack-set-ZRSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '220524'
+  name: Zendikar Rising Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d4acccd603170f49
+  releaseDate: '2020-09-25'
+  subtype: set
+  uuid: 2b7bdbc4-4089-5b7b-9930-dc7643227e7b
+- category: prerelease_pack
+  code: ZNR-pre-ZRPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '221314'
+  name: Zendikar Rising Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c5f550b5cdd49e8c
+  releaseDate: '2020-09-25'
+  subtype: ''
+  uuid: 7bd7948a-02dc-5871-a0b4-44029e71c5c5
+- category: prerelease_pack
+  code: ZNR-pre-ZRPPZRPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '221315'
+  name: Zendikar Rising Prerelease Pack plus 2 Zendikar Rising Prize Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bd2b816fc742c334
+  releaseDate: '2020-09-25'
+  subtype: ''
+  uuid: 91d043e7-0ca6-5f15-812f-710bccd77ca6
+- category: booster_pack
+  code: ZNR-pack-thm-ZRTBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '221915'
+  name: Zendikar Rising Theme Booster Party
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/572fb3e9c8fdc0fd
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: 9773d5c8-4b11-5276-9582-da4f32c44bdc
+- category: bundle
+  code: ZNR-bndl-ZRBGE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '221918'
+  name: Zendikar Rising Bundle Gift Edition
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/401fd13b407d5e34
+  releaseDate: '2020-09-25'
+  subtype: ''
+  uuid: c6c28758-a9f5-5001-b61f-b014d19adc69
+- category: subset
+  code: ZNR-sub-thm-ZRTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '222008'
+  name: Zendikar Rising Theme Booster Set of 6
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/796e4e69525e3e0d
+  releaseDate: '2020-09-25'
+  subtype: theme
+  uuid: be2e11c1-394e-5f5e-8b5b-0be0852898a8
+- category: case
+  code: ZNR-case-col-ZRCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230865'
+  name: Zendikar Rising Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d8d1c8d8addb2d00
+  releaseDate: null
+  subtype: collector
+  uuid: 40593da5-0584-56f9-927d-048a609db38d
+- category: booster_pack
+  code: ZNR-pack-col-ZRCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236693'
+  name: Zendikar Rising Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bbe36d3fd1a5cb91
+  releaseDate: null
+  subtype: collector
+  uuid: d2ab22c7-b20e-5ba0-bcdd-ec4578f4a349
+- category: case
+  code: ZNR-case-ZRPPC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '266779'
+  name: Zendikar Rising Prerelease Pack Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/df8fdf2cd9894ac8
+  releaseDate: null
+  subtype: ''
+  uuid: 146b3cbd-6432-58e4-b5da-7a530cfcaf0f

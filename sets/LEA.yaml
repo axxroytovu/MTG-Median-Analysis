@@ -1,0 +1,34 @@
+- category: booster_box
+  code: LEA-bbox-dft-AEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27262'
+  name: Alpha Edition Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7bcc9476dbbc3611
+  releaseDate: null
+  subtype: draft
+  uuid: 22bb173e-dfe7-5589-8616-c820fce5ebb4
+- category: booster_pack
+  code: LEA-pack-dft-AEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27324'
+  name: Alpha Edition Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a5a160aafd3ff5f9
+  releaseDate: null
+  subtype: draft
+  uuid: 1dbdd2d3-1455-5a0d-b775-f33fc1fcd7e2
+- category: deck
+  code: LEA-deck-str-AESD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '139147'
+  name: Alpha Edition Starter Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/487b629730e4d3dc
+  releaseDate: null
+  subtype: starter
+  uuid: 621c6612-daf6-57a6-b2d7-acc126583b4e

@@ -1,0 +1,45 @@
+- category: booster_pack
+  code: TSR-pack-dft-TSRDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230383'
+  name: Time Spiral Remastered Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6257ed493a5b955d
+  releaseDate: '2021-03-19'
+  subtype: draft
+  uuid: 6e0557cd-5888-5f2f-9ded-472eb84dad8c
+- category: booster_box
+  code: TSR-bbox-dft-TSRDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230384'
+  name: Time Spiral Remastered Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c9225f4451916409
+  releaseDate: '2021-03-19'
+  subtype: draft
+  uuid: 6bcacf1e-c25b-5109-a84e-a51df8f14d96
+- category: case
+  code: TSR-case-dft-TSRDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230385'
+  name: Time Spiral Remastered Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5f1f897f2404daba
+  releaseDate: '2021-03-19'
+  subtype: draft
+  uuid: b177f421-1d22-5b6e-88b6-53f77f2897a1
+- category: draft_set
+  code: TSR-dft-dft-TSRBDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '233766'
+  name: Time Spiral Remastered 3 Booster Draft Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5537c60e9f91aea1
+  releaseDate: '2021-03-19'
+  subtype: draft
+  uuid: 14ced0da-0398-5cee-b6da-d275b52ff6ce

@@ -1,0 +1,23 @@
+- category: booster_box
+  code: FEM-bbox-dft-FEBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27276'
+  name: Fallen Empires Booster Box
+  productSize: 60
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/590415e2c0b1a42f
+  releaseDate: null
+  subtype: draft
+  uuid: ae71589b-0372-5166-9408-d7ff8ba6b325
+- category: booster_pack
+  code: FEM-pack-dft-FEBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27338'
+  name: Fallen Empires Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a32d0df6ec0dcf4d
+  releaseDate: null
+  subtype: draft
+  uuid: cbbd7529-f4d9-53ac-bd3f-a55bd930c679

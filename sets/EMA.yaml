@@ -1,0 +1,34 @@
+- category: booster_box
+  code: EMA-bbox-dft-EMBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '114832'
+  name: Eternal Masters Booster Box
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7b1e0858f882f31
+  releaseDate: null
+  subtype: draft
+  uuid: 63ef955d-be65-57b5-9a0c-7e2733f34356
+- category: booster_pack
+  code: EMA-pack-dft-EMBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '114833'
+  name: Eternal Masters Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7db8c22777994ce
+  releaseDate: null
+  subtype: draft
+  uuid: 9995040d-62f0-5377-89b7-4e773a60adb7
+- category: case
+  code: EMA-case-EMBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118405'
+  name: Eternal Masters Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1f343826d17d7167
+  releaseDate: null
+  subtype: ''
+  uuid: 3f161944-981d-5462-977c-9e9a6a3c765b

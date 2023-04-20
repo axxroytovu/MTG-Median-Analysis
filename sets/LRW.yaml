@@ -1,0 +1,100 @@
+- category: booster_box
+  code: LRW-bbox-dft-LBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27288'
+  name: Lorwyn Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8e305ea3ff4eac31
+  releaseDate: null
+  subtype: draft
+  uuid: ffee3693-3a43-529a-a121-d4a9bc666c28
+- category: booster_pack
+  code: LRW-pack-dft-LBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27350'
+  name: Lorwyn Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/759f7a8e503d8198
+  releaseDate: null
+  subtype: draft
+  uuid: 17d7dd33-f196-53f9-aa62-f12b5a5a32b4
+- category: bundle
+  code: LRW-bndl-LFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78317'
+  name: Lorwyn Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e689c0f5d30624d3
+  releaseDate: null
+  subtype: ''
+  uuid: f10c00da-6199-58e8-bc03-ee504bcc39e8
+- category: deck
+  code: LRW-deck-LTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118878'
+  name: Lorwyn Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8da6e781e8175537
+  releaseDate: null
+  subtype: ''
+  uuid: 220a5e02-5213-5d46-a9d1-d322b74f05a6
+- category: deck
+  code: LRW-deck-thm-LEPTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214968'
+  name: Lorwyn Elvish Predation Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5fb25f6faa860b8d
+  releaseDate: null
+  subtype: theme
+  uuid: f5582668-48cc-5cf8-8349-b021eff88f50
+- category: deck
+  code: LRW-deck-thm-LKMTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214969'
+  name: Lorwyn Kithkin Militia Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef429b23838e0916
+  releaseDate: null
+  subtype: theme
+  uuid: 91a03f3c-1b48-503d-a94f-66bf40efd161
+- category: deck
+  code: LRW-deck-thm-LMRTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214970'
+  name: Lorwyn Merrow Riverways Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a89fedbadbf2972a
+  releaseDate: null
+  subtype: theme
+  uuid: c0672365-acc9-56f6-81a1-3e447195140b
+- category: deck
+  code: LRW-deck-thm-LBFTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214971'
+  name: Lorwyn Boggart Feast Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e8bdf6bf989b4b0b
+  releaseDate: null
+  subtype: theme
+  uuid: 252b59fd-7735-527b-a0fc-d31f134e6654
+- category: deck
+  code: LRW-deck-thm-LEPTD-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214972'
+  name: Lorwyn Elementals Path Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/24f2a337db2867a8
+  releaseDate: null
+  subtype: theme
+  uuid: ddbedc1c-c263-5755-8c35-4391fd3d00af

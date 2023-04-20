@@ -1,0 +1,133 @@
+- category: case
+  code: BFZ-case-BZBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102714'
+  name: Battle for Zendikar Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7491746558ee008
+  releaseDate: '2015-10-02'
+  subtype: ''
+  uuid: 40014a1a-bae6-5678-932d-09fc6c5bda35
+- category: booster_box
+  code: BFZ-bbox-dft-BZBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102715'
+  name: Battle for Zendikar Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e7e8837ef860c1e9
+  releaseDate: null
+  subtype: draft
+  uuid: 0620e76e-374e-5566-b2c7-f4ca61d75ca0
+- category: booster_pack
+  code: BFZ-pack-dft-BZBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102716'
+  name: Battle for Zendikar Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fb47b8d63e00dbb0
+  releaseDate: null
+  subtype: draft
+  uuid: 37e28375-f5ba-51e8-8e11-b6830a33b669
+- category: subset
+  code: BFZ-sub-intr-BZIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102718'
+  name: Battle for Zendikar Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a277e9509ae4c217
+  releaseDate: null
+  subtype: intro
+  uuid: 75f4fac4-d5a8-5229-9167-fb583cad3769
+- category: deck
+  code: BFZ-deck-intr-BZIPRC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102719'
+  name: Battle for Zendikar Intro Pack Rallying Cry
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f0bde9eb033a51c9
+  releaseDate: null
+  subtype: intro
+  uuid: 38f4a6ac-93ee-5d8a-a26e-0f02b9c8fdad
+- category: deck
+  code: BFZ-deck-intr-BZIPSI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102720'
+  name: Battle for Zendikar Intro Pack Swarming Instinct
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cd1f40ed3ccb99ea
+  releaseDate: null
+  subtype: intro
+  uuid: 25dfead8-d1ad-5260-85e9-24a6388f0dfd
+- category: deck
+  code: BFZ-deck-intr-BZIPCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102721'
+  name: Battle for Zendikar Intro Pack Call of Blood
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/54a0eb948a594a2a
+  releaseDate: null
+  subtype: intro
+  uuid: ccebaec4-b1e3-5737-b739-e9b064799ba6
+- category: deck
+  code: BFZ-deck-intr-BZIPZR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102722'
+  name: Battle for Zendikar Intro Pack Zendikars Rage
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/138999284974bf8a
+  releaseDate: null
+  subtype: intro
+  uuid: 92de7cd9-e3d7-5399-a511-a930d38a1c53
+- category: deck
+  code: BFZ-deck-intr-BZIPEA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102723'
+  name: Battle for Zendikar Intro Pack Eldrazi Assault
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f11fa5077aff0875
+  releaseDate: null
+  subtype: intro
+  uuid: d0533d35-75aa-5764-8bd0-3f2c76d805ce
+- category: deck
+  code: BFZ-deck-evnt-BZEDUS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102800'
+  name: Battle for Zendikar Event Deck Ultimate Sacrifice
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/515858ea7cf68913
+  releaseDate: null
+  subtype: event
+  uuid: d3acc846-9173-5858-8e05-c919b6e4efa7
+- category: bundle
+  code: BFZ-bndl-BZFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '102801'
+  name: Battle for Zendikar Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/55ef55df77d89e18
+  releaseDate: '2015-10-02'
+  subtype: ''
+  uuid: 3d2d022e-edcd-53e4-ba67-e2fe9b80aec1
+- category: prerelease_pack
+  code: BFZ-pre-BZHPB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '105955'
+  name: Battle for Zendikar Hedron Prerelease Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/58b7eb29f4cc66fe
+  releaseDate: null
+  subtype: ''
+  uuid: 9f4c40bb-f9d0-54c1-8484-fa331295ce91

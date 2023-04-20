@@ -1,0 +1,66 @@
+- category: case
+  code: NEC-case-KNDCDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '257578'
+  name: Kamigawa Neon Dynasty Commander Decks Set of 2
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cded9cf801dd71d6
+  releaseDate: '2022-02-18'
+  subtype: ''
+  uuid: 5c8df1e1-848c-5b78-8501-4c923c80c2aa
+- category: commander_deck
+  code: NEC-cmr-KNDCDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '257579'
+  name: Kamigawa Neon Dynasty Commander Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8a1396f2e7b7e9a7
+  releaseDate: '2022-02-18'
+  subtype: ''
+  uuid: db9b56cf-9a76-5c34-a646-0df60a404050
+- category: commander_deck
+  code: NEC-cmr-KNDCDBU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '262517'
+  name: Kamigawa Neon Dynasty Commander Deck Buckle Up
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a7f461f5b86d9a3e
+  releaseDate: '2022-02-18'
+  subtype: ''
+  uuid: 72c044b8-0a54-5453-bb79-38dcbb5e7f2d
+- category: commander_deck
+  code: NEC-cmr-KNDCDUU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '262520'
+  name: Kamigawa Neon Dynasty Commander Deck Upgrades Unleashed
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0f2c5d86c6c03555
+  releaseDate: '2022-02-18'
+  subtype: ''
+  uuid: e1787527-e6dc-59d3-b671-d5778c449a0c
+- category: commander_deck
+  code: NEC-cmr-mpck-KNDCDBUMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450312'
+  name: Kamigawa Neon Dynasty Commander Deck Buckle Up Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4a64a6777b2fa5c4
+  releaseDate: null
+  subtype: minimal_packaging
+  uuid: 8b475fa7-b654-5171-a77f-15fdb9afaceb
+- category: commander_deck
+  code: NEC-cmr-mpck-KNDCDUUMP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '450313'
+  name: Kamigawa Neon Dynasty Commander Deck Upgrades Unleashed Minimal Packaging
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ffb1be696db255bc
+  releaseDate: null
+  subtype: minimal_packaging
+  uuid: 685a824b-6d40-58dd-b173-a8f20c7db081

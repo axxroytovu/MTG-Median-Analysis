@@ -1,0 +1,11 @@
+- category: box_set
+  code: DRB-bset-ftv-FVDBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32808'
+  name: From the Vault Dragons Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/90afb4b52fceb3d6
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: 553aea04-7cdf-5bf4-9cab-83b4b8207d58

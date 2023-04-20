@@ -1,0 +1,212 @@
+- category: booster_pack
+  code: LTR-pack-dft-UBTLRTMDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484905'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Draft Booster
+    Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7aba5a53f1f9dfe4
+  releaseDate: '2023-06-23'
+  subtype: draft
+  uuid: 589a13ef-3c05-5acd-9429-76df8a9fc28b
+- category: booster_box
+  code: LTR-bbox-dft-UBTLRTMDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484906'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Draft Booster
+    Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/cd1eee541703e45b
+  releaseDate: '2023-06-23'
+  subtype: draft
+  uuid: 49fa2e32-72ae-55a3-8d1a-d89677ed8058
+- category: case
+  code: LTR-case-dft-UBTLRTMDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484907'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Draft Booster
+    Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4ecc17f99198253
+  releaseDate: '2023-06-23'
+  subtype: draft
+  uuid: 6de879f7-7e7b-5a0a-b0da-dd832e667d4c
+- category: booster_pack
+  code: LTR-pack-set-UBTLRTMSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484908'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7336d8d4961c4d62
+  releaseDate: '2023-06-23'
+  subtype: set
+  uuid: 723e157c-bb41-53aa-85f4-fe8deb472e64
+- category: booster_box
+  code: LTR-bbox-set-UBTLRTMSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484909'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Box
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6e85454064522c12
+  releaseDate: '2023-06-23'
+  subtype: set
+  uuid: 40731ce8-f780-50d0-9b6e-60df04bfb3c2
+- category: case
+  code: LTR-case-UBTLRTMSBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484910'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Box
+    Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4221778ed21eb7b0
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: f474378d-d582-50fe-94fd-2212bad1d326
+- category: booster_pack
+  code: LTR-pack-col-UBTLRTMCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484911'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster
+    Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a91248a2c50cdc12
+  releaseDate: '2023-06-23'
+  subtype: collector
+  uuid: e16ddebd-1d65-5bd8-b346-7fea70ff7a20
+- category: booster_box
+  code: LTR-bbox-col-UBTLRTMCBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484912'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster
+    Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/044c72d5619b2e5d
+  releaseDate: '2023-06-23'
+  subtype: collector
+  uuid: 79bd9f6f-6b12-5eeb-9728-f3757d83f6cd
+- category: case
+  code: LTR-case-col-UBTLRTMCBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484913'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster
+    Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3fa05d85eb2fbb8c
+  releaseDate: '2023-06-23'
+  subtype: collector
+  uuid: f4bd808a-7c3c-5f22-8a8d-8d22dfff6536
+- category: booster_pack
+  code: LTR-pack-jmp-UBTLRTMJBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484914'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster
+    Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b3da66e0cc7d2ef6
+  releaseDate: '2023-06-23'
+  subtype: jumpstart
+  uuid: e0e07242-3aed-560e-8070-207c1e3d6c7a
+- category: booster_box
+  code: LTR-bbox-jmp-UBTLRTMJBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484915'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster
+    Box
+  productSize: 18
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6e3d1c0d2575b2f6
+  releaseDate: '2023-06-23'
+  subtype: jumpstart
+  uuid: 5e91b91f-752d-5886-8ea0-f7d8ab85656a
+- category: case
+  code: LTR-case-jmp-UBTLRTMJBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484916'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster
+    Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5a3192b615c5412d
+  releaseDate: '2023-06-23'
+  subtype: jumpstart
+  uuid: 49cccc4a-cfca-516d-94b2-eb1706ba3dea
+- category: bundle
+  code: LTR-bndl-UBTLRTMB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484917'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/57d50887d0401c7c
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: ec43f62f-8471-5bda-8f42-4232d782e400
+- category: case
+  code: LTR-case-UBTLRTMBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484918'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0ba96c2c67e74d2c
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: ff7857dc-a784-5d50-8f31-213f80e83b2e
+- category: bundle
+  code: LTR-bndl-UBTLRTMGB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484919'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Gift Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0a77fd1a57651bb4
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: 3aed1ef9-20bd-54cd-9e11-ea9d2e575769
+- category: case
+  code: LTR-case-UBTLRTMGBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484920'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Gift Bundle Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ce17e8c9c3b26afa
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: 1ef74c14-a563-590c-9d6e-fc5853755337
+- category: ''
+  code: LTR-UBTLRTMSK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484921'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Starter Kit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/46c3bb99d1bcf509
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: bbb223e6-483c-579e-854d-caed56ee19b1
+- category: prerelease_pack
+  code: LTR-pre-UBTLRTMPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '484922'
+  name: Universes Beyond The Lord of the Rings Tales of Middle earth Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/da24f9dba2cf55e9
+  releaseDate: '2023-06-23'
+  subtype: ''
+  uuid: 1402caa2-585b-5b4b-8a5c-c45910b64560

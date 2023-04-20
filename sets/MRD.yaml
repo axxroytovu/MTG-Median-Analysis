@@ -1,0 +1,100 @@
+- category: booster_box
+  code: MRD-bbox-dft-MBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27291'
+  name: Mirrodin Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9be3732eb777a997
+  releaseDate: null
+  subtype: draft
+  uuid: 9e908a87-9890-50ff-8f38-7e9fc67d61e7
+- category: booster_pack
+  code: MRD-pack-dft-MBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27353'
+  name: Mirrodin Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9126d04582f5f239
+  releaseDate: null
+  subtype: draft
+  uuid: 9e39488c-c8a2-5ac3-ba79-6b5ee33dc639
+- category: bundle
+  code: MRD-bndl-MFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78320'
+  name: Mirrodin Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0c2a23c5434238b8
+  releaseDate: null
+  subtype: ''
+  uuid: 86234b3d-c40d-5105-bed4-44473faf146c
+- category: deck
+  code: MRD-deck-thm-MTDLB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127421'
+  name: Mirrodin Theme Deck Little Bashers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b288f5d3a6be1371
+  releaseDate: null
+  subtype: theme
+  uuid: 43eeee0c-8899-5fa1-9017-c359fa7ac2a0
+- category: deck
+  code: MRD-deck-thm-MTDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127422'
+  name: Mirrodin Theme Deck Bait and Bludgeon
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ece2d396b20adfd6
+  releaseDate: null
+  subtype: theme
+  uuid: caf6c77c-95e5-55cc-98ee-4fb9784607e8
+- category: deck
+  code: MRD-deck-thm-MTDWB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127423'
+  name: Mirrodin Theme Deck Wicked Big
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/50596040ad8e75d2
+  releaseDate: null
+  subtype: theme
+  uuid: d8ca8900-e356-5b5a-9fdc-50144fb820a6
+- category: deck
+  code: MRD-deck-thm-MTDSB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127424'
+  name: Mirrodin Theme Deck Sacrificial Bam
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a9b931d496f4dfa6
+  releaseDate: null
+  subtype: theme
+  uuid: feb51e0c-78dc-50aa-a3c4-613af0205b3e
+- category: deck
+  code: MRD-deck-MTP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '127431'
+  name: Mirrodin Tournament Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/576c530abb0d4e07
+  releaseDate: null
+  subtype: ''
+  uuid: 7cfad63e-4577-5f7d-b4b9-ea5e0110a06f
+- category: deck_box
+  code: MRD-dbox-thm-MTDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '227597'
+  name: Mirrodin Theme Deck Box
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fae8859263676662
+  releaseDate: null
+  subtype: theme
+  uuid: 730a064b-e241-5713-9655-c1a6136b3ae3

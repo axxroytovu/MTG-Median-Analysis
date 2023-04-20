@@ -1,0 +1,221 @@
+- category: booster_box
+  code: JOU-bbox-dft-JINBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77322'
+  name: Journey Into Nyx Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/15e2ab60261ae937
+  releaseDate: null
+  subtype: draft
+  uuid: 5127c9ac-1d11-5ea8-8efc-7525b3ef5131
+- category: case
+  code: JOU-case-JINBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '77324'
+  name: Journey Into Nyx Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b53b0f032d7f8dfb
+  releaseDate: '2014-05-02'
+  subtype: ''
+  uuid: b9cdb1fe-ea86-5665-a35d-02c265cbc3c5
+- category: bundle
+  code: JOU-bndl-JINFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80836'
+  name: Journey Into Nyx Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c88be1ba73d3165e
+  releaseDate: '2014-05-02'
+  subtype: ''
+  uuid: b02c5fd2-f06f-5413-a56b-08019af87228
+- category: booster_pack
+  code: JOU-pack-dft-JINBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80839'
+  name: Journey Into Nyx Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/12c12553f10e7b74
+  releaseDate: '2014-05-02'
+  subtype: draft
+  uuid: ef8281b6-54ab-578a-baec-62f5c79977c0
+- category: subset
+  code: JOU-sub-intr-JINIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80842'
+  name: Journey Into Nyx Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a511d3a238cc72fe
+  releaseDate: null
+  subtype: intro
+  uuid: ee010dc9-0fbf-5d0f-ad15-74a927f73c57
+- category: case
+  code: JOU-case-intr-JINIPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80844'
+  name: Journey Into Nyx Intro Pack Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8a1ea5eb661f3837
+  releaseDate: null
+  subtype: intro
+  uuid: 34055db5-360a-59a2-a54f-a9f8ccedbe3d
+- category: deck
+  code: JOU-deck-evnt-JINEDWM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80848'
+  name: Journey Into Nyx Event Deck Wrath of the Mortals
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b81e856c6e7c85cc
+  releaseDate: null
+  subtype: event
+  uuid: fdef6207-3d4e-5221-8afc-3689e907e8a9
+- category: deck_box
+  code: JOU-dbox-JINEDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80850'
+  name: Journey Into Nyx Event Deck Display 6
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4cf90e710dfd613d
+  releaseDate: '2014-05-02'
+  subtype: ''
+  uuid: e21cc5ce-a972-590b-8c78-1521a1d34709
+- category: deck
+  code: JOU-deck-chl-DGCD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80853'
+  name: Defeat a God Challenge Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/56331a3674a41a50
+  releaseDate: null
+  subtype: challenge
+  uuid: 57c78a40-b6ae-5a7f-9aea-e4c6da9790ba
+- category: prerelease_pack
+  code: JOU-pre-JINPFG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80857'
+  name: Journey Into Nyx Prerelease Forged in Glory
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/dd556b4c756a979c
+  releaseDate: null
+  subtype: ''
+  uuid: 90eabe22-5651-5988-9c22-5fec8dc95e2e
+- category: prerelease_pack
+  code: JOU-pre-JINPFI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80859'
+  name: Journey Into Nyx Prerelease Forged in Intellect
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aae6f745e0c5e32e
+  releaseDate: null
+  subtype: ''
+  uuid: 84896144-1b61-58db-b63d-97a9a2f3de2e
+- category: prerelease_pack
+  code: JOU-pre-JINPFT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80861'
+  name: Journey Into Nyx Prerelease Forged in Tyranny
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03a4eeb7a6388d0b
+  releaseDate: null
+  subtype: ''
+  uuid: 3f1acaa1-45ac-5d06-af8b-6b81b1e75e9d
+- category: prerelease_pack
+  code: JOU-pre-JINPFW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80862'
+  name: Journey Into Nyx Prerelease Forged in War
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bfbff60e64561b2b
+  releaseDate: null
+  subtype: ''
+  uuid: 020643ce-9c35-5414-ae12-38cadb0de8cc
+- category: prerelease_pack
+  code: JOU-pre-JINPFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '80863'
+  name: Journey Into Nyx Prerelease Forged in Pursuit
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/765b888d4ebad0cd
+  releaseDate: null
+  subtype: ''
+  uuid: ba2b383c-9939-537a-b47e-a896228f6438
+- category: deck
+  code: JOU-deck-intr-JINIPTWD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82549'
+  name: Journey Into Nyx Intro Pack The Wilds and the Deep
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4e07f527d00c1309
+  releaseDate: null
+  subtype: intro
+  uuid: d96ee9a6-cdc4-5884-a75e-4845f0f866cf
+- category: deck
+  code: JOU-deck-intr-JINIPFF
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82550'
+  name: Journey Into Nyx Intro Pack Fates Foreseen
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/93b443d402317cfa
+  releaseDate: null
+  subtype: intro
+  uuid: 8f1fcc1c-d6aa-5e8e-989d-0db882750641
+- category: deck
+  code: JOU-deck-intr-JINIPPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82551'
+  name: Journey Into Nyx Intro Pack Pantheons Power
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3d8af58249236b34
+  releaseDate: null
+  subtype: intro
+  uuid: 497e2450-ef8a-541f-97db-5d8111c4eb82
+- category: deck
+  code: JOU-deck-intr-JINIPVR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82552'
+  name: Journey Into Nyx Intro Pack Voracious Rage
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/33c337bcd4a17366
+  releaseDate: null
+  subtype: intro
+  uuid: 2317e07f-838d-5964-a43f-5012985e3076
+- category: deck
+  code: JOU-deck-intr-JINIPMM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82553'
+  name: Journey Into Nyx Intro Pack Mortals of Myth
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0af5f3b6a1684b2b
+  releaseDate: null
+  subtype: intro
+  uuid: cd2ed33a-573f-567f-a024-b388a32ab38d
+- category: prerelease_pack
+  code: JOU-pre-JINPKS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '199837'
+  name: Journey Into Nyx Prerelease Kit Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1768cd71e8e3254f
+  releaseDate: null
+  subtype: ''
+  uuid: 62bc5578-451c-5306-9d63-b28b002445b4

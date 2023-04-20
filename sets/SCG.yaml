@@ -1,0 +1,78 @@
+- category: booster_box
+  code: SCG-bbox-dft-SBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27305'
+  name: Scourge Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fd2850145e950463
+  releaseDate: null
+  subtype: draft
+  uuid: 430e0088-e71a-5e65-8fb3-002b4e38e920
+- category: booster_pack
+  code: SCG-pack-dft-SBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27367'
+  name: Scourge Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5dfa0724466a4741
+  releaseDate: null
+  subtype: draft
+  uuid: 6c2f9633-e35a-52aa-bbf9-a79f6b4eb1ef
+- category: bundle
+  code: SCG-bndl-SFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78329'
+  name: Scourge Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/153a77515adfa928
+  releaseDate: null
+  subtype: ''
+  uuid: a5725968-8510-59fd-8eca-d86e3efa1d66
+- category: deck
+  code: SCG-deck-thm-STDGM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '174318'
+  name: Scourge Theme Deck Goblin Mob
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/78e98c2cab7173f4
+  releaseDate: null
+  subtype: theme
+  uuid: 24395f29-3479-58e9-a398-00f1816ed914
+- category: deck
+  code: SCG-deck-thm-STDMA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '174319'
+  name: Scourge Theme Deck Max Attax
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/06d03dca1d8a60e8
+  releaseDate: null
+  subtype: theme
+  uuid: bb499225-524d-515b-9d4f-33609aed6ad3
+- category: deck
+  code: SCG-deck-thm-STDP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '174320'
+  name: Scourge Theme Deck Pulverize
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/373c5c0515274ab5
+  releaseDate: null
+  subtype: theme
+  uuid: 0175f5b6-1f35-5d13-ad46-b27e077fb3af
+- category: deck
+  code: SCG-deck-thm-STDSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '174321'
+  name: Scourge Theme Deck Storm Surge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/91d9ead894061aed
+  releaseDate: null
+  subtype: theme
+  uuid: c33956d8-f43f-5fc8-8d6b-594a0c417123

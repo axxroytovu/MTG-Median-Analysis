@@ -1,0 +1,232 @@
+- category: case
+  code: RTR-case-RRBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60116'
+  name: Return to Ravnica Booster Box Case 6 boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/29633ec191dcb3ec
+  releaseDate: null
+  subtype: ''
+  uuid: d85a9350-95e2-5bf0-9b45-f77084a04417
+- category: booster_box
+  code: RTR-bbox-dft-RRBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60117'
+  name: Return to Ravnica Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/eea6e9ed526705b3
+  releaseDate: null
+  subtype: draft
+  uuid: 873a108a-4309-512c-99b3-974e053077c3
+- category: subset
+  code: RTR-sub-intr-RRSIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60118'
+  name: Return to Ravnica Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/fe98b86147ef632e
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: a5a36395-b801-5815-999b-43f54c166595
+- category: bundle
+  code: RTR-bndl-RRFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60119'
+  name: Return to Ravnica Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/514d81f147bddb07
+  releaseDate: '2012-10-05'
+  subtype: ''
+  uuid: 6e6b09b4-3760-5890-9299-bb3ae5420b54
+- category: booster_pack
+  code: RTR-pack-dft-RRBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60120'
+  name: Return to Ravnica 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4628c9075a505463
+  releaseDate: '2012-10-05'
+  subtype: draft
+  uuid: 1fe98abe-a532-5c7f-bbee-1a2bb6659876
+- category: booster_pack
+  code: RTR-pack-dft-RRBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '60121'
+  name: Return to Ravnica Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/75489cb8149404cc
+  releaseDate: null
+  subtype: draft
+  uuid: 1772b60a-f041-51d9-b86b-dc79d6b65070
+- category: deck
+  code: RTR-deck-intr-RRIPAA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '66476'
+  name: Return to Ravnica Intro Pack Azorius Advance
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a0611885f9df0c57
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: 83bbced3-60e5-5523-a1ab-38f3752cb3a2
+- category: deck
+  code: RTR-deck-intr-RRIPII
+  contents: []
+  identifiers:
+    tcgplayerProductId: '66477'
+  name: Return to Ravnica Intro Pack Izzet Ingenuity
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ae11feb279127988
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: a1e82ace-6abf-5521-90ee-abae2335c8c3
+- category: deck
+  code: RTR-deck-intr-RRIPRR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '66478'
+  name: Return to Ravnica Intro Pack Rakdos Raid
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2e603366b51d23e7
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: fdeac9ff-eb4f-596d-8b10-5c9951fbe442
+- category: deck
+  code: RTR-deck-intr-RRIPGG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '66479'
+  name: Return to Ravnica Intro Pack Golgari Growth
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2c70f80a73c607ef
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: b1b7c4a8-d09b-5dbb-9cee-66bdd73347c2
+- category: deck
+  code: RTR-deck-intr-RRIPSS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '66480'
+  name: Return to Ravnica Intro Pack Selesnya Surge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1e7c4b236ff9d91e
+  releaseDate: '2012-10-05'
+  subtype: intro
+  uuid: 1a93ef7e-622d-5271-911f-70ec59e93f9a
+- category: two_player_starter_set
+  code: RTR-2plr-bpck-RRBBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '72027'
+  name: Return to Ravnica Booster Battle Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6787a31e41cb4d1b
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 0dca2831-3306-5360-9ff0-3b98adfcf89d
+- category: deck
+  code: RTR-deck-evnt-RREDWR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110551'
+  name: Return to Ravnica Event Deck Wrack and Rage
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/03098e02eb352271
+  releaseDate: null
+  subtype: event
+  uuid: 6f82138f-5b64-5b8d-94bd-64430e760390
+- category: deck
+  code: RTR-deck-evnt-RREDCC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '110552'
+  name: Return to Ravnica Event Deck Creep and Conquer
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/869d6466eebc6bef
+  releaseDate: null
+  subtype: event
+  uuid: b142c69c-d7b9-57a7-bcce-aecf5976eeca
+- category: prerelease_pack
+  code: RTR-pre-RRPPA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190186'
+  name: Return to Ravnica Prerelease Pack Azorius
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/380aabc218a91088
+  releaseDate: null
+  subtype: ''
+  uuid: f228f03c-e714-5104-b22e-5383b3210808
+- category: prerelease_pack
+  code: RTR-pre-RRPPG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190187'
+  name: Return to Ravnica Prerelease Pack Golgari
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5d920f102bdd9e36
+  releaseDate: null
+  subtype: ''
+  uuid: eb4c4297-231d-5116-801b-7dc3612a196f
+- category: prerelease_pack
+  code: RTR-pre-RRPPR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190188'
+  name: Return to Ravnica Prerelease Pack Rakdos
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/32cdde14ecf95d8c
+  releaseDate: null
+  subtype: ''
+  uuid: 054a8581-a827-5b8b-a29b-eea32ad0f6a7
+- category: prerelease_pack
+  code: RTR-pre-RRPPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190189'
+  name: Return to Ravnica Prerelease Pack Selesnya
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ff49c365b84994b0
+  releaseDate: null
+  subtype: ''
+  uuid: 25d0eba1-b8a0-562e-b195-ffc6151ee2b2
+- category: prerelease_pack
+  code: RTR-pre-RRPPI
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190190'
+  name: Return to Ravnica Prerelease Pack Izzet
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d40b15181e11be9f
+  releaseDate: null
+  subtype: ''
+  uuid: 301a90fe-bd76-5fa7-910c-7cbe20c104c8
+- category: prerelease_pack
+  code: RTR-pre-RRPPS-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '190191'
+  name: Return to Ravnica Prerelease Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/acf9ad82e6beca52
+  releaseDate: null
+  subtype: ''
+  uuid: ba10fa70-7210-57ba-b7a0-616c2c45a1da
+- category: two_player_starter_set
+  code: RTR-2plr-bpck-RRBBPD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '485935'
+  name: Return to Ravnica Booster Battle Pack Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b7c6facf10b82997
+  releaseDate: null
+  subtype: battle_pack
+  uuid: 9db0a3bf-2fbd-5e0b-ad7d-c4bbff4ea050

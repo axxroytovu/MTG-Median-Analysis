@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDG-bset-DDKDBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78342'
+  name: Duel Decks Knights vs Dragons Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1db8f59b2ecee7d5
+  releaseDate: null
+  subtype: ''
+  uuid: 917a6254-d8d3-575b-8402-2e23450b16ce

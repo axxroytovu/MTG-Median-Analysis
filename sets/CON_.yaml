@@ -1,0 +1,34 @@
+- category: bundle
+  code: CON_-bndl-CFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78307'
+  name: Conflux Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/63171dca50d3a705
+  releaseDate: null
+  subtype: ''
+  uuid: 06876ad7-678e-5986-8929-6d51491eb49f
+- category: booster_box
+  code: CON_-bbox-dft-CBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '93516'
+  name: Conflux Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f5534d88a21e1167
+  releaseDate: null
+  subtype: draft
+  uuid: aba36364-3b01-5a7a-b0aa-df9ef5187bac
+- category: booster_pack
+  code: CON_-pack-dft-CBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '108337'
+  name: Conflux Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d32aaf21f402d71f
+  releaseDate: null
+  subtype: draft
+  uuid: ee25fb77-38eb-56ce-8369-917cd2c0566b

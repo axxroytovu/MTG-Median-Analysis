@@ -1,0 +1,34 @@
+- category: booster_pack
+  code: CNS-pack-dft-CBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82199'
+  name: Conspiracy Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5056ee5d14a7ccc6
+  releaseDate: '2014-06-06'
+  subtype: draft
+  uuid: 0cfcf7bf-d259-562d-b55b-dfa3b7b81d9c
+- category: booster_box
+  code: CNS-bbox-dft-CBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82200'
+  name: Conspiracy Booster Box
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8c3e18f28811f4f2
+  releaseDate: '2014-06-06'
+  subtype: draft
+  uuid: a84d180b-d942-5c94-ae18-75a59e810758
+- category: case
+  code: CNS-case-CBBCB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '82201'
+  name: Conspiracy Booster Box Case 6 Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9528afa0ab72f673
+  releaseDate: null
+  subtype: ''
+  uuid: 99520c9c-1e3e-5fe5-8d56-236c118f8c6d

@@ -1,0 +1,78 @@
+- category: booster_box
+  code: NEM-bbox-dft-NBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27293'
+  name: Nemesis Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bbed90ec4ad5a935
+  releaseDate: null
+  subtype: draft
+  uuid: cc2a5508-3297-5505-b9ac-3086bfb11f3a
+- category: booster_pack
+  code: NEM-pack-dft-NBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27355'
+  name: Nemesis Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ea389b96504ba5d8
+  releaseDate: null
+  subtype: draft
+  uuid: 52f6d104-1e0c-51da-99b1-9ac5fe015a12
+- category: bundle
+  code: NEM-bndl-NFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78322'
+  name: Nemesis Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b0e8ede74f2fbb29
+  releaseDate: null
+  subtype: ''
+  uuid: 9a8a7147-0b5d-5153-b5f8-2da51971b0ca
+- category: deck
+  code: NEM-deck-thm-NTDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116042'
+  name: Nemesis Theme Deck Breakdown
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef5d9b1adda4a5d8
+  releaseDate: null
+  subtype: theme
+  uuid: 00c386b8-8ac9-52b3-be50-19705ef68d56
+- category: deck
+  code: NEM-deck-thm-NTDE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116043'
+  name: Nemesis Theme Deck Eruption
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/8f25eadefd536cf4
+  releaseDate: null
+  subtype: theme
+  uuid: b783fe2e-16f4-5dac-944a-73377ccfb2b8
+- category: deck
+  code: NEM-deck-thm-NTDM
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116044'
+  name: Nemesis Theme Deck Mercenaries
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/014241c8b3042696
+  releaseDate: null
+  subtype: theme
+  uuid: c351a396-874c-5059-a072-b0ffd1fe3cb4
+- category: deck
+  code: NEM-deck-thm-NTDR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '116045'
+  name: Nemesis Theme Deck Replicator
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/58ae0c1661deeeba
+  releaseDate: null
+  subtype: theme
+  uuid: d1348419-58c5-550d-a23d-6e681596dbcd

@@ -1,0 +1,78 @@
+- category: booster_box
+  code: LGN-bbox-dft-LBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27287'
+  name: Legions Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/db35a267e8b14cb2
+  releaseDate: null
+  subtype: draft
+  uuid: 4cdee41e-4282-59bd-b73d-5f7c0cc09c83
+- category: booster_pack
+  code: LGN-pack-dft-LBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27349'
+  name: Legions Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1a6289adca3323d0
+  releaseDate: null
+  subtype: draft
+  uuid: 97d505c5-12cf-54cc-bd25-1b49645e5af9
+- category: bundle
+  code: LGN-bndl-LFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78316'
+  name: Legions Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/54046ad56c1839df
+  releaseDate: null
+  subtype: ''
+  uuid: ec6c50c8-1b9d-5e79-8543-4eb8b921c5c6
+- category: deck
+  code: LGN-deck-thm-LMMTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96426'
+  name: Legions Morph Mayhem Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bc25ae79139d6731
+  releaseDate: null
+  subtype: theme
+  uuid: 5fbe2f42-6379-55c0-959a-194d4f60fd2b
+- category: deck
+  code: LGN-deck-thm-LERTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96427'
+  name: Legions Elvish Rage Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/29457ef8decbd6d0
+  releaseDate: null
+  subtype: theme
+  uuid: 8a1f28ba-5875-52b0-9dc9-249a913faf01
+- category: deck
+  code: LGN-deck-thm-LSSTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96428'
+  name: Legions Sliver Shivers Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/11a965f490defd1b
+  releaseDate: null
+  subtype: theme
+  uuid: 038d6e0a-b650-53e5-b870-ea2283b41798
+- category: deck
+  code: LGN-deck-thm-LZUTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96429'
+  name: Legions Zombies Unleashed Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/83936cb68ef19943
+  releaseDate: null
+  subtype: theme
+  uuid: a71f510c-0fb5-53f7-abfa-08bac23f3b2b

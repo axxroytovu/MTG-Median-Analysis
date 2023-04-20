@@ -1,0 +1,11 @@
+- category: box_set
+  code: DDE-bset-DDPCBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78335'
+  name: Duel Decks Phyrexia vs the Coalition Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e6145a836e83c94f
+  releaseDate: null
+  subtype: ''
+  uuid: c23f10f2-9498-5ed4-ac55-1dedcab1f75e

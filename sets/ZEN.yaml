@@ -1,0 +1,122 @@
+- category: booster_box
+  code: ZEN-bbox-dft-ZBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32789'
+  name: Zendikar Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/10f2424a11df5075
+  releaseDate: null
+  subtype: draft
+  uuid: bbfae07f-04dd-552c-bb8e-c1486c1c09c0
+- category: case
+  code: ZEN-case-ZBBCBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32790'
+  name: Zendikar Booster Box Case 6 Booster Boxes
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2ff3332ba7bc6d5e
+  releaseDate: null
+  subtype: ''
+  uuid: e8f2f335-5f2d-58e1-8674-28b6ec1736b2
+- category: booster_pack
+  code: ZEN-pack-dft-ZBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32791'
+  name: Zendikar Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2c6c6f0faee2b3a5
+  releaseDate: null
+  subtype: draft
+  uuid: a2630e5d-f1ae-53b8-b5e2-938d77123f73
+- category: booster_pack
+  code: ZEN-pack-dft-ZBP-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32792'
+  name: Zendikar 3x Booster Packs draft set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/95652cb1760c217e
+  releaseDate: null
+  subtype: draft
+  uuid: 2bbdb831-c6c2-57de-b3cc-e501900911ab
+- category: bundle
+  code: ZEN-bndl-ZFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32793'
+  name: Zendikar Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a8bdddd97ba5d8dd
+  releaseDate: null
+  subtype: ''
+  uuid: 23aa153d-ea05-5368-b6a6-8eb6577b1957
+- category: deck
+  code: ZEN-deck-intr-ZIPWKA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32794'
+  name: Zendikar Intro Pack White Kor Armory
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e2b8f4e31a17a315
+  releaseDate: null
+  subtype: intro
+  uuid: 8996c0ac-4ce0-5594-bd0e-1af41d4f2d6e
+- category: deck
+  code: ZEN-deck-intr-ZIPBUT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32795'
+  name: Zendikar Intro Pack Blue Unstable Terrain
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/78b80c5f62fc3f32
+  releaseDate: null
+  subtype: intro
+  uuid: ca3b78cc-456e-5e0b-846a-1b5b4f297aea
+- category: deck
+  code: ZEN-deck-intr-ZIPBRV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32796'
+  name: Zendikar Intro Pack Black Rise of the Vampires
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5b729d6da6594616
+  releaseDate: null
+  subtype: intro
+  uuid: b89670b7-5c08-5599-94a0-5e92f7609248
+- category: deck
+  code: ZEN-deck-intr-ZIPRPU
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32797'
+  name: Zendikar Intro Pack Red Pumped Up
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/aaf623de47109f72
+  releaseDate: null
+  subtype: intro
+  uuid: 0a55dd27-2536-5490-990e-4d96e167a860
+- category: deck
+  code: ZEN-deck-intr-ZIPGTA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32798'
+  name: Zendikar Intro Pack Green The Adventurers
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/b05e98b3b54cb008
+  releaseDate: null
+  subtype: intro
+  uuid: 3cfd014c-2737-5df2-8c9c-d0087bc6d819
+- category: subset
+  code: ZEN-sub-intr-ZSIP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '32799'
+  name: Zendikar Set of 5 Intro Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e8f01da7fad7a887
+  releaseDate: null
+  subtype: intro
+  uuid: d94fdc57-f2a3-56ef-870c-076c1078de20

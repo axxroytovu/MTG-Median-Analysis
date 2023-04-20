@@ -1,0 +1,23 @@
+- category: booster_box
+  code: WTH-bbox-dft-WBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27318'
+  name: Weatherlight Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9b42e23255864b97
+  releaseDate: null
+  subtype: draft
+  uuid: 4a4bed55-a98f-592b-b52f-9d50f55d66d6
+- category: booster_pack
+  code: WTH-pack-dft-WBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27380'
+  name: Weatherlight Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e582d33769cdec54
+  releaseDate: null
+  subtype: draft
+  uuid: 9133952a-7fae-56e7-ac50-a7cbaadfcfa7

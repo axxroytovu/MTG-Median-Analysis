@@ -1,0 +1,11 @@
+- category: box_set
+  code: V11-bset-ftv-FVLBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '71414'
+  name: From the Vault Legends Box Set
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e037972386eb1c51
+  releaseDate: null
+  subtype: from_the_vault
+  uuid: 099eacda-6398-5a0e-b956-3b66d3d18dab

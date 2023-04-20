@@ -1,0 +1,167 @@
+- category: case
+  code: M21-case-CSBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214810'
+  name: Core Set 2021 Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1973eceb92ae87b1
+  releaseDate: '2020-07-03'
+  subtype: ''
+  uuid: f007a6df-83d3-511b-86e5-413084319309
+- category: booster_box
+  code: M21-bbox-set-CSBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214811'
+  name: Core Set 2021 Booster Box
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/221bc86d9d203f13
+  releaseDate: '2020-07-03'
+  subtype: set
+  uuid: 02c50621-f286-5848-9015-9bb05aeaab2a
+- category: booster_pack
+  code: M21-pack-set-CSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214813'
+  name: Core Set 2021 Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6b63a586593c2eb6
+  releaseDate: '2020-07-03'
+  subtype: set
+  uuid: 464228ff-120f-5037-93b5-976b29157fc4
+- category: bundle
+  code: M21-bndl-CSB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214814'
+  name: Core Set 2021 Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/9eb73ba8f00d5005
+  releaseDate: '2020-07-03'
+  subtype: ''
+  uuid: 4e767adb-1817-5acc-b20f-a4412710f9be
+- category: deck_box
+  code: M21-dbox-plw-CSPDD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214815'
+  name: Core Set 2021 Planeswalker Deck Display
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5b5b28eff554248b
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: 996040bb-963c-5a0f-b532-47fa2ed24098
+- category: subset
+  code: M21-sub-plw-CSPDS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214817'
+  name: Core Set 2021 Planeswalker Deck Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/998e524257afe08f
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: b6c34eb2-4871-5cea-baeb-0c402a3d9c7e
+- category: booster_box
+  code: M21-bbox-set-CSCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '214818'
+  name: Core Set 2021 Collector Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1143d3ca985b6d85
+  releaseDate: '2020-07-03'
+  subtype: set
+  uuid: f8662057-246b-5dcd-acab-193bac1d1fb7
+- category: booster_pack
+  code: M21-pack-set-CSCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215325'
+  name: Core Set 2021 Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2fc04e406c6efe20
+  releaseDate: '2020-07-03'
+  subtype: set
+  uuid: 547f7fe8-5bf3-5b1f-b7d5-2348edfeb15f
+- category: deck
+  code: M21-deck-plw-CSPDL
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215464'
+  name: Core Set 2021 Planeswalker Deck Liliana
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/138e803f55d699d2
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: 639e32d8-aa88-5c64-9f1f-455c4bde54fd
+- category: deck
+  code: M21-deck-plw-CSPDG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215465'
+  name: Core Set 2021 Planeswalker Deck Garruk
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6cebf0ed5fb91f00
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: c3fb860d-a205-5fa8-a121-c962efe554b9
+- category: deck
+  code: M21-deck-plw-CSPDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215466'
+  name: Core Set 2021 Planeswalker Deck Chandra
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e11b4409a5909515
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: a598f9ce-12cf-5a24-9442-0305527400f0
+- category: deck
+  code: M21-deck-plw-CSPDT
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215467'
+  name: Core Set 2021 Planeswalker Deck Teferi
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/00af018b788e43d5
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: d65b1bd7-24be-5f34-85ab-d6cb046d99c6
+- category: deck
+  code: M21-deck-plw-CSPDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215468'
+  name: Core Set 2021 Planeswalker Deck Basri
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/55694d779ef3727d
+  releaseDate: '2020-07-03'
+  subtype: planeswalker
+  uuid: 1f778b30-fced-5a87-8b15-bd8d8f629a27
+- category: prerelease_pack
+  code: M21-pre-CSPPCSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215918'
+  name: Core Set 2021 Prerelease Pack plus 2 Core Set 2021 Prize Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/504e9aecfb907a0b
+  releaseDate: null
+  subtype: ''
+  uuid: 35341960-8be6-5909-ae66-f31f0b76f1c2
+- category: prerelease_pack
+  code: M21-pre-CSPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '215920'
+  name: Core Set 2021 Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1927b4b2487cd352
+  releaseDate: null
+  subtype: ''
+  uuid: 5e2d5a4e-6315-5dad-b157-3cec3efe50ed

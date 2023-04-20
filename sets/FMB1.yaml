@@ -1,0 +1,23 @@
+- category: booster_pack
+  code: FMB1-pack-dft-MBBPRE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '202647'
+  name: Mystery Booster Booster Pack Retail Exclusive
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/e418ab7c3e0f377a
+  releaseDate: null
+  subtype: draft
+  uuid: 4e90ef4c-a109-537f-b95f-b80b38ab7284
+- category: booster_box
+  code: FMB1-bbox-dft-MBBBRE
+  contents: []
+  identifiers:
+    tcgplayerProductId: '208523'
+  name: Mystery Booster Booster Box Retail Exclusive
+  productSize: 24
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7185c89bdfd1ea05
+  releaseDate: '2020-03-13'
+  subtype: draft
+  uuid: 0ec9faa5-ab68-5b1f-94c7-161d501f308b

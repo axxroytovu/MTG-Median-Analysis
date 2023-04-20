@@ -1,0 +1,11 @@
+- category: booster_pack
+  code: S00-pack-str-SSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '257333'
+  name: Starter 2000 Sampler Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3123f354b1bb66bb
+  releaseDate: null
+  subtype: starter
+  uuid: 312b9d82-3a53-53d7-84cc-c05534547d86

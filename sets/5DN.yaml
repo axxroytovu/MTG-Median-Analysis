@@ -1,0 +1,78 @@
+- category: booster_box
+  code: 5DN-bbox-dft-FDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27277'
+  name: Fifth Dawn Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4721c688f41e96f
+  releaseDate: null
+  subtype: draft
+  uuid: 0da88294-01df-5ec8-9f2c-e44b47ed424c
+- category: booster_pack
+  code: 5DN-pack-dft-FDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '27339'
+  name: Fifth Dawn Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/ef7876537a09cab5
+  releaseDate: null
+  subtype: draft
+  uuid: ff372bd0-1e42-53ef-aa53-46498eeb9248
+- category: bundle
+  code: 5DN-bndl-FDFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '78311'
+  name: Fifth Dawn Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/73f837184900d6ce
+  releaseDate: null
+  subtype: ''
+  uuid: 4e3e4ecb-f1be-50e6-b0fc-bdae7fd1cc2f
+- category: deck
+  code: 5DN-deck-thm-FDSTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96422'
+  name: Fifth Dawn Stampede Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/951dc43863b1ba46
+  releaseDate: null
+  subtype: theme
+  uuid: 5dc10e4f-72dd-502f-8692-93af473252e2
+- category: deck
+  code: 5DN-deck-thm-FDNBTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96423'
+  name: Fifth Dawn Nuts and Bolts Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d39559c0249debbf
+  releaseDate: null
+  subtype: theme
+  uuid: b274f2c1-40e9-56d3-af96-9a6b1062a339
+- category: deck
+  code: 5DN-deck-thm-FDSFTD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96424'
+  name: Fifth Dawn Special Forces Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2c0c1081a7f60766
+  releaseDate: null
+  subtype: theme
+  uuid: c4c5edb4-478b-5e38-b383-caf1ae78e6c8
+- category: deck
+  code: 5DN-deck-thm-FDSTD-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '96425'
+  name: Fifth Dawn Sunburst Theme Deck
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1319f51fec54b305
+  releaseDate: null
+  subtype: theme
+  uuid: 464a8162-c7ca-522a-b66a-767af72bf769

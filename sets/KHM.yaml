@@ -1,0 +1,224 @@
+- category: booster_box
+  code: KHM-bbox-dft-KDBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228245'
+  name: Kaldheim Draft Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7043899e5ddda15e
+  releaseDate: '2021-02-05'
+  subtype: draft
+  uuid: de4f9114-3354-594c-84ab-c75d20ace2cb
+- category: booster_pack
+  code: KHM-pack-dft-KDBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228246'
+  name: Kaldheim Draft Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/61a5db6048ca4af2
+  releaseDate: '2021-02-05'
+  subtype: draft
+  uuid: a01a5f33-7271-5608-a1de-c48c65d23822
+- category: case
+  code: KHM-case-dft-KDBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228247'
+  name: Kaldheim Draft Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/d460ed1eef851dfc
+  releaseDate: '2021-02-05'
+  subtype: draft
+  uuid: 2fc97af9-ca9a-57ce-a8fc-752b729cc498
+- category: bundle
+  code: KHM-bndl-KB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228248'
+  name: Kaldheim Bundle
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/a4c930573ae0a7cc
+  releaseDate: '2021-02-05'
+  subtype: ''
+  uuid: e6a03fba-b6fd-5d69-8325-1d6a04b9bc11
+- category: booster_box
+  code: KHM-bbox-col-KCBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228249'
+  name: Kaldheim Collector Booster Display
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c48fb96acd696476
+  releaseDate: '2021-02-05'
+  subtype: collector
+  uuid: 6804c672-2fa3-566f-b625-15e2cabea8b9
+- category: booster_pack
+  code: KHM-pack-col-KCBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228250'
+  name: Kaldheim Collector Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6fbc1b4eeca8dc11
+  releaseDate: '2021-02-05'
+  subtype: collector
+  uuid: 646f84e7-6785-5e56-a1d7-2d2d228f110c
+- category: booster_box
+  code: KHM-bbox-set-KSBD
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228251'
+  name: Kaldheim Set Booster Display
+  productSize: 30
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c49f174ac5623170
+  releaseDate: '2021-02-05'
+  subtype: set
+  uuid: 57583eba-c1ae-5cbd-960d-15dae5eefc98
+- category: booster_pack
+  code: KHM-pack-set-KSBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '228252'
+  name: Kaldheim Set Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/7b602e88d1ae0b91
+  releaseDate: '2021-02-05'
+  subtype: set
+  uuid: 2800a616-d844-5f9f-b23c-634aa401c04f
+- category: booster_pack
+  code: KHM-pack-thm-KTBW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229194'
+  name: Kaldheim Theme Booster White
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f2ac33278f8fc471
+  releaseDate: null
+  subtype: theme
+  uuid: b825ef7f-494b-5dee-86bb-e22edc800524
+- category: booster_pack
+  code: KHM-pack-thm-KTBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229195'
+  name: Kaldheim Theme Booster Blue
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/1b366cf52b3a9b85
+  releaseDate: null
+  subtype: theme
+  uuid: 598019aa-3217-54cf-91c2-492a9a297506
+- category: booster_pack
+  code: KHM-pack-thm-KTBB-1
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229196'
+  name: Kaldheim Theme Booster Black
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5541f42fde753498
+  releaseDate: null
+  subtype: theme
+  uuid: 45ba9ae7-2d19-5c0a-a351-a650634a4b56
+- category: booster_pack
+  code: KHM-pack-thm-KTBR
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229197'
+  name: Kaldheim Theme Booster Red
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/caa481c92f62103f
+  releaseDate: null
+  subtype: theme
+  uuid: 8b374537-5893-517b-989c-40a074cf18bd
+- category: booster_pack
+  code: KHM-pack-thm-KTBG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229198'
+  name: Kaldheim Theme Booster Green
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/0921e77e7f306c14
+  releaseDate: null
+  subtype: theme
+  uuid: f83d2c38-7ba9-5b6b-bb34-4adc5fba7f85
+- category: booster_pack
+  code: KHM-pack-thm-KTBV
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229199'
+  name: Kaldheim Theme Booster Viking
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3aab611549d07ecb
+  releaseDate: null
+  subtype: theme
+  uuid: bddb3be7-33fe-596d-b3d5-ac219454d08c
+- category: subset
+  code: KHM-sub-thm-KTBS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229244'
+  name: Kaldheim Theme Booster Set of 6
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f442ff3e30f84228
+  releaseDate: '2021-02-05'
+  subtype: theme
+  uuid: ec4b86f4-ba7b-54cb-855c-0b93e20d344f
+- category: booster_box
+  code: KHM-bbox-thm-KTBDB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '229245'
+  name: Kaldheim Theme Booster Display Box
+  productSize: 12
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/18c92855e1d759ad
+  releaseDate: null
+  subtype: theme
+  uuid: 8b8eda5b-20cb-5fcc-b3b2-a7cf3427970e
+- category: prerelease_pack
+  code: KHM-pre-KPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230377'
+  name: Kaldheim Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/933951173acbb1f7
+  releaseDate: null
+  subtype: ''
+  uuid: 950a1927-2cbc-58ea-90c4-8da404ebd93b
+- category: prerelease_pack
+  code: KHM-pre-KPPKPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230378'
+  name: Kaldheim Prerelease Pack plus 2 Kaldheim Prize Packs
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/bbd15bf55a3986ee
+  releaseDate: null
+  subtype: ''
+  uuid: 8a4a7ea5-3f42-5973-bba7-eacb298442a0
+- category: case
+  code: KHM-case-col-KCBDC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '230864'
+  name: Kaldheim Collector Booster Display Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/619ea13f957e713c
+  releaseDate: null
+  subtype: collector
+  uuid: 553d5a72-c3eb-5b24-b05e-f81a39e0df69
+- category: booster_pack
+  code: KHM-pack-col-KCBHP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '236691'
+  name: Kaldheim Collector Booster Hanger Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/c9f28574de674c51
+  releaseDate: null
+  subtype: collector
+  uuid: 4ce2e107-7db9-5ce7-97b1-9b59d4a5e60a

@@ -1,0 +1,122 @@
+- category: booster_box
+  code: EMN-bbox-dft-EMBB
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118393'
+  name: Eldritch Moon Booster Box
+  productSize: 36
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6b9f48c24555c868
+  releaseDate: null
+  subtype: draft
+  uuid: f7d5addf-7df6-5df3-b4d1-664557c84bb3
+- category: booster_pack
+  code: EMN-pack-dft-EMBP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118394'
+  name: Eldritch Moon Booster Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/f66df42e59d04229
+  releaseDate: null
+  subtype: draft
+  uuid: 4253efbd-cc76-53e3-a54c-9f4012f3c097
+- category: deck
+  code: EMN-deck-intr-EMIPSG
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118395'
+  name: Eldritch Moon Intro Pack Shallow Graves
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/62c89512c3a51835
+  releaseDate: null
+  subtype: intro
+  uuid: 45b4aa0d-c7d0-5d72-afc6-8dbe425a84d2
+- category: deck
+  code: EMN-deck-intr-EMIPDK
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118396'
+  name: Eldritch Moon Intro Pack Dangerous Knowledge
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/6815a5f7fce9ecd4
+  releaseDate: null
+  subtype: intro
+  uuid: 8f18e7a9-2522-5849-9a10-073cb8180c8c
+- category: deck
+  code: EMN-deck-intr-EMIPWW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118397'
+  name: Eldritch Moon Intro Pack Weapons and Wards
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/5220039415bf07fc
+  releaseDate: null
+  subtype: intro
+  uuid: 8ff986b3-cc7f-5a36-a4a3-ada7a3124845
+- category: deck
+  code: EMN-deck-intr-EMIPUW
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118398'
+  name: Eldritch Moon Intro Pack Untamed Wild
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/3e1bf561e2572ab8
+  releaseDate: null
+  subtype: intro
+  uuid: 45dd304f-16b5-5877-a1d2-6a05e5d9bc66
+- category: deck
+  code: EMN-deck-intr-EMIPUA
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118399'
+  name: Eldritch Moon Intro Pack Unlikely Alliances
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/113df3b54c989eba
+  releaseDate: null
+  subtype: intro
+  uuid: fb09bd92-94fe-5d91-86d0-5d46c845fa51
+- category: subset
+  code: EMN-sub-intr-EMIPS
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118400'
+  name: Eldritch Moon Intro Pack Set of 5
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/4d6966f11d6f7d97
+  releaseDate: null
+  subtype: intro
+  uuid: 883fa6a4-012c-5f67-9781-2534797eded2
+- category: case
+  code: EMN-case-EMBBC
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118401'
+  name: Eldritch Moon Booster Box Case
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/030e84892c197f6a
+  releaseDate: null
+  subtype: ''
+  uuid: 84d0187e-a021-51da-a80f-64eac897ba47
+- category: bundle
+  code: EMN-bndl-EMFP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '118402'
+  name: Eldritch Moon Fat Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/2c6f4dca36ccbd8a
+  releaseDate: '2016-07-22'
+  subtype: ''
+  uuid: e5eda080-c7a2-5886-b1ce-d64bc54ebee1
+- category: prerelease_pack
+  code: EMN-pre-EMPP
+  contents: []
+  identifiers:
+    tcgplayerProductId: '120775'
+  name: Eldritch Moon Prerelease Pack
+  purchaseUrls:
+    tcgplayer: https://mtgjson.com/links/545d09d8ffcaf7eb
+  releaseDate: null
+  subtype: ''
+  uuid: 083ca310-ed1d-5b7f-9a76-8dca838d6cd3
