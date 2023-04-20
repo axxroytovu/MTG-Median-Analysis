@@ -80,7 +80,7 @@ for file in t:
 			code = "-".join(filter(None, codelist))
 			code2 = code
 			n = 1
-			while code in codes:
+			while code2 in codes:
 				code2 = code + "-" + str(n)
 				n += 1
 			else:
