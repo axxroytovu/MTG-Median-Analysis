@@ -1,6 +1,9 @@
 - category: booster_box
   code: 3ED-bbox-dft-REBB
-  contents: []
+  contents:
+    sealed:
+    - code: 3ED-pack-dft-REBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27303'
   name: Revised Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: ed0e283d-5166-52d0-af02-dfe931caa154
 - category: booster_pack
   code: 3ED-pack-dft-REBP
-  contents: []
+  contents:
+    pack:
+    - code: 3ed
   identifiers:
     tcgplayerProductId: '27365'
   name: Revised Edition Booster Pack
@@ -23,7 +28,7 @@
   uuid: 4ebfc88d-eea7-599e-ba79-c86020d1c1e2
 - category: deck
   code: 3ED-deck-str-RESD
-  contents: []
+  contents: [] # MISSING: starter deck
   identifiers:
     tcgplayerProductId: '57941'
   name: Revised Edition Starter Deck
@@ -34,7 +39,10 @@
   uuid: 9b04b8ff-5402-5553-a531-323a38d8c4a4
 - category: deck_box
   code: 3ED-dbox-str-RESDD
-  contents: []
+  contents: 
+    sealed:
+    - code: 3ED-deck-str-RESD
+      count: 10
   identifiers:
     tcgplayerProductId: '173066'
   name: Revised Edition Starter Deck Display

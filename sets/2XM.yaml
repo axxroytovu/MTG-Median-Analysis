@@ -1,6 +1,10 @@
 - category: booster_box
   code: 2XM-bbox-dft-DMBB
-  contents: []
+  contents:
+    sealed:
+    - code: 2XM-pack-dft-DMBP
+      count: 24
+    - code: 2XM-pack-tpr-DMBTP
   identifiers:
     tcgplayerProductId: '214823'
   name: Double Masters Booster Box
@@ -12,7 +16,9 @@
   uuid: 4eec1496-5e03-5285-ab51-f67ec2e10a03
 - category: booster_pack
   code: 2XM-pack-dft-DMBP
-  contents: []
+  contents:
+    pack:
+    - code: 2xm
   identifiers:
     tcgplayerProductId: '214824'
   name: Double Masters Booster Pack
@@ -23,7 +29,9 @@
   uuid: 7c4d3596-8e58-54b8-969f-3ed2d67548e6
 - category: booster_pack
   code: 2XM-pack-vip-DMVIPEP
-  contents: []
+  contents:
+    pack:
+    - code: 2xm-vip
   identifiers:
     tcgplayerProductId: '215084'
   name: Double Masters VIP Edition Pack
@@ -34,7 +42,10 @@
   uuid: 54e4a112-fd08-55a5-aaed-ac8e7e421746
 - category: draft_set
   code: 2XM-dft-dft-DMBDP
-  contents: []
+  contents:
+    sealed:
+    - code: 2XM-pack-dft-DMBP
+      count: 3
   identifiers:
     tcgplayerProductId: '215119'
   name: Double Masters 3 Booster Draft Pack
@@ -45,7 +56,10 @@
   uuid: f578fdc5-1c13-5d2c-bfac-f722fd2c35b4
 - category: case
   code: 2XM-case-DMBBC
-  contents: []
+  contents:
+    sealed:
+    - code: 2XM-bbox-dft-DMBB
+      count: 4
   identifiers:
     tcgplayerProductId: '215120'
   name: Double Masters Booster Box Case
@@ -56,7 +70,10 @@
   uuid: 54c89aa9-027f-5046-8826-5e97f1431726
 - category: case
   code: 2XM-case-vip-DMVIPEB
-  contents: []
+  contents:
+    sealed:
+    - code: 2XM-pack-vip-DMVIPEP
+      count: 4
   identifiers:
     tcgplayerProductId: '215304'
   name: Double Masters VIP Edition Box
@@ -67,7 +84,10 @@
   uuid: 8e010114-aedf-5404-9a8b-f3a1b00c8303
 - category: case
   code: 2XM-case-vip-DMVIPEBC
-  contents: []
+  contents:
+    sealed:
+    - code: 2XM-case-vip-DMVIPEB
+      count: 4
   identifiers:
     tcgplayerProductId: '215305'
   name: Double Masters VIP Edition Box Case
@@ -78,7 +98,7 @@
   uuid: 5e6283df-b5dc-5d7a-8917-c92bf5377bc2
 - category: booster_pack
   code: 2XM-pack-tpr-DMBTP
-  contents: []
+  contents: [] # MISSING: box topper pack
   identifiers:
     tcgplayerProductId: '220466'
   name: Double Masters Box Topper Pack

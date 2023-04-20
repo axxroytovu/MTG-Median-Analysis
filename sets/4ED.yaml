@@ -1,6 +1,9 @@
 - category: booster_box
   code: 4ED-bbox-dft-FEBB
-  contents: []
+  contents:
+    sealed:
+    - code: 4ED-pack-dft-FEBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27279'
   name: Fourth Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: 01419779-7279-5871-9e3a-bd00f03e7a39
 - category: booster_pack
   code: 4ED-pack-dft-FEBP
-  contents: []
+  contents:
+    pack:
+    - code: 4ed
   identifiers:
     tcgplayerProductId: '27341'
   name: Fourth Edition Booster Pack
@@ -23,7 +28,7 @@
   uuid: 5cdef45e-395c-5c65-a6a1-3a44136308bf
 - category: deck
   code: 4ED-deck-str-FESD
-  contents: []
+  contents: [] # MISSING: starter deck
   identifiers:
     tcgplayerProductId: '194420'
   name: Fourth Edition Starter Deck
@@ -34,7 +39,10 @@
   uuid: aadb04f0-36cf-564a-b105-5466938faff7
 - category: two_player_starter_set
   code: 4ED-2plr-FEGB
-  contents: []
+  contents:
+    sealed:
+    - code: 4ED-deck-str-FESD
+      count: 2
   identifiers:
     tcgplayerProductId: '250109'
   name: Fourth Edition Gift Box
@@ -45,7 +53,10 @@
   uuid: f1e98f27-9dfc-54a0-9d94-336b37689f4a
 - category: deck_box
   code: 4ED-dbox-str-FESDD
-  contents: []
+  contents:
+    sealed:
+    - code: 4ED-deck-str-FESD
+      count: 10
   identifiers:
     tcgplayerProductId: '250110'
   name: Fourth Edition Starter Deck Display
