@@ -483,7 +483,7 @@
     sealed:
     - code: ODY-pack-dft-OBP
       count: 3
-    # MISSING: Tournament Pack https://www.youtube.com/watch?v=h-TsoefiLW4&ab_channel=oldschoolmtg
+    - code: ODY-deck-OTP
     # MISSING: Additional foil contents https://www.coolstuffinc.com/p/218273
   identifiers:
     tcgplayerProductId: '78323'
@@ -493,10 +493,11 @@
   releaseDate: null
   subtype: ''
   uuid: 70f3facf-4c1b-5254-870f-91eac713aebc
-  # HEAD
 - category: deck
   code: ODY-deck-thm-OTDOTP
-  contents: []
+  contents:
+    deck:
+    - code: ody-thm-onetw
   identifiers:
     tcgplayerProductId: '120582'
   name: Odyssey Theme Deck One Two Punch
@@ -507,7 +508,7 @@
   uuid: 33fc916d-07b0-53f4-8a14-b57015b33a01
 - category: deck
   code: ODY-deck-OTP
-  contents: []
+  contents: [] # MISSING: Tournament Pack https://www.youtube.com/watch?v=h-TsoefiLW4&ab_channel=oldschoolmtg
   identifiers:
     tcgplayerProductId: '139151'
   name: Odyssey Tournament Pack
@@ -518,7 +519,9 @@
   uuid: efb5a054-e7af-5b97-887e-79be34528d99
 - category: deck
   code: ODY-deck-thm-OTDL
-  contents: []
+  contents:
+    deck:
+    - code: ody-thm-lifto
   identifiers:
     tcgplayerProductId: '215784'
   name: Odyssey Theme Deck Liftoff
@@ -529,7 +532,9 @@
   uuid: 1339e4c9-57dd-5469-90ec-4e49aa44aabd
 - category: deck
   code: ODY-deck-thm-OTDPC
-  contents: []
+  contents:
+    deck:
+    - code: ody-thm-press
   identifiers:
     tcgplayerProductId: '215785'
   name: Odyssey Theme Deck Pressure Cooker
@@ -540,7 +545,9 @@
   uuid: 4e454d55-dc8a-5ab7-9ebf-1ee6d4d4e0ed
 - category: deck
   code: ODY-deck-thm-OTDTOM
-  contents: []
+  contents:
+    deck:
+    - code: ody-thm-troun
   identifiers:
     tcgplayerProductId: '215786'
   name: Odyssey Theme Deck Trounce O Matic
@@ -551,7 +558,10 @@
   uuid: 75b865cf-9202-5699-b7d7-abb0c9ef1eaa
 - category: booster_box
   code: GRN-bbox-dft-GRBB
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 36
   identifiers:
     tcgplayerProductId: '173362'
   name: Guilds of Ravnica Booster Box
@@ -563,7 +573,10 @@
   uuid: a36c4008-48ee-5502-a992-c2bbba07c3ed
 - category: case
   code: GRN-case-GRBBC
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-bbox-dft-GRBB
+      count: 6
   identifiers:
     tcgplayerProductId: '173363'
   name: Guilds of Ravnica Booster Box Case
@@ -574,7 +587,9 @@
   uuid: c3fb1132-d50a-5c8e-a5f5-5583afd75333
 - category: booster_pack
   code: GRN-pack-dft-GRBP
-  contents: []
+  contents:
+    pack:
+    - code: grn
   identifiers:
     tcgplayerProductId: '173364'
   name: Guilds of Ravnica Booster Pack
@@ -585,7 +600,11 @@
   uuid: dbecee60-807c-5627-9090-d2114a897fcd
 - category: bundle
   code: GRN-bndl-GRB
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 10
+    # MISSING: land pack
   identifiers:
     tcgplayerProductId: '173365'
   name: Guilds of Ravnica Bundle
@@ -596,7 +615,11 @@
   uuid: 96402342-c54a-5a6a-a484-0e2a181cee38
 - category: prerelease_pack
   code: GRN-pre-GRPPB
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 5
+    # MISSING: guild seeded pack
   identifiers:
     tcgplayerProductId: '173371'
   name: Guilds of Ravnica Prerelease Pack Boros
@@ -607,7 +630,11 @@
   uuid: abc588b8-47c8-5b5e-9320-4a24940a3350
 - category: prerelease_pack
   code: GRN-pre-GRPPD
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 5
+    # MISSING: guild seeded pack
   identifiers:
     tcgplayerProductId: '173372'
   name: Guilds of Ravnica Prerelease Pack Dimir
@@ -618,7 +645,12 @@
   uuid: ff9f024d-bc80-524a-a72b-d219f4c93472
 - category: deck
   code: GRN-deck-plw-GRPDV
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 2
+    deck:
+    - code: grn-plw-vrask
   identifiers:
     tcgplayerProductId: '176691'
   name: Guilds of Ravnica Planeswalker Deck Vraska
@@ -629,7 +661,12 @@
   uuid: ceb9dc37-df20-5ea6-884d-c41ecf4b7a4d
 - category: deck
   code: GRN-deck-plw-GRPDR
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 2
+    deck:
+    - code: grn-plw-ralca
   identifiers:
     tcgplayerProductId: '176692'
   name: Guilds of Ravnica Planeswalker Deck Ral
@@ -640,7 +677,10 @@
   uuid: 1cecd7b3-25f5-5e07-ad86-e3b139669c7e
 - category: subset
   code: GRN-sub-plw-GRPDS
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-deck-plw-GRPDR
+    - code: GRN-deck-plw-GRPDV
   identifiers:
     tcgplayerProductId: '176693'
   name: Guilds of Ravnica Planeswalker Deck Set of 2
@@ -651,7 +691,11 @@
   uuid: c51ea162-e7a6-54c9-84bc-3ec6bb81b57d
 - category: prerelease_pack
   code: GRN-pre-GRPPG
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 5
+    # MISSING: guild seeded pack
   identifiers:
     tcgplayerProductId: '176694'
   name: Guilds of Ravnica Prerelease Pack Golgari
@@ -662,7 +706,11 @@
   uuid: 37bd2de6-2067-592e-874e-c52e0f661455
 - category: prerelease_pack
   code: GRN-pre-GRPPI
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 5
+    # MISSING: guild seeded pack
   identifiers:
     tcgplayerProductId: '176695'
   name: Guilds of Ravnica Prerelease Pack Izzet
@@ -673,7 +721,11 @@
   uuid: 55bbda3f-4d5d-56ce-9949-1266a12777b8
 - category: prerelease_pack
   code: GRN-pre-GRPPS
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-dft-GRBP
+      count: 5
+    # MISSING: guild seeded pack
   identifiers:
     tcgplayerProductId: '176696'
   name: Guilds of Ravnica Prerelease Pack Selesnya
@@ -684,7 +736,7 @@
   uuid: 9ddfd965-24c5-5cdf-a430-a67ef93cf2bf
 - category: booster_pack
   code: GRN-pack-thm-GRTBPB
-  contents: []
+  contents: [] # MISSING: theme booster
   identifiers:
     tcgplayerProductId: '176698'
   name: Guilds of Ravnica Theme Booster Pack Boros
@@ -695,7 +747,7 @@
   uuid: 7ee3e553-0f12-584e-aa11-b2e35d62f703
 - category: booster_pack
   code: GRN-pack-thm-GRTBPD
-  contents: []
+  contents: [] # MISSING: theme booster
   identifiers:
     tcgplayerProductId: '176699'
   name: Guilds of Ravnica Theme Booster Pack Dimir
@@ -706,7 +758,7 @@
   uuid: b5495422-e733-5142-8e84-902bc81e62ca
 - category: booster_pack
   code: GRN-pack-thm-GRTBPG
-  contents: []
+  contents: [] # MISSING: theme booster
   identifiers:
     tcgplayerProductId: '176700'
   name: Guilds of Ravnica Theme Booster Pack Golgari
@@ -717,7 +769,7 @@
   uuid: 236711ef-2574-5a52-ada8-9b1f7f80c9a7
 - category: booster_pack
   code: GRN-pack-thm-GRTBPI
-  contents: []
+  contents: [] # MISSING: theme booster
   identifiers:
     tcgplayerProductId: '176701'
   name: Guilds of Ravnica Theme Booster Pack Izzet
@@ -728,7 +780,7 @@
   uuid: 9ecfbf27-bffc-546e-b789-3f54453c3dce
 - category: booster_pack
   code: GRN-pack-thm-GRTBPS
-  contents: []
+  contents: [] # MISSING: theme booster
   identifiers:
     tcgplayerProductId: '176702'
   name: Guilds of Ravnica Theme Booster Pack Selesnya
@@ -739,7 +791,13 @@
   uuid: 6b5bac1c-83f7-5313-b961-c943dc6ef9ee
 - category: subset
   code: GRN-sub-thm-GRTBPS
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-thm-GRTBPS
+    - code: GRN-pack-thm-GRTBPI
+    - code: GRN-pack-thm-GRTBPG
+    - code: GRN-pack-thm-GRTBPD
+    - code: GRN-pack-thm-GRTBPB
   identifiers:
     tcgplayerProductId: '176703'
   name: Guilds of Ravnica Theme Booster Pack Set of 5
@@ -750,7 +808,13 @@
   uuid: 64dc08ea-2302-5f69-9a88-284489fd552a
 - category: prerelease_pack
   code: GRN-pre-GRPPS-1
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pre-GRPPS
+    - code: GRN-pre-GRPPI
+    - code: GRN-pre-GRPPG
+    - code: GRN-pre-GRPPD
+    - code: GRN-pre-GRPPB
   identifiers:
     tcgplayerProductId: '177706'
   name: Guilds of Ravnica Prerelease Pack Set of 5
@@ -761,7 +825,18 @@
   uuid: 86bc0c66-b2b1-5872-b60c-17602dca9f01
 - category: booster_box
   code: GRN-bbox-thm-GRTBDB
-  contents: []
+  contents:
+    sealed:
+    - code: GRN-pack-thm-GRTBPS
+      count: 2
+    - code: GRN-pack-thm-GRTBPI
+      count: 2
+    - code: GRN-pack-thm-GRTBPG
+      count: 2
+    - code: GRN-pack-thm-GRTBPD
+      count: 2
+    - code: GRN-pack-thm-GRTBPB
+      count: 2
   identifiers:
     tcgplayerProductId: '182892'
   name: Guilds of Ravnica Theme Booster Display Box
@@ -771,6 +846,7 @@
   releaseDate: null
   subtype: theme
   uuid: 068a07de-7e7b-5b05-ae09-8667b7d8e469
+  # HEAD
 - category: commander_deck
   code: NCC-cmr-SNCCDD
   contents: []
