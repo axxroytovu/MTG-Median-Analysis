@@ -110,6 +110,7 @@ products = []
 with open("json/sealed_extended_data.json", "rb") as f:
     all_boosters = list(ijson.items(f, "item"))
     booster_tqdm = tqdm(all_boosters)
+    booster_tqdm.set_description("Building booster packs:")
     for full_config in booster_tqdm:
         type_code = full_config.get("code")
         if "arena" in type_code:
@@ -123,6 +124,7 @@ with open("json/sealed_extended_data.json", "rb") as f:
 with open("json/decks.json", "rb") as f:
 	all_decks = list(ijson.items(f, "item"))
 	deck_tqdm = tqdm(all_decks)
+	deck_tqdm.set_description("Building fixed decks:")
 	for config in deck_tqdm:
 		deck = d_f.build_deck(config, priceJson)
 		decks[config["code"]] = deck
@@ -134,9 +136,9 @@ with open("json/products.yaml", 'rb') as f:
 	products = yaml.safe_load(f)
 
 # Build products
-while len(sealed) < len(products):
-	print(len(sealed), len(products))
+for i in range(3):
 	t = tqdm(products)
+	t.set_description("Building sealed - pass {0}".format(i+1))
 	for obj in t:
 		if obj["code"] in sealed:
 			continue
@@ -147,6 +149,12 @@ while len(sealed) < len(products):
 			print(obj["code"], "skipped")
 	t.close()
 	del(t)
+
+if len(products) > len(sealed):
+	print("Missing products:")
+	for p in products:
+		if p["code"] not in sealed:
+			print(p["name"])
 
 
 print("products")
