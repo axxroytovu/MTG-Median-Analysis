@@ -3,9 +3,11 @@ import sealed as s_func
 import time
 import tracemalloc
 import booster_factory as b_f
+import deck_factory as d_f
 from glob import glob
 from tqdm import tqdm
 import ijson
+import yaml
 
 performance_meter = False
 
@@ -61,10 +63,15 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
     plt.grid()
     plt.tight_layout()
 
+
 priceJson = s_func.get_price_data("json/AllPrices.json")
 
-boosters = []
+boosters = {}
+decks = {}
+sealed = {}
+products = []
 
+# Build packs
 with open("json/sealed_extended_data.json", "rb") as f:
     all_boosters = list(ijson.items(f, "item"))
     booster_tqdm = tqdm(all_boosters)
@@ -73,17 +80,61 @@ with open("json/sealed_extended_data.json", "rb") as f:
         if "arena" in type_code:
             continue
         booster = b_f.build_booster(full_config, priceJson)
-        set_code = full_config.get("set_code")
-        if set_code == type_code:
-            variant = "draft"
-        else:
-            variant = "-".join(type_code.split("-")[1:])
-        boosters.append({"set": set_code, "type": variant, "booster": booster})
+        boosters[full_config["code"]] = booster
     booster_tqdm.close()
     del(booster_tqdm)
 
-for b in boosters:
-    print(b["set"], b["type"], b["booster"].summary())
+# Build decks
+with open("json/decks.json", "rb") as f:
+	all_decks = list(ijson.items(f, "item"))
+	deck_tqdm = tqdm(all_decks)
+	for config in deck_tqdm:
+		deck = d_f.build_deck(config, priceJson)
+		decks[config["code"]] = deck
+	deck_tqdm.close()
+	del(deck_tqdm)
+
+# Load products
+with open("json/products.yaml", 'rb') as f:
+	products = yaml.safe_load(f)
+
+# Build products
+while len(sealed) < len(products):
+	print(len(sealed), len(products))
+	t = tqdm(products)
+	for obj in t:
+		if obj["code"] in sealed:
+			continue
+		ready = True
+		pack = s_func.kit()
+		if "deck" in obj["contents"]:
+			for d in obj["contents"]["deck"]:
+				for i in range(d.get("count", 1)):
+					pack.merge_kit(decks[d["code"]])
+		if "pack" in obj["contents"]:
+			for p in obj["contents"]["pack"]:
+				for i in range(p.get("count", 1)):
+					pack.merge_kit(boosters[p["code"]])
+		if "sealed" in obj["contents"]:
+			for s in obj["contents"]["sealed"]:
+				if s["code"] not in sealed:
+					ready = False
+					break
+				for i in range(s.get("count", 1)):
+					pack.merge_kit(sealed[s["code"]])
+		if ready:
+			sealed[obj["code"]] = pack
+		else:
+			print(obj["code"], "skipped")
+	t.close()
+	del(t)
+
+
+print("products")
+for k, v in sealed.items():
+	if v.mean > 0:
+		print(k, v.summary())
+
 
 if performance_meter:
     print("memory:", tracemalloc.get_traced_memory())
