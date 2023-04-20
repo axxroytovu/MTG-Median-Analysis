@@ -224,7 +224,7 @@
   subtype: planeswalker
   uuid: 03e8c8c4-7557-5da9-9ecd-b41fedd88138
 - category: deck
-  code: RNA-deck-plw-RAPDD
+  code: RNA-deck-plw-RAPDD-1
   contents: []
   identifiers:
     tcgplayerProductId: '182134'
@@ -368,7 +368,7 @@
   subtype: ''
   uuid: fd0012dc-5489-5438-b092-41ca5a183e53
 - category: prerelease_pack
-  code: RNA-pre-RAPPS
+  code: RNA-pre-RAPPS-1
   contents: []
   identifiers:
     tcgplayerProductId: '183591'
@@ -678,7 +678,7 @@
   subtype: theme
   uuid: 64dc08ea-2302-5f69-9a88-284489fd552a
 - category: prerelease_pack
-  code: GRN-pre-GRPPS
+  code: GRN-pre-GRPPS-1
   contents: []
   identifiers:
     tcgplayerProductId: '177706'
@@ -956,7 +956,7 @@
   subtype: draft
   uuid: a2630e5d-f1ae-53b8-b5e2-938d77123f73
 - category: booster_pack
-  code: ZEN-pack-dft-ZBP
+  code: ZEN-pack-dft-ZBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '32792'
@@ -1344,7 +1344,7 @@
   subtype: draft
   uuid: 1fe98abe-a532-5c7f-bbee-1a2bb6659876
 - category: booster_pack
-  code: RTR-pack-dft-RRBP
+  code: RTR-pack-dft-RRBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '60121'
@@ -1498,7 +1498,7 @@
   subtype: ''
   uuid: 301a90fe-bd76-5fa7-910c-7cbe20c104c8
 - category: prerelease_pack
-  code: RTR-pre-RRPPS
+  code: RTR-pre-RRPPS-1
   contents: []
   identifiers:
     tcgplayerProductId: '190191'
@@ -1742,7 +1742,7 @@
   subtype: ''
   uuid: 22347cdc-84fd-57fc-9683-d74596a92b46
 - category: prerelease_pack
-  code: GTC-pre-GPKS
+  code: GTC-pre-GPKS-1
   contents: []
   identifiers:
     tcgplayerProductId: '106355'
@@ -2381,7 +2381,7 @@
   subtype: theme
   uuid: 79bf2dc4-f091-5919-902e-0d88e15f14e8
 - category: booster_pack
-  code: IKO-pack-thm-ILBTBB
+  code: IKO-pack-thm-ILBTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '208287'
@@ -3023,7 +3023,7 @@
   subtype: ''
   uuid: a7819679-10b8-598b-9ddf-40b92c93983f
 - category: prerelease_pack
-  code: FRF-pre-FRPKS
+  code: FRF-pre-FRPKS-1
   contents: []
   identifiers:
     tcgplayerProductId: '95915'
@@ -3356,7 +3356,7 @@
   subtype: theme
   uuid: 5454bcad-8459-5119-b1a9-07934437e214
 - category: booster_pack
-  code: ELD-pack-thm-TETBPB
+  code: ELD-pack-thm-TETBPB-1
   contents: []
   identifiers:
     tcgplayerProductId: '194903'
@@ -3832,7 +3832,7 @@
   subtype: theme
   uuid: d18e655c-ce0a-50d3-9883-efd20803114a
 - category: booster_pack
-  code: WAR-pack-thm-WSTBPB
+  code: WAR-pack-thm-WSTBPB-1
   contents: []
   identifiers:
     tcgplayerProductId: '188648'
@@ -4034,7 +4034,7 @@
   subtype: theme
   uuid: 539cdf81-0707-590b-ac96-1b062f6fdd86
 - category: booster_pack
-  code: MID-pack-thm-IMHTBB
+  code: MID-pack-thm-IMHTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '247377'
@@ -4078,7 +4078,7 @@
   subtype: theme
   uuid: 9b77ae06-228d-5d23-9075-c936f93aa542
 - category: booster_pack
-  code: MID-pack-thm-IMHTBW
+  code: MID-pack-thm-IMHTBW-1
   contents: []
   identifiers:
     tcgplayerProductId: '247381'
@@ -4643,7 +4643,7 @@
   subtype: ''
   uuid: 67b41610-4941-50ce-968b-0be5fcc3b663
 - category: booster_pack
-  code: ISD-pack-dft-IBP
+  code: ISD-pack-dft-IBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '47789'
@@ -5447,7 +5447,7 @@
   subtype: secret_lair
   uuid: ade9c31c-f69c-5208-9d78-7bb68f76747a
 - category: box_set
-  code: SLD-bset-sld-SLDSKPF
+  code: SLD-bset-sld-SLDSKPF-1
   contents: []
   identifiers:
     tcgplayerProductId: '232603'
@@ -5458,7 +5458,7 @@
   subtype: secret_lair
   uuid: ea8cc93a-8043-5d88-9a85-c3db8ae32d4d
 - category: box_set
-  code: SLD-bset-sld-SLDSKPNF
+  code: SLD-bset-sld-SLDSKPNF-1
   contents: []
   identifiers:
     tcgplayerProductId: '232604'
@@ -6448,7 +6448,7 @@
   subtype: secret_lair
   uuid: b58ec500-12cc-595d-bf09-4d9abe027539
 - category: box_set
-  code: SLD-bset-sld-SLDSSB
+  code: SLD-bset-sld-SLDSSB-1
   contents: []
   identifiers:
     tcgplayerProductId: '258493'
@@ -7086,7 +7086,7 @@
   subtype: secret_lair
   uuid: baf1b469-d43e-54de-be7e-e7595a543615
 - category: box_set
-  code: SLD-bset-sld-SLDALC
+  code: SLD-bset-sld-SLDALC-1
   contents: []
   identifiers:
     tcgplayerProductId: '278748'
@@ -7097,7 +7097,7 @@
   subtype: secret_lair
   uuid: a0e9721b-b135-59b3-a193-175371cf46af
 - category: box_set
-  code: SLD-bset-sld-SLDALCF
+  code: SLD-bset-sld-SLDALCF-1
   contents: []
   identifiers:
     tcgplayerProductId: '278749'
@@ -7108,7 +7108,7 @@
   subtype: secret_lair
   uuid: 310dda15-dd38-5246-9482-a8d82ab31ab9
 - category: box_set
-  code: SLD-bset-sld-SLDALCB
+  code: SLD-bset-sld-SLDALCB-1
   contents: []
   identifiers:
     tcgplayerProductId: '278750'
@@ -7119,7 +7119,7 @@
   subtype: secret_lair
   uuid: b31bceff-157d-5433-9be6-b2cfc99a6d39
 - category: box_set
-  code: SLD-bset-sld-SLDALCBF
+  code: SLD-bset-sld-SLDALCBF-1
   contents: []
   identifiers:
     tcgplayerProductId: '278751'
@@ -7627,7 +7627,7 @@
   subtype: secret_lair
   uuid: 00a46cc9-36e3-5df6-8b7c-b2e4e8c7b369
 - category: box_set
-  code: SLD-bset-sld-SLDASNNFB
+  code: SLD-bset-sld-SLDASNNFB-1
   contents: []
   identifiers:
     tcgplayerProductId: '283284'
@@ -7638,7 +7638,7 @@
   subtype: secret_lair
   uuid: c89d202f-18b5-5626-91b0-7f364c175d80
 - category: box_set
-  code: SLD-bset-sld-SLDASFFB
+  code: SLD-bset-sld-SLDASFFB-1
   contents: []
   identifiers:
     tcgplayerProductId: '283286'
@@ -7649,7 +7649,7 @@
   subtype: secret_lair
   uuid: feb3a8e1-e7a4-5988-8bed-c98cad17ac00
 - category: box_set
-  code: SLD-bset-sld-SLDASTBB
+  code: SLD-bset-sld-SLDASTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '283288'
@@ -7726,7 +7726,7 @@
   subtype: secret_lair
   uuid: fcda93ee-92ad-5a82-b4e3-438006136f9d
 - category: box_set
-  code: SLD-bset-sld-SLDALLBF
+  code: SLD-bset-sld-SLDALLBF-1
   contents: []
   identifiers:
     tcgplayerProductId: '448975'
@@ -7737,7 +7737,7 @@
   subtype: secret_lair
   uuid: 62b1872e-e0d6-5a76-b232-033f33addc47
 - category: box_set
-  code: SLD-bset-sld-SLDALLB
+  code: SLD-bset-sld-SLDALLB-1
   contents: []
   identifiers:
     tcgplayerProductId: '449040'
@@ -7748,7 +7748,7 @@
   subtype: secret_lair
   uuid: 4da2372b-5ec0-58c5-9ba1-60e6484f0a07
 - category: box_set
-  code: SLD-bset-sld-SLDALL
+  code: SLD-bset-sld-SLDALL-1
   contents: []
   identifiers:
     tcgplayerProductId: '449047'
@@ -7759,7 +7759,7 @@
   subtype: secret_lair
   uuid: d1e4a167-aa43-5d0f-a6a5-f150b4a7e737
 - category: box_set
-  code: SLD-bset-sld-SLDALLF
+  code: SLD-bset-sld-SLDALLF-1
   contents: []
   identifiers:
     tcgplayerProductId: '449051'
@@ -8089,7 +8089,7 @@
   subtype: secret_lair
   uuid: bcc3eb3e-3a3c-5e56-9ddf-54689ac4fc59
 - category: box_set
-  code: SLD-bset-sld-SLDEL
+  code: SLD-bset-sld-SLDEL-1
   contents: []
   identifiers:
     tcgplayerProductId: '451236'
@@ -8364,7 +8364,7 @@
   subtype: secret_lair
   uuid: b5eb516f-ba6f-50c1-a5c9-e14ef0e2c748
 - category: box_set
-  code: SLD-bset-sld-SLDTTT
+  code: SLD-bset-sld-SLDTTT-1
   contents: []
   identifiers:
     tcgplayerProductId: '456542'
@@ -8595,7 +8595,7 @@
   subtype: secret_lair
   uuid: d0340674-80e6-5de3-9da2-53280de8075a
 - category: box_set
-  code: SLD-bset-sld-SLDPF
+  code: SLD-bset-sld-SLDPF-1
   contents: []
   identifiers:
     tcgplayerProductId: '480457'
@@ -9115,7 +9115,7 @@
   subtype: ''
   uuid: d0534106-1915-5eab-8dfc-5961cd2d0e59
 - category: prerelease_pack
-  code: DTK-pre-DTPKS
+  code: DTK-pre-DTPKS-1
   contents: []
   identifiers:
     tcgplayerProductId: '96478'
@@ -9984,7 +9984,7 @@
   subtype: theme
   uuid: 1ce12cb9-bb86-5265-9a8f-1da72845c71c
 - category: booster_pack
-  code: NEO-pack-thm-KNDTBB
+  code: NEO-pack-thm-KNDTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '257571'
@@ -10206,7 +10206,7 @@
   subtype: theme
   uuid: 4f856f4c-acfe-5a56-9132-e209a9107209
 - category: booster_pack
-  code: ZNR-pack-thm-ZRTBB
+  code: ZNR-pack-thm-ZRTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '220416'
@@ -10796,7 +10796,7 @@
   subtype: theme
   uuid: e1e1a433-31e3-5f05-837e-73776fbda094
 - category: deck
-  code: 8ED-deck-thm-ETDSS
+  code: 8ED-deck-thm-ETDSS-1
   contents: []
   identifiers:
     tcgplayerProductId: '96329'
@@ -11521,7 +11521,7 @@
   subtype: draft
   uuid: 0338a549-f47b-535d-b6a0-a6c09de8e9af
 - category: booster_pack
-  code: M12-pack-dft-MBP
+  code: M12-pack-dft-MBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '46956'
@@ -12178,7 +12178,7 @@
   subtype: theme
   uuid: 2e7b1f55-5c3e-51f4-a06a-f2444fded29e
 - category: booster_pack
-  code: AFR-pack-thm-AFRTBB
+  code: AFR-pack-thm-AFRTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '238825'
@@ -12587,7 +12587,7 @@
   subtype: planeswalker
   uuid: a2f5a996-8718-537a-adb0-271e5c70a94f
 - category: booster_pack
-  code: DPA-pack-plw-DPPSPP
+  code: DPA-pack-plw-DPPSPP-1
   contents: []
   identifiers:
     tcgplayerProductId: '77291'
@@ -12609,7 +12609,7 @@
   subtype: planeswalker
   uuid: 20b9c793-01c3-5dc8-a4cd-adff58df3a50
 - category: booster_pack
-  code: DPA-pack-plw-DPXBOXPP
+  code: DPA-pack-plw-DPXBOXPP-1
   contents: []
   identifiers:
     tcgplayerProductId: '77293'
@@ -12631,7 +12631,7 @@
   subtype: ''
   uuid: dc31016c-0a64-54e2-8ffb-ca7844bb5e04
 - category: booster_pack
-  code: DPA-pack-plw-DPXBOXPP
+  code: DPA-pack-plw-DPXBOXPP-2
   contents: []
   identifiers:
     tcgplayerProductId: '264778'
@@ -14930,7 +14930,7 @@
   subtype: theme
   uuid: 75d64d7f-a3a1-54fc-abf3-298fbba34336
 - category: deck
-  code: EVE-deck-thm-ETDS
+  code: EVE-deck-thm-ETDS-1
   contents: []
   identifiers:
     tcgplayerProductId: '175116'
@@ -15719,7 +15719,7 @@
   subtype: draft
   uuid: 9a8b24be-a2a9-5b2f-85bc-b8b7a1f4a234
 - category: booster_pack
-  code: M13-pack-dft-MBP
+  code: M13-pack-dft-MBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '59123'
@@ -15984,7 +15984,7 @@
   subtype: theme
   uuid: 9df58569-6416-591e-b31c-cd51e12fe8d2
 - category: booster_pack
-  code: DOM-pack-thm-DTBB
+  code: DOM-pack-thm-DTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '166674'
@@ -16140,7 +16140,7 @@
   subtype: theme
   uuid: 0d8d3786-a24e-5b81-8743-c57cb8fba8cf
 - category: deck
-  code: STH-deck-thm-STDTS
+  code: STH-deck-thm-STDTS-1
   contents: []
   identifiers:
     tcgplayerProductId: '175071'
@@ -16263,7 +16263,7 @@
   subtype: theme
   uuid: 4a57a3e3-c3ca-5acc-b474-e7a444414499
 - category: deck
-  code: TMP-deck-thm-TTDTS
+  code: TMP-deck-thm-TTDTS-1
   contents: []
   identifiers:
     tcgplayerProductId: '236689'
@@ -16528,7 +16528,7 @@
   subtype: ''
   uuid: 98e620e1-242e-57c3-b65b-eca96b89dcc8
 - category: prerelease_pack
-  code: KTK-pre-KTPKS
+  code: KTK-pre-KTPKS-1
   contents: []
   identifiers:
     tcgplayerProductId: '95048'
@@ -16652,7 +16652,7 @@
   subtype: draft
   uuid: d6fd4682-54f9-5346-a68f-1b4e80cc946e
 - category: booster_pack
-  code: M10-pack-dft-MBP
+  code: M10-pack-dft-MBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '32531'
@@ -17155,7 +17155,7 @@
   subtype: theme
   uuid: 4fd8b670-f047-5984-87db-5adc931a38f3
 - category: booster_pack
-  code: THB-pack-thm-TBDTBPB
+  code: THB-pack-thm-TBDTBPB-1
   contents: []
   identifiers:
     tcgplayerProductId: '206259'
@@ -17733,7 +17733,7 @@
   subtype: intro
   uuid: 00708407-3f0a-586c-8f3c-50c88e61a703
 - category: deck
-  code: OGW-deck-intr-OGIPB
+  code: OGW-deck-intr-OGIPB-1
   contents: []
   identifiers:
     tcgplayerProductId: '110709'
@@ -18269,7 +18269,7 @@
   subtype: theme
   uuid: 598019aa-3217-54cf-91c2-492a9a297506
 - category: booster_pack
-  code: KHM-pack-thm-KTBB
+  code: KHM-pack-thm-KTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '229196'
@@ -19205,7 +19205,7 @@
   subtype: theme
   uuid: c4c5edb4-478b-5e38-b383-caf1ae78e6c8
 - category: deck
-  code: 5DN-deck-thm-FDSTD
+  code: 5DN-deck-thm-FDSTD-1
   contents: []
   identifiers:
     tcgplayerProductId: '96425'
@@ -19372,7 +19372,7 @@
   subtype: draft
   uuid: fdd4d1a8-8a09-59f8-b4f0-17599a4a7200
 - category: booster_pack
-  code: M11-pack-dft-MBP
+  code: M11-pack-dft-MBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '35375'
@@ -19791,7 +19791,7 @@
   subtype: ''
   uuid: d9885085-299e-5105-8a78-913d6a270c88
 - category: prerelease_pack
-  code: DGM-pre-DMPGKG
+  code: DGM-pre-DMPGKG-1
   contents: []
   identifiers:
     tcgplayerProductId: '183298'
@@ -19813,7 +19813,7 @@
   subtype: ''
   uuid: 28298b47-d511-5582-81d2-e457561a8049
 - category: prerelease_pack
-  code: DGM-pre-DMPGKS
+  code: DGM-pre-DMPGKS-1
   contents: []
   identifiers:
     tcgplayerProductId: '183300'
@@ -20256,7 +20256,7 @@
   subtype: set
   uuid: e2797841-3456-5c8e-8275-a44e742ea899
 - category: booster_pack
-  code: M20-pack-set-CSTBB
+  code: M20-pack-set-CSTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '192762'
@@ -20657,7 +20657,7 @@
   subtype: theme
   uuid: 4dcfaf4b-647d-5e51-8a67-baa939a9bff5
 - category: booster_pack
-  code: VOW-pack-thm-ICVTBB
+  code: VOW-pack-thm-ICVTBB-1
   contents: []
   identifiers:
     tcgplayerProductId: '253824'
@@ -20790,7 +20790,7 @@
   subtype: draft
   uuid: c675ae28-5f7f-5362-ba99-5ad074ea2807
 - category: booster_pack
-  code: ROE-pack-dft-REBP
+  code: ROE-pack-dft-REBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '34681'
@@ -21659,7 +21659,7 @@
   subtype: ''
   uuid: ca333f29-3cdf-5bd0-8d77-77f70e3a0817
 - category: prerelease_pack
-  code: STX-pre-SSMPPS
+  code: STX-pre-SSMPPS-1
   contents: []
   identifiers:
     tcgplayerProductId: '233313'
@@ -22047,7 +22047,7 @@
   subtype: theme
   uuid: 252b59fd-7735-527b-a0fc-d31f134e6654
 - category: deck
-  code: LRW-deck-thm-LEPTD
+  code: LRW-deck-thm-LEPTD-1
   contents: []
   identifiers:
     tcgplayerProductId: '214972'
@@ -22191,7 +22191,7 @@
   subtype: draft
   uuid: b9b14ddf-828f-5259-bf0b-fc8ee6038f7f
 - category: booster_pack
-  code: SOM-pack-dft-SMBP
+  code: SOM-pack-dft-SMBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '35748'
@@ -22302,7 +22302,7 @@
   subtype: draft
   uuid: b5137aa5-dd29-5f60-92fb-aa2c39a65a03
 - category: booster_pack
-  code: AVR-pack-dft-ARBP
+  code: AVR-pack-dft-ARBP-1
   contents: []
   identifiers:
     tcgplayerProductId: '58057'
@@ -22692,7 +22692,7 @@
   subtype: ''
   uuid: 60e154f0-91f2-5145-ae10-67d7c1c051f1
 - category: box_set
-  code: PMEI-bset-plw-SDCCEXCLUSIVEPS
+  code: PMEI-bset-plw-SDCCEXCLUSIVEPS-1
   contents: []
   identifiers:
     tcgplayerProductId: '170787'
@@ -22770,7 +22770,7 @@
   subtype: starter
   uuid: d491705b-c660-595b-be69-2052ba78bd41
 - category: two_player_starter_set
-  code: P02-2plr-str-PSATPSD
+  code: P02-2plr-str-PSATPSD-1
   contents: []
   identifiers:
     tcgplayerProductId: '96283'
