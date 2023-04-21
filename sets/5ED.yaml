@@ -1,6 +1,9 @@
 - category: booster_box
   code: 5ED-bbox-dft-FEBB
-  contents: []
+  contents:
+    sealed:
+    - code: 5ED-pack-dft-FEBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27278'
   name: Fifth Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: bfe335c8-487a-5e51-a31b-540a723d8024
 - category: booster_pack
   code: 5ED-pack-dft-FEBP
-  contents: []
+  contents:
+    pack:
+    - code: 5ed
   identifiers:
     tcgplayerProductId: '27340'
   name: Fifth Edition Booster Pack
@@ -23,7 +28,7 @@
   uuid: 93389a2e-9a5e-5ef4-9afe-60898199b905
 - category: deck
   code: 5ED-deck-str-FESD
-  contents: []
+  contents: [] # MISSING: Starter deck
   identifiers:
     tcgplayerProductId: '139148'
   name: Fifth Edition Starter Deck
@@ -34,7 +39,10 @@
   uuid: ec6e6678-3869-57ab-ab9a-d210e16fbaa9
 - category: deck_box
   code: 5ED-dbox-str-FESDB
-  contents: []
+  contents:
+    sealed:
+    - code: 5ED-deck-str-FESD
+      count: 12
   identifiers:
     tcgplayerProductId: '184221'
   name: Fifth Edition Starter Deck Box
@@ -45,7 +53,10 @@
   uuid: 4771c49e-4ef3-5b53-a5e7-79a2cccca037
 - category: two_player_starter_set
   code: 5ED-2plr-str-FETPSS
-  contents: []
+  contents:
+    sealed:
+    - code: 5ED-deck-str-FESD
+      count: 2
   identifiers:
     tcgplayerProductId: '232842'
   name: Fifth Edition Two Player Starter Set
