@@ -1,6 +1,9 @@
 - category: booster_box
   code: 8ED-bbox-dft-EBB
-  contents: []
+  contents:
+    sealed:
+    - code: 8ED-pack-dft-EBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27259'
   name: 8th Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: bbe7c789-c6a8-5227-b37b-eae13c6a1adb
 - category: booster_pack
   code: 8ED-pack-dft-EBP
-  contents: []
+  contents:
+    pack:
+    - code: 8ed
   identifiers:
     tcgplayerProductId: '27321'
   name: 8th Edition Booster Pack
@@ -23,7 +28,7 @@
   uuid: 599d9ec6-ebf6-5d28-b1e4-9447f70e4349
 - category: box_set
   code: 8ED-bset-EBSCG
-  contents: []
+  contents: [] # MISSING: starter decks
   identifiers:
     tcgplayerProductId: '81797'
   name: 8th Edition Box Set Core Game
@@ -34,7 +39,9 @@
   uuid: 3a675398-aedc-5b64-a08c-61625dbc8106
 - category: deck
   code: 8ED-deck-thm-ETDE
-  contents: []
+  contents:
+    deck:
+    - code: 8ed-thm-expul
   identifiers:
     tcgplayerProductId: '96325'
   name: 8th Edition Theme Deck Expulsion
@@ -45,7 +52,9 @@
   uuid: a138109b-6400-5d7f-8b91-74427a3dcaf9
 - category: deck
   code: 8ED-deck-thm-ETDHH
-  contents: []
+  contents:
+    deck:
+    - code: 8ed-thm-heavy
   identifiers:
     tcgplayerProductId: '96326'
   name: 8th Edition Theme Deck Heavy Hitters
@@ -56,7 +65,9 @@
   uuid: 5255e35a-e75e-5751-9951-ce9fbe259782
 - category: deck
   code: 8ED-deck-thm-ETDLB
-  contents: []
+  contents:
+    deck:
+    - code: 8ed-thm-lifeb
   identifiers:
     tcgplayerProductId: '96327'
   name: 8th Edition Theme Deck Life Boost
@@ -67,7 +78,9 @@
   uuid: d3cdda23-2db0-54b7-8cdb-a4ca465dde81
 - category: deck
   code: 8ED-deck-thm-ETDSS
-  contents: []
+  contents:
+    deck:
+    - code: 8ed-thm-skysl
   identifiers:
     tcgplayerProductId: '96328'
   name: 8th Edition Theme Deck Sky Slam
@@ -78,7 +91,9 @@
   uuid: e1e1a433-31e3-5f05-837e-73776fbda094
 - category: deck
   code: 8ED-deck-thm-ETDSS-1
-  contents: []
+  contents:
+    deck:
+    - code: 8ed-thm-speed
   identifiers:
     tcgplayerProductId: '96329'
   name: 8th Edition Theme Deck Speed Scorch
@@ -89,7 +104,42 @@
   uuid: 35c09062-0ebe-5bc7-b8fa-cffbcf663ae6
 - category: box_set
   code: 8ED-bset-EBS
-  contents: []
+  contents:
+    sealed:
+    - code: 8ED-pack-dft-EBP
+      count: 3
+    # MISSING: bonus premium cards
+    variable: # This is a guess based on the description
+    - sealed:
+      - code: 8ED-deck-thm-ETDE
+      - code: 8ED-deck-thm-ETDHH
+    - sealed:
+      - code: 8ED-deck-thm-ETDE
+      - code: 8ED-deck-thm-ETDLB
+    - sealed:
+      - code: 8ED-deck-thm-ETDE
+      - code: 8ED-deck-thm-ETDSS
+    - sealed:
+      - code: 8ED-deck-thm-ETDE
+      - code: 8ED-deck-thm-ETDSS-1
+    - sealed:
+      - code: 8ED-deck-thm-ETDHH
+      - code: 8ED-deck-thm-ETDLB
+    - sealed:
+      - code: 8ED-deck-thm-ETDHH
+      - code: 8ED-deck-thm-ETDSS
+    - sealed:
+      - code: 8ED-deck-thm-ETDHH
+      - code: 8ED-deck-thm-ETDSS-1
+    - sealed:
+      - code: 8ED-deck-thm-ETDLB
+      - code: 8ED-deck-thm-ETDSS
+    - sealed:
+      - code: 8ED-deck-thm-ETDLB
+      - code: 8ED-deck-thm-ETDSS-1
+    - sealed:
+      - code: 8ED-deck-thm-ETDSS
+      - code: 8ED-deck-thm-ETDSS-1
   identifiers:
     tcgplayerProductId: '245974'
   name: 8th Edition Box Set
@@ -100,7 +150,7 @@
   uuid: 4ab797ab-73c7-53a9-a573-e9325b2d98c1
 - category: booster_pack
   code: 8ED-pack-dft-EDGBP
-  contents: []
+  contents: [] # MISSING: no information
   identifiers:
     tcgplayerProductId: '248192'
   name: 8th Edition Demo Game Booster Pack
@@ -111,7 +161,7 @@
   uuid: 15285c25-828b-57f5-9e68-3de2bd9952b6
 - category: booster_pack
   code: 8ED-pack-adv-EABP
-  contents: []
+  contents: [] # MISSING: no information
   identifiers:
     tcgplayerProductId: '248193'
   name: 8th Edition Advanced Booster Pack
