@@ -66,6 +66,8 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
 def build_product(contents, boosters, decks, sealed):
 	ready = True
 	pack = s_func.kit()
+	if isinstance(contents, list):
+	  return pack
 	for k in contents.keys():
 		if k not in ["deck", "pack", "sealed", "variable"]:
 			raise("Invalid product definition: {0}".format(k))
