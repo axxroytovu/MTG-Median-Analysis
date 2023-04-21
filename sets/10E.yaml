@@ -1,6 +1,9 @@
 - category: booster_box
   code: 10E-bbox-dft-EBB
-  contents: []
+  contents:
+    sealed:
+    - code: 10E-pack-dft-EBP
+      count: 36
   identifiers:
     tcgplayerProductId: '27257'
   name: 10th Edition Booster Box
@@ -12,7 +15,9 @@
   uuid: d5416468-cfd6-5b4b-9271-e3eb8a4ea4e2
 - category: booster_pack
   code: 10E-pack-dft-EBP
-  contents: []
+  contents:
+    pack:
+    - code: 10e
   identifiers:
     tcgplayerProductId: '27319'
   name: 10th Edition Booster Pack
@@ -23,7 +28,11 @@
   uuid: 93901433-1168-5b8e-bbdd-8056754565c3
 - category: bundle
   code: 10E-bndl-EFP
-  contents: []
+  contents:
+    sealed:
+    - code: 10E-pack-dft-EBP
+      count: 6
+    # MISSING: 40 card land pack
   identifiers:
     tcgplayerProductId: '78300'
   name: 10th Edition Fat Pack
@@ -34,7 +43,9 @@
   uuid: 6c25bad1-ac72-5e7b-bb29-602c3bf52c05
 - category: deck
   code: 10E-deck-thm-ETDKT
-  contents: []
+  contents:
+    deck:
+    - code: 10e-thm-kamah
   identifiers:
     tcgplayerProductId: '127425'
   name: 10th Edition Theme Deck Kamahls Temper
@@ -45,7 +56,9 @@
   uuid: 1aa6e48b-053e-5114-8ce7-8b93a3338b62
 - category: deck
   code: 10E-deck-thm-ETDCMR
-  contents: []
+  contents:
+    deck:
+    - code: 10e-thm-choma
   identifiers:
     tcgplayerProductId: '127426'
   name: 10th Edition Theme Deck Cho Mannos Resolve
@@ -56,7 +69,9 @@
   uuid: 1e139ea3-bc90-56d3-b3bd-b7cb0912d5ec
 - category: deck
   code: 10E-deck-thm-ETDAG
-  contents: []
+  contents:
+    deck:
+    - code: 10e-thm-arcan
   identifiers:
     tcgplayerProductId: '127427'
   name: 10th Edition Theme Deck Arcaniss Guile
@@ -67,7 +82,9 @@
   uuid: abbf2d4f-5ddb-5c33-830e-34ce5fdb4eb8
 - category: deck
   code: 10E-deck-thm-ETDET
-  contents: []
+  contents:
+    deck:
+    - code: 10e-thm-evinc
   identifiers:
     tcgplayerProductId: '127428'
   name: 10th Edition Theme Deck Evincars Tyranny
@@ -78,7 +95,9 @@
   uuid: 1b3c6710-d7a1-5b6a-8e08-ae4ee5ecf66c
 - category: deck
   code: 10E-deck-thm-ETDMM
-  contents: []
+  contents:
+    deck:
+    - code: 10e-thm-molim
   identifiers:
     tcgplayerProductId: '127429'
   name: 10th Edition Theme Deck Molimos Might

@@ -4,6 +4,7 @@
     sealed:
     - code: 8ED-pack-dft-EBP
       count: 36
+    # MISSING: box topper
   identifiers:
     tcgplayerProductId: '27259'
   name: 8th Edition Booster Box
@@ -106,7 +107,7 @@
   code: 8ED-bset-EBS
   contents:
     sealed:
-    - code: 8ED-pack-dft-EBP
+    - code: 8ED-pack-adv-EABP
       count: 3
     # MISSING: bonus premium cards
     variable: # This is a guess based on the description

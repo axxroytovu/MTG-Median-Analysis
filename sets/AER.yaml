@@ -1,6 +1,8 @@
 - category: booster_pack
   code: AER-pack-dft-ARBP
-  contents: []
+  contents:
+    pack:
+    - code: aer
   identifiers:
     tcgplayerProductId: '125793'
   name: Aether Revolt Booster Pack
@@ -11,7 +13,10 @@
   uuid: b32a55d0-c4f8-5c16-b1ab-66ab627a25a2
 - category: booster_box
   code: AER-bbox-dft-ARBB
-  contents: []
+  contents:
+    sealed:
+    - code: AER-pack-dft-ARBP
+      count: 36
   identifiers:
     tcgplayerProductId: '125794'
   name: Aether Revolt Booster Box
@@ -23,7 +28,10 @@
   uuid: 31ece7b3-d736-5eeb-a38f-df7cc6d5933d
 - category: case
   code: AER-case-ARBBC
-  contents: []
+  contents:
+    sealed:
+    - code: AER-bbox-dft-ARBB
+      count: 6
   identifiers:
     tcgplayerProductId: '125795'
   name: Aether Revolt Booster Box Case
@@ -34,7 +42,11 @@
   uuid: 8bbb5455-47b0-5593-90bb-106b9955ad35
 - category: bundle
   code: AER-bndl-ARB
-  contents: []
+  contents:
+    sealed:
+    - code: AER-pack-dft-ARBP
+      count: 10
+    # MISSING: 80 basic land pack
   identifiers:
     tcgplayerProductId: '125797'
   name: Aether Revolt Bundle
@@ -45,7 +57,12 @@
   uuid: 8f2ed953-52f3-5171-9ecd-90de3a262f63
 - category: deck
   code: AER-deck-plw-ARPDA
-  contents: []
+  contents:
+    deck:
+    - code: aer-plw-ajani
+    sealed:
+    - code: AER-pack-dft-ARBP
+      count: 2
   identifiers:
     tcgplayerProductId: '125798'
   name: Aether Revolt Planeswalker Deck Ajani
@@ -56,7 +73,12 @@
   uuid: 11685081-932b-588a-9a58-7b53632af9e4
 - category: deck
   code: AER-deck-plw-ARPDT
-  contents: []
+  contents:
+    deck:
+    - code: aer-plw-tezze
+    sealed:
+    - code: AER-pack-dft-ARBP
+      count: 2
   identifiers:
     tcgplayerProductId: '125799'
   name: Aether Revolt Planeswalker Deck Tezzeret
@@ -67,7 +89,10 @@
   uuid: 1f0ac974-90e0-5159-91ac-f067c316d32a
 - category: subset
   code: AER-sub-plw-ARPDS
-  contents: []
+  contents:
+    sealed:
+    - code: AER-deck-plw-ARPDT
+    - code: AER-deck-plw-ARPDA
   identifiers:
     tcgplayerProductId: '125800'
   name: Aether Revolt Planeswalker Deck Set of 2
@@ -78,7 +103,13 @@
   uuid: 9fff74de-ffcb-59dc-bc55-c8e2e8ac972e
 - category: prerelease_pack
   code: AER-pre-ARPP
-  contents: []
+  contents:
+    sealed:
+    - code: AER-pack-dft-ARBP
+      count: 4
+    - code: KLD-pack-dft-KBP
+      count: 2
+    # MISSING: prerelease promo
   identifiers:
     tcgplayerProductId: '127203'
   name: Aether Revolt Prerelease Pack

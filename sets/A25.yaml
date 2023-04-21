@@ -1,6 +1,9 @@
 - category: booster_box
   code: A25-bbox-dft-MBB
-  contents: []
+  contents:
+    sealed:
+    - code: A25-pack-dft-MBP
+      count: 24
   identifiers:
     tcgplayerProductId: '157857'
   name: Masters 25 Booster Box
@@ -12,7 +15,10 @@
   uuid: cdcbbf78-b06e-5bc3-b44d-43778583d197
 - category: case
   code: A25-case-MBBC
-  contents: []
+  contents:
+    sealed:
+    - code: A25-bbox-dft-MBB
+      count: 4 
   identifiers:
     tcgplayerProductId: '157860'
   name: Masters 25 Booster Box Case
@@ -23,7 +29,9 @@
   uuid: 5e0626dd-8a35-516c-8823-e1a6086b89a7
 - category: booster_pack
   code: A25-pack-dft-MBP
-  contents: []
+  contents:
+    pack:
+    - code: a25
   identifiers:
     tcgplayerProductId: '157861'
   name: Masters 25 Booster Pack
@@ -34,7 +42,10 @@
   uuid: 16798827-9c40-5e4d-b1a0-c0345a851262
 - category: draft_set
   code: A25-dft-dft-MBDP
-  contents: []
+  contents:
+    sealed:
+    - code: A25-pack-dft-MBP
+      count: 3
   identifiers:
     tcgplayerProductId: '161474'
   name: Masters 25 3 Booster Draft Pack
