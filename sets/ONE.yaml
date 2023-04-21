@@ -1,6 +1,8 @@
 - category: booster_pack
   code: ONE-pack-dft-PAWBODBP
-  contents: []
+  contents:
+    pack:
+    - code: one
   identifiers:
     tcgplayerProductId: '451868'
   name: Phyrexia All Will Be One Draft Booster Pack
@@ -11,7 +13,10 @@
   uuid: 79329b4c-afa2-5a5c-a81c-f361f93fa67d
 - category: booster_box
   code: ONE-bbox-dft-PAWBODBB
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-dft-PAWBODBP
+      count: 36
   identifiers:
     tcgplayerProductId: '451869'
   name: Phyrexia All Will Be One Draft Booster Box
@@ -23,7 +28,10 @@
   uuid: 68109344-4980-5a71-b760-8e7011808d80
 - category: case
   code: ONE-case-dft-PAWBODBBC
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-bbox-dft-PAWBODBB
+      count: 6
   identifiers:
     tcgplayerProductId: '451870'
   name: Phyrexia All Will Be One Draft Booster Box Case
@@ -34,7 +42,9 @@
   uuid: d50da0e9-49e6-5577-a7fb-5c0d6835f80d
 - category: booster_pack
   code: ONE-pack-set-PAWBOSBP
-  contents: []
+  contents:
+    pack:
+    - code: one-set
   identifiers:
     tcgplayerProductId: '451871'
   name: Phyrexia All Will Be One Set Booster Pack
@@ -45,7 +55,10 @@
   uuid: 0db8ec71-b700-5355-913d-285f11687911
 - category: booster_box
   code: ONE-bbox-set-PAWBOSBD
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-set-PAWBOSBP
+      count: 30
   identifiers:
     tcgplayerProductId: '451872'
   name: Phyrexia All Will Be One Set Booster Display
@@ -57,7 +70,10 @@
   uuid: e00dd785-000b-52f5-8eac-949670dea569
 - category: case
   code: ONE-case-PAWBOSBDC
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-bbox-set-PAWBOSBD
+      count: 6
   identifiers:
     tcgplayerProductId: '451873'
   name: Phyrexia All Will Be One Set Booster Display Case
@@ -68,7 +84,12 @@
   uuid: d96d13cc-4bae-5a4f-8d76-a2509eadf5af
 - category: bundle
   code: ONE-bndl-PAWBOCB
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-set-PAWBOSBP
+      count: 12
+    # MISSING: compleat booster
+    # MISSING: land pack & promo card
   identifiers:
     tcgplayerProductId: '451874'
   name: Phyrexia All Will Be One Compleat Bundle
@@ -79,7 +100,38 @@
   uuid: 9825ca23-52e7-5928-832d-642368ac833c
 - category: booster_pack
   code: ONE-pack-jmp-PAWBOJBP
-  contents: []
+  contents:
+    variable:
+    - variable:
+      - deck:
+        - code: one-jmp-corru
+      - deck:
+        - code: one-jmp-corru-2
+      # MISSING: black rare/mythic
+    - variable:
+      - deck:
+        - code: one-jmp-mitey
+      - deck:
+        - code: one-jmp-mitey-2
+      # MISSING: white rare/mythic
+    - variable:
+      - deck:
+        - code: one-jmp-progr
+      - deck:
+        - code: one-jmp-progr-2
+      # MISSING: blue rare/mythic
+    - variable:
+      - deck:
+        - code: one-jmp-rebel
+      - deck:
+        - code: one-jmp-rebel-2
+      # MISSING: red rare/mythic
+    - variable:
+      - deck:
+        - code: one-jmp-toxic
+      - deck:
+        - code: one-jmp-toxic-2
+      # MISSING: green rare/mythic
   identifiers:
     tcgplayerProductId: '451875'
   name: Phyrexia All Will Be One Jumpstart Booster Pack
@@ -90,7 +142,10 @@
   uuid: b9be2d80-4b30-5970-8953-252549751ddb
 - category: booster_box
   code: ONE-bbox-jmp-PAWBOJBD
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-jmp-PAWBOJBP
+      count: 18
   identifiers:
     tcgplayerProductId: '451876'
   name: Phyrexia All Will Be One Jumpstart Booster Display
@@ -102,7 +157,11 @@
   uuid: 96904b81-f133-52bd-bcc1-0ad42fac475f
 - category: bundle
   code: ONE-bndl-PAWBOB
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-set-PAWBOSBP
+      count: 8
+    # MISSING: land pack and promo card
   identifiers:
     tcgplayerProductId: '451877'
   name: Phyrexia All Will Be One Bundle
@@ -113,7 +172,10 @@
   uuid: 3f6005aa-7643-5790-83e1-f50c49c7b725
 - category: case
   code: ONE-case-PAWBOBC
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-bndl-PAWBOB
+      count: 6
   identifiers:
     tcgplayerProductId: '451878'
   name: Phyrexia All Will Be One Bundle Case
@@ -124,7 +186,9 @@
   uuid: 5280c1f5-8d88-56fa-9531-bc27517fa5ec
 - category: booster_pack
   code: ONE-pack-col-PAWBOCBP
-  contents: []
+  contents:
+    pack:
+    - code: one-collector
   identifiers:
     tcgplayerProductId: '451879'
   name: Phyrexia All Will Be One Collector Booster Pack
@@ -135,7 +199,10 @@
   uuid: adc337bb-f85e-51c8-be52-b1d69d19893a
 - category: booster_box
   code: ONE-bbox-col-PAWBOCBD
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-col-PAWBOCBP
+      count: 12
   identifiers:
     tcgplayerProductId: '451880'
   name: Phyrexia All Will Be One Collector Booster Display
@@ -147,7 +214,10 @@
   uuid: 7c41fec8-81bf-5e73-aa1c-8429ac83cd8c
 - category: case
   code: ONE-case-col-PAWBOCBDC
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-bbox-col-PAWBOCBD
+      count: 6
   identifiers:
     tcgplayerProductId: '451881'
   name: Phyrexia All Will Be One Collector Booster Display Case
@@ -158,7 +228,11 @@
   uuid: 2418da77-bc6b-5a09-a668-32f6c205d0f1
 - category: prerelease_pack
   code: ONE-pre-PAWBOPP
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-pack-dft-PAWBODBP
+      count: 6
+    # MISSING: promo card
   identifiers:
     tcgplayerProductId: '475570'
   name: Phyrexia All Will Be One Prerelease Pack
@@ -169,7 +243,10 @@
   uuid: 8b2c8f4e-a0d1-5066-986b-e10b0ff2a2bc
 - category: case
   code: ONE-case-PAWBOCBC
-  contents: []
+  contents:
+    sealed:
+    - code: ONE-bndl-PAWBOCB
+      count: 6
   identifiers:
     tcgplayerProductId: '478805'
   name: Phyrexia All Will Be One Compleat Bundle Case

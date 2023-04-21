@@ -2,7 +2,7 @@
   code: 5DN-bbox-dft-FDBB
   contents:
     sealed:
-    - code: 5DN-pack-dft-FDB
+    - code: 5DN-pack-dft-FDBP
       count: 36
   identifiers:
     tcgplayerProductId: '27277'

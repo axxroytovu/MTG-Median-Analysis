@@ -66,6 +66,9 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
 def build_product(contents, boosters, decks, sealed):
 	ready = True
 	pack = s_func.kit()
+	for k in contents.keys():
+		if k not in ["deck", "pack", "sealed", "variable"]:
+			raise("Invalid product definition: {0}".format(k))
 	if "deck" in contents:
 		for d in contents["deck"]:
 			for i in range(d.get("count", 1)):
@@ -157,9 +160,9 @@ if len(products) > len(sealed):
 
 
 print("products")
-for k, v in sealed.items():
-	if v.mean > 0:
-		print(k, v.summary())
+for p in products:
+	if sealed[p["code"]].mean > 0:
+		print(p["name"], sealed[p["code"]].summary())
 
 
 if performance_meter:

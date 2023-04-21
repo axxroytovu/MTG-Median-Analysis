@@ -1,6 +1,8 @@
 - category: commander_deck
   code: AFC-cmr-AFRDRCD
-  contents: []
+  contents:
+    deck:
+    - code: afc-cmr-draco
   identifiers:
     tcgplayerProductId: '238754'
   name: Adventures in the Forgotten Realms Draconic Rage Commander Deck
@@ -11,7 +13,9 @@
   uuid: dabbb9ef-3446-55a2-9f46-488d73c87125
 - category: commander_deck
   code: AFC-cmr-AFRPPCD
-  contents: []
+  contents:
+    deck:
+    - code: afc-cmr-plana
   identifiers:
     tcgplayerProductId: '238755'
   name: Adventures in the Forgotten Realms Planar Portal Commander Deck
@@ -22,7 +26,9 @@
   uuid: b0edf9c6-18bd-508a-a4ae-5b0f489a55a4
 - category: commander_deck
   code: AFC-cmr-AFRDDCD
-  contents: []
+  contents:
+    deck:
+    - code: afc-cmr-dunge
   identifiers:
     tcgplayerProductId: '238757'
   name: Adventures in the Forgotten Realms Dungeons of Death Commander Deck
@@ -33,7 +39,9 @@
   uuid: bff70067-7279-5764-93f8-ba5a2c971539
 - category: commander_deck
   code: AFC-cmr-AFRACCD
-  contents: []
+  contents:
+    deck:
+    - code: afc-cmr-aurao
   identifiers:
     tcgplayerProductId: '238759'
   name: Adventures in the Forgotten Realms Aura of Courage Commander Deck
@@ -44,7 +52,12 @@
   uuid: c90c5b01-4fd3-5269-8a88-81b80b760b29
 - category: commander_deck
   code: AFC-cmr-AFRCDD
-  contents: []
+  contents:
+    sealed:
+    - code: AFC-cmr-AFRDRCD
+    - code: AFC-cmr-AFRPPCD
+    - code: AFC-cmr-AFRDDCD
+    - code: AFC-cmr-AFRACCD
   identifiers:
     tcgplayerProductId: '238784'
   name: Adventures in the Forgotten Realms Commander Deck Display
