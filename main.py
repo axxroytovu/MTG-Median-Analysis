@@ -104,7 +104,7 @@ def build_product(contents, boosters, decks, sealed):
 		return False
 	
 
-priceJson = s_func.get_price_data("json/AllPrices.json")
+priceJson = s_func.get_price_data("mtgJson/AllPrices.json")
 
 boosters = {}
 decks = {}

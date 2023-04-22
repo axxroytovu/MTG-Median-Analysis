@@ -104,39 +104,44 @@
   code: ONE-pack-jmp-PAWBOJBP
   contents:
     variable:
-    - variable:
-      - deck:
-        - code: one-jmp-corru
-      - deck:
-        - code: one-jmp-corru-2
+    - deck:
+      - code: one-jmp-corru
       pack:
       - code: one-jmpb
-    - variable:
-      - deck:
-        - code: one-jmp-mitey
-      - deck:
-        - code: one-jmp-mitey-2
+    - deck:
+      - code: one-jmp-corru-2
+      pack:
+      - code: one-jmpb
+    - deck:
+      - code: one-jmp-mitey
       pack:
       - code: one-jmpw
-    - variable:
-      - deck:
-        - code: one-jmp-progr
-      - deck:
-        - code: one-jmp-progr-2
+    - deck:
+      - code: one-jmp-mitey-2
+      pack:
+      - code: one-jmpw
+    - deck:
+      - code: one-jmp-progr
       pack:
       - code: one-jmpu
-    - variable:
-      - deck:
-        - code: one-jmp-rebel
-      - deck:
-        - code: one-jmp-rebel-2
+    - deck:
+      - code: one-jmp-progr-2
+      pack:
+      - code: one-jmpu
+    - deck:
+      - code: one-jmp-rebel
       pack:
       - code: one-jmpr
-    - variable:
-      - deck:
-        - code: one-jmp-toxic
-      - deck:
-        - code: one-jmp-toxic-2
+    - deck:
+      - code: one-jmp-rebel-2
+      pack:
+      - code: one-jmpr
+    - deck:
+      - code: one-jmp-toxic
+      pack:
+      - code: one-jmpg
+    - deck:
+      - code: one-jmp-toxic-2
       pack:
       - code: one-jmpg
   identifiers:
