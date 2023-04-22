@@ -88,8 +88,10 @@
     sealed:
     - code: ONE-pack-set-PAWBOSBP
       count: 12
-    # MISSING: compleat booster
-    # MISSING: land pack & promo card
+    pack:
+    - code: one-compleat
+    deck:
+    - code: one-bndl-compl
   identifiers:
     tcgplayerProductId: '451874'
   name: Phyrexia All Will Be One Compleat Bundle
@@ -107,31 +109,36 @@
         - code: one-jmp-corru
       - deck:
         - code: one-jmp-corru-2
-      # MISSING: black rare/mythic
+      pack:
+      - code: one-jmpb
     - variable:
       - deck:
         - code: one-jmp-mitey
       - deck:
         - code: one-jmp-mitey-2
-      # MISSING: white rare/mythic
+      pack:
+      - code: one-jmpw
     - variable:
       - deck:
         - code: one-jmp-progr
       - deck:
         - code: one-jmp-progr-2
-      # MISSING: blue rare/mythic
+      pack:
+      - code: one-jmpu
     - variable:
       - deck:
         - code: one-jmp-rebel
       - deck:
         - code: one-jmp-rebel-2
-      # MISSING: red rare/mythic
+      pack:
+      - code: one-jmpr
     - variable:
       - deck:
         - code: one-jmp-toxic
       - deck:
         - code: one-jmp-toxic-2
-      # MISSING: green rare/mythic
+      pack:
+      - code: one-jmpg
   identifiers:
     tcgplayerProductId: '451875'
   name: Phyrexia All Will Be One Jumpstart Booster Pack
@@ -161,7 +168,8 @@
     sealed:
     - code: ONE-pack-set-PAWBOSBP
       count: 8
-    # MISSING: land pack and promo card
+    deck:
+    - code: one-bndl-bundl
   identifiers:
     tcgplayerProductId: '451877'
   name: Phyrexia All Will Be One Bundle
@@ -232,7 +240,8 @@
     sealed:
     - code: ONE-pack-dft-PAWBODBP
       count: 6
-    # MISSING: promo card
+    pack:
+    - code: pone-prerelease
   identifiers:
     tcgplayerProductId: '475570'
   name: Phyrexia All Will Be One Prerelease Pack
