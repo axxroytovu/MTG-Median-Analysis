@@ -4,10 +4,13 @@ import time
 import tracemalloc
 import booster_factory as b_f
 import deck_factory as d_f
-from glob import glob
+#from glob import glob
+from pathlib import Path
 from tqdm import tqdm
 import ijson
+import json
 import yaml
+import os
 
 performance_meter = False
 
@@ -63,48 +66,68 @@ def create_boxplots(seal, typ, filt=False, sort=False, norm=True, yscale="log"):
     plt.grid()
     plt.tight_layout()
 
-def build_product(contents, boosters, decks, sealed):
-	ready = True
-	pack = s_func.kit()
-	if isinstance(contents, list):
-	  return pack
-	for k in contents.keys():
-		if k not in ["deck", "pack", "sealed", "variable"]:
-			raise("Invalid product definition: {0}".format(k))
-	if "deck" in contents:
-		for d in contents["deck"]:
-			for i in range(d.get("count", 1)):
-				pack.merge_kit(decks[d["code"]])
-	if "pack" in contents:
-		for p in contents["pack"]:
-			for i in range(p.get("count", 1)):
-				pack.merge_kit(boosters[p["code"]])
-	if "sealed" in contents:
-		for s in contents["sealed"]:
-			if s["code"] not in sealed:
-				ready = False
-				break
-			for i in range(s.get("count", 1)):
-				pack.merge_kit(sealed[s["code"]])
-	if "variable" in contents:
-		p2 = s_func.kit()
-		for version in contents["variable"]:
-			pack = build_product(version, boosters, decks, sealed)
-			if pack:
-				p2.add_set(pack, version.get("count", 1))
-			else:
-				ready = False
-				break
-		p2.normalize()
-		pack.merge_kit(p2)
-	pack.normalize()
-	if ready:
-		return pack
-	else:
-		return False
-	
+def build_product(contents, boosters, decks, sealed, cards):
+    ready = True
+    pack = s_func.kit()
+    if isinstance(contents, list):
+      return pack
+    for k in contents.keys():
+        if k not in ["deck", "pack", "sealed", "variable", "other", "card"]:
+            with open("log.log", 'a') as f:
+                f.write("Invalid product definition: {0}\n".format(k))
+                return pack
+    for d in contents.get("deck", []):
+        for i in range(d.get("count", 1)):
+            try:
+                pack.merge_kit(decks[d["set"]][d["name"]])
+            except KeyError:
+                with open("log.log", 'a') as f:
+                    f.write("Invalid deck identifier {0}/{1}\n".format(d["set"], d["name"]))
+    for p in contents.get("pack", []):
+        for i in range(p.get("count", 1)):
+            try:
+                pack.merge_kit(boosters[p["set"]][p["code"]])
+            except KeyError:
+                with open("log.log", "a") as f:
+                    f.write("Invalid pack identifier {0}/{1}\n".format(p["set"], p["code"]))
+    for s in contents.get("sealed", []):
+        if s["uuid"] not in sealed:
+            ready = False
+            break
+        for i in range(s.get("count", 1)):
+            pack.merge_kit(sealed[s["uuid"]])
+    for c in contents.get("card", []):
+        cpack = s_func.kit()
+        foiling = "foil" if c["foil"] else "normal"
+        try:
+            cpack.add_card(cards.get(c["uuid"], {}).get(foiling, 0))
+        except KeyError:
+            with open("log.log", "a") as f:
+                f.write("Card {0}/{1} missing uuid\n".format(c["set"], c["name"]))
+        pack.merge_kit(cpack)
+    p2 = s_func.kit()
+    for version in contents.get("variable", []):
+        pack = build_product(version, boosters, decks, sealed, cards)
+        if pack:
+            p2.add_set(pack, version.get("count", 1))
+        else:
+            ready = False
+            break
+    p2.normalize()
+    pack.merge_kit(p2)
+    pack.normalize()
+    if ready:
+        return pack
+    else:
+        return False
+    
 
 priceJson = s_func.get_price_data("mtgJson/AllPrices.json")
+
+setFolder = Path("mtgJson/AllSetFiles")
+nSets = len(os.listdir(setFolder))
+deckFolder = Path("mtgJson/AllDeckFiles")
+nDecks = len(os.listdir(deckFolder))
 
 boosters = {}
 decks = {}
@@ -112,59 +135,64 @@ sealed = {}
 products = []
 
 # Build packs
-with open("json/sealed_extended_data.json", "rb") as f:
-    all_boosters = list(ijson.items(f, "item"))
-    booster_tqdm = tqdm(all_boosters)
-    booster_tqdm.set_description("Building booster packs")
-    for full_config in booster_tqdm:
-        type_code = full_config.get("code")
-        if "arena" in type_code:
-            continue
-        booster = b_f.build_booster(full_config, priceJson)
-        boosters[full_config["code"]] = booster
-    booster_tqdm.close()
-    del(booster_tqdm)
+for setFile in tqdm(setFolder.glob("*.json"), desc="Boosters", position=0, total=nSets):
+    setCode = setFile.stem.lower()
+    if setCode == "con_":
+        setCode = "con"
+    with open(setFile, 'rb') as f:
+        allBoosters = dict(ijson.kvitems(f, "data.booster"))
+    if allBoosters:
+        boosters[setCode] = {}
+        for typeCode, boosterPack in tqdm(allBoosters.items(), desc=" "+setCode, position=1, leave=False):
+            if "arena" in typeCode:
+                continue
+            boosters[setCode][typeCode] = b_f.build_booster(boosterPack, priceJson)
 
 # Build decks
-with open("json/decks.json", "rb") as f:
-	all_decks = list(ijson.items(f, "item"))
-	deck_tqdm = tqdm(all_decks)
-	deck_tqdm.set_description("Building fixed decks")
-	for config in deck_tqdm:
-		deck = d_f.build_deck(config, priceJson)
-		decks[config["code"]] = deck
-	deck_tqdm.close()
-	del(deck_tqdm)
+for deckFile in tqdm(deckFolder.glob("*.json"), desc="Decks", position=0, total=nDecks):
+    with open(deckFile, 'rb') as f:
+        deckData = json.load(f)
+    setCode = deckData["data"]["code"].lower()
+    if setCode not in decks:
+        decks[setCode] = {}
+    name = deckData["data"]["name"]
+    decks[setCode][name] = d_f.build_deck(deckData["data"], priceJson)
 
 # Load products
-for file in glob("sets/*.yaml"):
-	with open(file, 'rb') as f:
-		products.extend(yaml.safe_load(f))
+for setFile in tqdm(setFolder.glob("*.json"), desc="Load Products", position=0, total=nSets):
+    setCode = setFile.stem.lower()
+    if setCode == "con_":
+        setCode = "con"
+    with open(setFile, 'rb') as f:
+        cleanedProducts = [{**d, "set": setCode} for d in ijson.items(f, "data.sealedProduct.item")]
+    products.extend(cleanedProducts)
 
 # Build products
 for i in range(3):
-	t = tqdm(products)
-	t.set_description("Building sealed - pass {0}".format(i+1))
-	for obj in t:
-		if obj["code"] in sealed:
-			continue
-		pack = build_product(obj["contents"], boosters, decks, sealed)
-		if pack:
-			sealed[obj["code"]] = pack
-	t.close()
-	del(t)
+    t = tqdm(products, desc=f"Sealed - pass {i+1}")
+    for obj in t:
+        if obj["uuid"] in sealed:
+            continue
+        if "contents" not in obj:
+            sealed[obj["uuid"]] = s_func.kit()
+            continue
+        pack = build_product(obj["contents"], boosters, decks, sealed, priceJson)
+        if pack:
+            sealed[obj["uuid"]] = pack
+    t.close()
+    del(t)
 
 if len(products) > len(sealed):
-	print("Missing products:")
-	for p in products:
-		if p["code"] not in sealed:
-			print(p["name"])
+    print("Missing products:")
+    for p in products:
+        if p["uuid"] not in sealed:
+            print(p["name"])
 
 
 print("products")
 for p in products:
-	if sealed[p["code"]].mean > 0:
-		print(p["name"], sealed[p["code"]].summary())
+    if sealed[p["uuid"]].mean > 0:
+        print(p["name"], sealed[p["uuid"]].summary())
 
 
 if performance_meter:
