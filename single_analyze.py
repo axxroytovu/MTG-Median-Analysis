@@ -24,10 +24,11 @@ def chart_sheet(sheet, prices, threshold=False):
             print(data[i])
 
 def main():
-    with open("mtgJson/sealed_extended_data.json", 'rb') as boosterdata:
-        booster_data = json.load(boosterdata)
+    sealed_url = "https://raw.githubusercontent.com/taw/magic-sealed-data/master/sealed_extended_data.json"
+    booster_req = requests.get(sealed_url)
+    booster_data = json.loads(booster_req.content)
     
-    analyze_code = 'woe-set'
+    analyze_code = 'lci-set'
     
     prices_url = "https://mtgjson.com/api/v5/AllPricesToday.json"
     prices_req = requests.get(prices_url)
