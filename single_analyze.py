@@ -28,7 +28,7 @@ def main():
     booster_req = requests.get(sealed_url)
     booster_data = json.loads(booster_req.content)
     
-    analyze_code = 'lci-set'
+    analyze_code = 'unf'
     
     prices_url = "https://mtgjson.com/api/v5/AllPricesToday.json"
     prices_req = requests.get(prices_url)

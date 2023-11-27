@@ -8,15 +8,15 @@ def main():
     booster_req = requests.get(sealed_url)
     booster_data = json.loads(booster_req.content)
     
-    analyze_code = 'lci-set'
+    analyze_code = 'unf'
     
-    all_cards = pd.read_csv(r"/Users/samzimmerman/Downloads/AllPrintingsCSVFiles/cards.csv")
+    all_cards = pd.read_csv(r"C:\Users\axxro\Downloads\cards (3).csv")
     all_cards['card_id'] = all_cards["setCode"].str.lower() + ":" + all_cards["number"].str.lower()
     all_cards.set_index("card_id", inplace=True)
     all_cards = all_cards[~all_cards.index.duplicated()]
     # print(all_cards)
     
-    master = pd.DataFrame(columns=["card_id", "name", "foil", "category", 'rarity'])
+    master = pd.DataFrame(columns=["card_id", 'link_id', "name", "foil", "category", 'rarity'])
     
     sheets = {}
     
@@ -28,22 +28,26 @@ def main():
             print(s_name)
             cards = pd.DataFrame.from_records(sheet["cards"])
             cards["card_id"] = cards["set"] + ":" + cards["number"]
-            cards["link_id"] = cards["set"] + ":" + cards["number"].str.replace(r'[a-z]', '')
+            cards["link_id"] = cards["set"] + ":" + cards["number"].str.replace(r'[a-z]', '', regex=True)
             cards["probability"] = cards["weight"] / sheet["total_weight"]
-            mult_cards = cards.join(all_cards, "link_id", "left", rsuffix="2")
+            mult_cards = cards.join(all_cards, "link_id", "inner", rsuffix="2")
+            pt2 = cards.join(all_cards, "card_id", "inner", rsuffix="2")
+            mult_cards = pd.concat([mult_cards, pt2[~pt2["card_id"].isin(mult_cards["card_id"])]], ignore_index=True)
             mult_cards.loc[mult_cards['frameEffects'].str.contains("showcase", na=False), "category"] = "showcase"
             mult_cards.loc[(mult_cards['frameEffects'].str.contains("extendedart", na=False)) & (mult_cards['category'] == ""), "category"] = "extended"
             mult_cards.loc[(mult_cards['borderColor'].str.contains("borderless", na=False)), "category"] = "borderless"
             mult_cards.loc[mult_cards['setCode'] == "REX", "category"] = "jurassic world"
             mult_cards.loc[mult_cards['setCode'] == "SPG", "category"] = "special guest"
             mult_cards.loc[mult_cards['setCode'] == "PLIST", "category"] = "the list"
+            mult_cards.loc[mult_cards['promoTypes'].str.contains("galaxyfoil", na=False), "category"] = "galaxy"
             #print(mult_cards['category'].tolist())
             mult_cards['category'] = mult_cards['category'].fillna('none')
+            mult_cards['rarity'] = mult_cards['rarity'].fillna('none')
             #master.extend(cards["card_id"])
             pivot_rarity = pd.pivot_table(mult_cards, values="probability", index="rarity", aggfunc="sum")
             pivot_cat = pd.pivot_table(mult_cards, values="probability", index="category", aggfunc="sum")
-            mult_cards = mult_cards[['card_id', 'name', 'foil', 'category', 'rarity', 'probability']]
-            master = master.merge(mult_cards, on=["card_id", "name", "foil", "category", 'rarity'], how="outer", suffixes=("", s_name))
+            mult_cards = mult_cards[['card_id', 'link_id', 'name', 'foil', 'category', 'rarity', 'probability']]
+            master = master.merge(mult_cards, on=["card_id", 'link_id', "name", "foil", "category", 'rarity'], how="outer", suffixes=("", s_name))
             if "probability" in master.columns:
                 master["probability"+s_name] = master["probability"]
                 master.drop("probability", axis=1, inplace=True)
@@ -71,7 +75,7 @@ def main():
         master["probability"] += master["probability"+n].fillna(0) * sheets[n]
     pivot_rarity = pd.pivot_table(master, values="probability", index="rarity", aggfunc="sum")
     pivot_cat = pd.pivot_table(master, values="probability", index="category", aggfunc="sum")
-    master = master[['card_id', 'name', 'foil', 'category', 'rarity', 'probability']]
+    master = master[['card_id', 'link_id', 'name', 'foil', 'category', 'rarity', 'probability']]
     master.to_csv("build/master.csv")
     pivot_rarity.to_csv("build/master_rarity.csv")
     pivot_cat.to_csv("build/master_cat.csv")
